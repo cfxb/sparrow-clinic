@@ -1,0 +1,11 @@
+{% if include.url %}
+<div class="video-embed">
+  <iframe src="{{ include.url }}"
+          allowfullscreen
+          loading="lazy"
+          title="{{ include.title | default: 'Video' }}">
+  </iframe>
+</div>
+{% else %}
+<p><em>Video embed URL needed — update the <code>url</code> parameter in this include.</em></p>
+{% endif %}

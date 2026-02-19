@@ -1,0 +1,28 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="site-footer__inner">
+      <div>
+        <h3 class="site-footer__heading">{{ site.data.contact.name }}</h3>
+        <div class="site-footer__contact">
+          <p>{{ site.data.contact.address }}</p>
+          <p>{{ site.data.contact.city }}, {{ site.data.contact.province }} {{ site.data.contact.postal }}</p>
+        </div>
+      </div>
+      <div>
+        <h3 class="site-footer__heading">Get in touch</h3>
+        <div class="site-footer__contact">
+          <p>Phone: <a href="tel:{{ site.data.contact.phone_link }}">{{ site.data.contact.phone }}</a></p>
+          <p>Fax: {{ site.data.contact.fax }}</p>
+          <p>Email: <a href="mailto:{{ site.data.contact.email }}?subject=Assessment%20enquiry">{{ site.data.contact.email }}</a></p>
+        </div>
+        <div class="mt-2">
+          {% include cta-phone.html %}
+        </div>
+      </div>
+    </div>
+    <div class="site-footer__bottom">
+      <span>&copy; {{ 'now' | date: "%Y" }} {{ site.data.contact.name }}</span>
+      <a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a>
+    </div>
+  </div>
+</footer>

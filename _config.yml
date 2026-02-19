@@ -1,0 +1,31 @@
+title: Sparrow Neuropsychology
+description: >-
+  Personalized neuropsychological assessment in Vancouver, BC.
+  Dr. Christopher Benjamin provides evidence-based cognitive evaluations
+  for adults with brain injuries, memory concerns, and neurological conditions.
+url: ""
+baseurl: ""
+
+markdown: kramdown
+permalink: /:title/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+      image: /assets/images/og-default.jpg
+
+sass:
+  sass_dir: _sass
+  style: compressed

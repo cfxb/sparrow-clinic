@@ -1,0 +1,59 @@
+- name: BC Children's Hospital
+  authority: Provincial Health Services Authority
+  phone: (604) 875-2345
+  url: https://www.bcchildrens.ca/our-services/your-visit/during-your-visit/your-information
+
+- name: BC Women's Hospital
+  authority: Provincial Health Services Authority
+  phone: (604) 875-2424
+  url: https://www.bcwomens.ca/your-visit/on-site-information/protecting-your-privacy-personal-information
+
+- name: Burnaby Hospital
+  authority: Fraser Health
+  phone: (604) 434-4211
+  url: https://www.fraserhealth.ca/patients-and-visitors/request-a-health-record
+
+- name: Delta Hospital
+  authority: Fraser Health
+  phone: (604) 946-1121
+  url: https://www.fraserhealth.ca/patients-and-visitors/request-a-health-record
+
+- name: Lions Gate Hospital
+  authority: Vancouver Coastal Health
+  phone: (604) 988-3131
+  url: https://www.vch.ca/en/patients-and-visitors/health-records-and-privacy/request-health-record
+
+- name: Richmond Hospital
+  authority: Vancouver Coastal Health
+  phone: (604) 278-9711
+  url: https://www.vch.ca/en/patients-and-visitors/health-records-and-privacy/request-health-record
+
+- name: Royal Columbian Hospital
+  authority: Fraser Health
+  phone: (604) 520-4253
+  url: https://www.fraserhealth.ca/patients-and-visitors/request-a-health-record
+
+- name: Surrey Memorial Hospital
+  authority: Fraser Health
+  phone: (604) 581-2211
+  url: https://www.fraserhealth.ca/patients-and-visitors/request-a-health-record
+
+- name: Vancouver General Hospital
+  authority: Vancouver Coastal Health
+  phone: (604) 875-4111
+  url: https://www.vch.ca/en/patients-and-visitors/health-records-and-privacy/request-health-record
+
+- name: Victoria General Hospital
+  authority: Island Health
+  phone: (250) 727-4212
+  url: https://www.islandhealth.ca/about-us/accountability/information-stewardship-access-privacy/accessing-information-records
+
+- name: Royal Jubilee Hospital
+  authority: Island Health
+  phone: (250) 370-8000
+  url: https://www.islandhealth.ca/about-us/accountability/information-stewardship-access-privacy/accessing-information-records
+
+- name: Nanaimo Regional General Hospital
+  authority: Island Health
+  phone: (250) 755-7691
+  url: https://www.islandhealth.ca/about-us/accountability/information-stewardship-access-privacy/accessing-information-records

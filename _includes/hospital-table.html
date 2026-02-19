@@ -1,0 +1,22 @@
+<div class="table-wrap">
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Hospital</th>
+        <th>Health Authority</th>
+        <th>Phone</th>
+        <th>Website</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for h in site.data.hospitals %}
+      <tr>
+        <td>{{ h.name }}</td>
+        <td>{{ h.authority }}</td>
+        <td>{{ h.phone }}</td>
+        <td><a href="{{ h.url }}" target="_blank" rel="noopener">Request records</a></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>

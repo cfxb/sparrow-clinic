@@ -30,8 +30,6 @@ Our clinic serves English-speaking adults. To refer a patient, please download a
   <a href="{{ '/assets/files/referral-form.pdf' | relative_url }}" class="btn btn--outline btn--sm">Download referral form (PDF)</a>
 </div>
 
-<!-- TODO: Drop your referral form files into assets/files/ -->
-
 Submit completed referrals by:
 
 - **Fax:** {{ site.data.contact.fax }}

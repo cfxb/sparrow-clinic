@@ -40,4 +40,4 @@ Dr. Benjamin has completed extensive research into the use of neuropsychology an
 
 ## Professional involvement
 
-Dr. Benjamin has served in multiple professional organizations, most recnetly as a co-chair of the International Neuropsychological Society's Epilepsy Special Interest Group.
+Dr. Benjamin has served in multiple professional organizations, most recently as a co-chair of the International Neuropsychological Society's Epilepsy Special Interest Group.

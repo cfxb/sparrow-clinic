@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% if page.hero_title %}
+  {% include hero.html
+     title=page.hero_title
+     subtitle=page.hero_subtitle
+     image=page.hero_image
+     cta=page.hero_cta %}
+{% endif %}
+
+<div class="section">
+  <div class="container{% if page.narrow %} container--narrow{% endif %} page-content">
+    {{ content }}
+  </div>
+</div>

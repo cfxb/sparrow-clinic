@@ -1,0 +1,50 @@
+.hero {
+  background: $color-bg-dark;
+  color: $color-primary;
+  text-align: center;
+  padding: 4rem $spacing;
+  position: relative;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center 40%;
+
+  @media (min-width: $bp-md) {
+    padding: 6rem $spacing;
+  }
+}
+
+.hero--overlay {
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0);
+  }
+}
+
+.hero__content {
+  position: relative;
+  z-index: 1;
+  max-width: $container-narrow;
+  margin: 0 auto;
+}
+
+.hero__title {
+  color: $color-primary;
+  font-size: 2rem;
+  margin-bottom: 0.75rem;
+
+  @media (min-width: $bp-md) {
+    font-size: 2.75rem;
+  }
+}
+
+.hero__subtitle {
+  font-size: 1.15rem;
+  opacity: 0.9;
+  margin-bottom: 1.5rem;
+
+  @media (min-width: $bp-md) {
+    font-size: 1.35rem;
+  }
+}

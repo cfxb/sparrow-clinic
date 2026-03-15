@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+{% include hero.html
+   title=page.hero_title
+   subtitle=page.hero_subtitle
+   image=page.hero_image
+   cta=true %}
+
+<div class="section">
+  <div class="container page-content">
+    {{ content }}
+  </div>
+</div>
+
+<div class="section section--alt">
+  <div class="container">
+    <h2 class="section__heading">Areas of practice</h2>
+    <div class="grid grid--3">
+      {% for service in site.data.services %}
+      <div class="card">
+        <h3 class="card__title">{{ service.title }}</h3>
+        <p class="card__text">{{ service.description }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="container">
+    <h2 class="section__heading">Credentials</h2>
+    <ul class="credentials">
+      <li>Licensed psychologist in Canada (BC #4057) and the United States (CT #8423)</li>
+      <li>Clinical neuropsychologist at Vancouver General Hospital</li>
+      <li>Associate Professor at Yale University</li>
+      <li>Over 20 years' clinical, research, and teaching experience</li>
+    </ul>
+    <div class="text-center mt-4">
+      {% include cta-phone.html %}
+    </div>
+  </div>
+</div>

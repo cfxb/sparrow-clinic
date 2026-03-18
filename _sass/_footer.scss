@@ -1,20 +1,23 @@
 .site-footer {
-  background: $color-bg-dark;
-  color: rgba(#fff, 0.85);
-  padding: 3rem 0 1.5rem;
+  border-top: 1px solid $border;
+  background: $bg;
+  padding: 2.5rem 0 1.5rem;
+  font-family: $mono;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  color: $text-muted;
 
-  a {
-    color: rgba(#fff, 0.85);
-
-    &:hover {
-      color: #fff;
-    }
+  a:not(.btn) {
+    color: $text-muted;
+    text-decoration: none;
+    &:hover { color: $accent; }
   }
 }
 
 .site-footer__inner {
   display: grid;
   gap: 2rem;
+  margin-bottom: 2rem;
 
   @media (min-width: $bp-md) {
     grid-template-columns: 1fr 1fr;
@@ -22,32 +25,25 @@
 }
 
 .site-footer__heading {
-  color: #fff;
-  font-size: 1.1rem;
+  font-family: $sans;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: $text-dim;
   margin-bottom: 0.75rem;
+  text-transform: none;
 }
 
 .site-footer__contact p {
   margin-bottom: 0.35rem;
-  font-size: 0.95rem;
+  font-size: 0.72rem;
 }
 
 .site-footer__bottom {
-  margin-top: 2.5rem;
   padding-top: 1.25rem;
-  border-top: 1px solid rgba(#fff, 0.15);
+  border-top: 1px solid $border;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   gap: 0.5rem;
-  font-size: 0.85rem;
-  color: rgba(#fff, 0.6);
-
-  a {
-    color: rgba(#fff, 0.6);
-
-    &:hover {
-      color: #fff;
-    }
-  }
 }

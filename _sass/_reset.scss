@@ -1,6 +1,4 @@
-*,
-*::before,
-*::after {
+*, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -8,12 +6,14 @@
 
 html {
   -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
 }
 
 body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  -webkit-font-smoothing: antialiased;
 }
 
 img {
@@ -23,17 +23,17 @@ img {
 }
 
 a {
-  color: $color-accent;
+  color: $accent;
   text-decoration: none;
+  transition: color 0.15s;
 
   &:hover {
-    color: $color-accent-dark;
-    text-decoration: underline;
+    color: #fff;
+    text-decoration: none;
   }
 }
 
-ul,
-ol {
+ul, ol {
   list-style-position: inside;
 }
 

@@ -1,57 +1,65 @@
 .btn {
   display: inline-block;
-  padding: 0.75rem 1.75rem;
-  border-radius: 4px;
-  font-size: 1rem;
+  padding: 0.6rem 1.4rem;
+  font-family: $mono;
+  font-size: 0.75rem;
   font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
   text-decoration: none;
   text-align: center;
+  border-radius: 4px;
+  border: 1px solid $border;
   cursor: pointer;
-  border: none;
-  transition: background 0.2s, transform 0.1s;
+  transition: all 0.15s;
+  white-space: nowrap;
+  background: transparent;
+  color: $accent;
 
   &:hover {
+    background: $accent-glow;
+    border-color: $accent;
+    color: #fff;
     text-decoration: none;
-    transform: translateY(-1px);
-  }
-
-  &:active {
-    transform: translateY(0);
   }
 }
 
 .btn--primary {
-  background: $color-accent;
-  color: #fff;
+  background: $accent;
+  color: $bg;
+  border-color: $accent;
 
   &:hover {
-    background: $color-accent-dark;
-    color: #fff;
+    background: #fff;
+    color: $bg;
+    border-color: #fff;
   }
 }
 
 .btn--outline {
   background: transparent;
-  color: $color-accent;
-  border: 2px solid $color-accent;
+  color: $accent;
+  border-color: $accent-dark;
 
   &:hover {
-    background: $color-accent;
+    background: $accent-glow;
+    border-color: $accent;
     color: #fff;
   }
 }
 
 .btn--white {
-  background: #fff;
-  color: $color-primary;
+  background: transparent;
+  color: $heading;
+  border-color: rgba(#fff, 0.3);
 
   &:hover {
-    background: $color-bg-light;
-    color: $color-primary;
+    background: rgba(#fff, 0.08);
+    color: #fff;
   }
 }
 
 .btn--sm {
-  padding: 0.5rem 1.25rem;
-  font-size: 0.9rem;
+  padding: 0.45rem 1rem;
+  font-size: 0.68rem;
 }

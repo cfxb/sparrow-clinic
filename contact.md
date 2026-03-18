@@ -25,6 +25,3 @@ We welcome inquiries about our services and referral coordination. We aim to res
   <iframe src="https://maps.google.com/maps?q=750+Broadway+W+Suite+1210+Vancouver+BC+V5Z+1K1&t=&z=15&ie=UTF8&iwloc=&output=embed" allowfullscreen loading="lazy" title="Sparrow Neuropsychology location"></iframe>
 </div>
 
-<div class="mt-3">
-  {% include cta-phone.html %}
-</div>

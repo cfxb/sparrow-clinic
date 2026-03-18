@@ -1,28 +1,50 @@
-// Colors
-$color-primary: #2c3e50;
-$color-accent: #3498db;
-$color-accent-dark: #2980b9;
-$color-text: #333;
-$color-text-light: #666;
-$color-bg: #f0f8f8;
-$color-bg-light: #f0f8f8;
-$color-bg-dark: #2c3e50;
-$color-border: #e0e0e0;
+// ── Sparrow — bright, alive, hopeful ─────────────────────────
 
-// Typography
-$font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-  "Helvetica Neue", Arial, sans-serif;
-$font-size-base: 1rem;
-$line-height-base: 1.7;
+$bg:              #ffffff;
+$surface:         #f0faf9;
+$surface-2:       #e4f5f3;
+$border:          #b8e0dc;
+
+$text:            #0f2624;
+$text-dim:        #2e5c58;
+$text-muted:      #6a9e9a;
+
+// Accent — vivid teal, energising
+$accent:          #00a99d;
+$accent-dark:     #007f76;
+$accent-glow:     rgba(0, 169, 157, 0.12);
+
+// Warm — sunrise orange, shared with cogneuro
+$warm:            #f06430;
+$warm-dim:        rgba(240, 100, 48, 0.10);
+
+$heading:         #081a18;
+
+// Fonts — same as cogneuro
+$sans:   'Space Grotesk', system-ui, sans-serif;
+$mono:   'JetBrains Mono', 'Courier New', monospace;
+$body:   'Inter', system-ui, sans-serif;
 
 // Layout
-$container-max: 1100px;
-$container-narrow: 800px;
-$spacing: 1.5rem;
-$section-spacing: 4rem;
+$container-max:    1080px;
+$container-narrow: 760px;
+$spacing:          1.5rem;
+$section-spacing:  4rem;
+$bp-sm:  576px;
+$bp-md:  768px;
+$bp-lg:  992px;
+$bp-xl:  1200px;
 
-// Breakpoints
-$bp-sm: 576px;
-$bp-md: 768px;
-$bp-lg: 992px;
-$bp-xl: 1200px;
+// Legacy aliases
+$color-primary:     $heading;
+$color-accent:      $accent;
+$color-accent-dark: $accent-dark;
+$color-text:        $text;
+$color-text-light:  $text-muted;
+$color-bg:          $bg;
+$color-bg-light:    $surface;
+$color-bg-dark:     $surface-2;
+$color-border:      $border;
+$font-stack:        $body;
+$font-size-base:    1rem;
+$line-height-base:  1.8;

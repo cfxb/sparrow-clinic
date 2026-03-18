@@ -6,9 +6,9 @@ hero_image: /assets/images/hero-sky.jpg
 narrow: true
 ---
 
-Christopher Benjamin, PhD is a neuropsychologist in Vancouver, BC, practicing as Sparrow Neuropsychology. He provides personalized, evidence-based assessments of brain function in adults.
-
 ![Dr. Christopher Benjamin](/assets/images/headshot.jpg){: .about-headshot }
+
+Christopher Benjamin, PhD is a neuropsychologist in Vancouver, BC, practicing as Sparrow Neuropsychology. He provides personalized, evidence-based assessments of brain function in adults.
 
 ## Professional credentials
 

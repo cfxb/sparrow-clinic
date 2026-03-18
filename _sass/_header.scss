@@ -97,33 +97,35 @@
   align-items: center;
   justify-content: center;
   background: none;
-  border: 1px solid $border;
-  color: $text-muted;
+  border: none;
   cursor: pointer;
-  padding: 0.4rem 0.6rem;
+  padding: 0.5rem;
   border-radius: 4px;
+  transition: background 0.15s;
+
+  &:hover { background: $accent-glow; }
 
   @media (min-width: $bp-lg) { display: none; }
 }
 
 .menu-toggle__bar {
   display: block;
-  width: 20px;
-  height: 1.5px;
+  width: 22px;
+  height: 2px;
   background: $text-dim;
   position: relative;
 
   &::before, &::after {
     content: "";
     display: block;
-    width: 20px;
-    height: 1.5px;
+    width: 22px;
+    height: 2px;
     background: $text-dim;
     position: absolute;
     transition: transform 0.2s;
   }
-  &::before { top: -6px; }
-  &::after  { top: 6px; }
+  &::before { top: -7px; }
+  &::after  { top: 7px; }
 }
 
 // ── Mobile nav ────────────────────────────────────────────────

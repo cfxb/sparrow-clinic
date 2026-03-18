@@ -39,10 +39,9 @@
   padding: 3rem $spacing;
 
   @media (min-width: $bp-md) {
+    max-width: $container-max;
+    margin: 0 auto;
     padding: 4rem $spacing;
-    max-width: $container-narrow;
-    margin: 0 0;
-    padding-left: calc(50% - #{$container-max / 2} + #{$spacing});
   }
 }
 

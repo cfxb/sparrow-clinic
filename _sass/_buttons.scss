@@ -30,9 +30,9 @@
   border-color: $accent;
 
   &:hover {
-    background: #fff;
-    color: $bg;
-    border-color: #fff;
+    background: $accent-dark;
+    color: #fff;
+    border-color: $accent-dark;
   }
 }
 

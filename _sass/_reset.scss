@@ -28,7 +28,7 @@ a {
   transition: color 0.15s;
 
   &:hover {
-    color: #fff;
+    color: $accent-dark;
     text-decoration: none;
   }
 }

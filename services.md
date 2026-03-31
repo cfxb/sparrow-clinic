@@ -71,3 +71,9 @@ Many BC residents' records are available at:
 The table below lists hospitals in British Columbia where you can request your records.
 
 {% include hospital-table.html %}
+
+## Consent form
+
+Prior to assessment please review this consent form. We will discuss and complete this at assessment, prior to proceeding.
+
+[Download consent form (PDF)](/assets/files/consent-sparrow_20260131.pdf)

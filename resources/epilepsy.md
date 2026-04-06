@@ -52,7 +52,7 @@ This page brings together high-quality resources for people with epilepsy and th
 
 Living with a chronic neurological condition like epilepsy carries a higher risk of anxiety and depression. Support is available.
 
-- [BC Epilepsy Society — counselling and support](https://bcepilepsy.com/){:target="_blank" rel="noopener"} — The BC Epilepsy Society offers counselling services and peer support specifically for people affected by epilepsy in BC.
+- [BC Epilepsy Society — Mental Wellness Program](https://bcepilepsy.com/){:target="_blank" rel="noopener"} — The BC Epilepsy Society's Mental Wellness Program offers counselling and peer support specifically for people affected by epilepsy in BC. Contact them at 604-875-6704 to ask about current availability.
 - [Here to Help BC](https://www.heretohelp.bc.ca/){:target="_blank" rel="noopener"} — BC-based mental health information, self-assessments, and connections to local services.
 - [Canadian Mental Health Association — BC](https://bc.cmha.ca/mental-health/find-help/){:target="_blank" rel="noopener"} — Find mental health programmes and peer support in your community across BC.
 - [Crisis Line Association of BC](https://www.crisislines.bc.ca/){:target="_blank" rel="noopener"} — Directory of volunteer-operated crisis and distress lines across British Columbia.
@@ -67,7 +67,7 @@ Memory difficulties are common in epilepsy and can result from the condition its
 
 - [Memory and epilepsy](https://www.epilepsy.com/what-is-epilepsy/understanding-epilepsy/memory-and-epilepsy){:target="_blank" rel="noopener"} — Epilepsy Foundation overview of why memory is affected in epilepsy and strategies for managing difficulties.
 - [Cognition and epilepsy](https://www.epilepsy.com/what-is-epilepsy/understanding-epilepsy/cognition-and-epilepsy){:target="_blank" rel="noopener"} — Epilepsy Foundation broader discussion of cognitive effects including attention, language, and processing speed, alongside memory.
-- [CURE Epilepsy: cognitive rehabilitation](https://www.cureepilepsy.org/understanding-epilepsy/epilepsy-basics/cognitive-rehabilitation/){:target="_blank" rel="noopener"} — Introduction to cognitive rehabilitation approaches, including compensatory strategies and memory aids, from a leading US epilepsy research charity.
+- [HOBSCOTCH — free memory training for people with epilepsy](https://bcepilepsy.com/hobscotch/){:target="_blank" rel="noopener"} — Offered free by the BC Epilepsy Society, HOBSCOTCH (Home-Based Self-management and Cognitive Training CHanges lives) is an evidence-based, eight-session programme delivered via Zoom by certified coaches. It covers memory education, self-awareness, practical strategies, and problem-solving. Available to BC residents regardless of seizure control. Contact esther@bcepilepsy.com to register.
 
 ---
 

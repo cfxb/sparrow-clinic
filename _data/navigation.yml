@@ -4,6 +4,17 @@
   url: /about/
 - title: Services
   url: /services/
+- title: Resources
+  url: /resources/
+  children:
+    - title: ADHD
+      url: /resources/adhd/
+    - title: Epilepsy
+      url: /resources/epilepsy/
+    - title: Traumatic Brain Injury
+      url: /resources/traumatic-brain-injury/
+    - title: Dementia
+      url: /resources/dementia/
 - title: Referral
   url: /referral/
 - title: Contact

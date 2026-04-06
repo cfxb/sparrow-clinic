@@ -6,11 +6,28 @@
     </a>
     <nav class="site-nav" aria-label="Main navigation">
       {% for link in site.data.navigation %}
-        <a href="{{ link.url }}"
-           class="site-nav__link{% if link.external %} site-nav__link--external{% elsif page.url == link.url %} site-nav__link--active{% endif %}"
-           {% if link.external %}target="_blank" rel="noopener"{% endif %}>
-          {{ link.title }}
-        </a>
+        {% if link.children %}
+          <div class="site-nav__dropdown">
+            <a href="{{ link.url }}"
+               class="site-nav__link site-nav__link--has-children{% for child in link.children %}{% if page.url == child.url %} site-nav__link--active{% endif %}{% endfor %}{% if page.url == link.url %} site-nav__link--active{% endif %}"
+               aria-haspopup="true">
+              {{ link.title }}
+            </a>
+            <div class="site-nav__dropdown-menu" role="menu">
+              {% for child in link.children %}
+                <a href="{{ child.url }}" class="site-nav__dropdown-item{% if page.url == child.url %} site-nav__dropdown-item--active{% endif %}" role="menuitem">
+                  {{ child.title }}
+                </a>
+              {% endfor %}
+            </div>
+          </div>
+        {% else %}
+          <a href="{{ link.url }}"
+             class="site-nav__link{% if link.external %} site-nav__link--external{% elsif page.url == link.url %} site-nav__link--active{% endif %}"
+             {% if link.external %}target="_blank" rel="noopener"{% endif %}>
+            {{ link.title }}
+          </a>
+        {% endif %}
       {% endfor %}
     </nav>
     <button class="menu-toggle" aria-label="Open menu" aria-expanded="false">
@@ -20,10 +37,17 @@
   <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation">
     {% for link in site.data.navigation %}
       <a href="{{ link.url }}"
-         class="mobile-nav__link{% if link.external %} mobile-nav__link--external{% elsif page.url == link.url %} mobile-nav__link--active{% endif %}"
+         class="mobile-nav__link{% if link.external %} mobile-nav__link--external{% elsif page.url == link.url %} mobile-nav__link--active{% endif %}{% for child in link.children %}{% if page.url == child.url %} mobile-nav__link--active{% endif %}{% endfor %}"
          {% if link.external %}target="_blank" rel="noopener"{% endif %}>
         {{ link.title }}
       </a>
+      {% if link.children %}
+        {% for child in link.children %}
+          <a href="{{ child.url }}" class="mobile-nav__link mobile-nav__link--child{% if page.url == child.url %} mobile-nav__link--active{% endif %}">
+            {{ child.title }}
+          </a>
+        {% endfor %}
+      {% endif %}
     {% endfor %}
   </nav>
 </header>

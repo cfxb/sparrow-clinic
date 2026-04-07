@@ -8,9 +8,9 @@ narrow: true
 
 These resources are oriented towards patients with epilepsy in **British Columbia, Canada**. This page brings together high-quality resources for people with epilepsy and their families. It is intended as a starting point — not a substitute for advice from your own medical team.
 
-If you have been **recently diagnosed with epilepsy**, welcome — you are not alone. The [BC Epilepsy Society](https://bcepilepsy.com/){:target="_blank" rel="noopener"} runs a dedicated [**New Diagnosis Program**](https://bcepilepsy.com/programs/new-diagnosis-program/){:target="_blank" rel="noopener"} providing education, support, and connection for people who are newly navigating life with epilepsy. We encourage you to reach out to them early.
+If you have been **recently diagnosed with epilepsy**, welcome — you are not alone. The [BC Epilepsy Society](https://bcepilepsy.com/){:target="_blank" rel="noopener"} runs a dedicated [New Diagnosis Program](https://bcepilepsy.com/programs/new-diagnosis-program/){:target="_blank" rel="noopener"} providing education, support, and connection for people who are newly navigating life with epilepsy. We encourage you to reach out to them early.
 
-Many patients in BC have their seizures managed by a neurologist in the community. For more complex evaluation or treatment, patients may be referred to the specialist [**VGH Epilepsy Program**](https://www.vch.ca/en/service/epilepsy-programs){:target="_blank" rel="noopener"} at Vancouver General Hospital — BC's only comprehensive adult epilepsy program.
+Many patients in BC have their seizures managed by a neurologist in the community. For more complex evaluation or treatment, patients may be referred to the specialist [VGH Epilepsy Program](https://www.vch.ca/en/service/epilepsy-programs){:target="_blank" rel="noopener"} at Vancouver General Hospital — BC's only comprehensive adult epilepsy program.
 
 ---
 
@@ -37,16 +37,16 @@ Connecting with others who truly understand your experience can make an enormous
 
 **Counsellors and psychologists**
 
+A **psychologist** has completed a doctorate in psychology (PhD or PsyD) and is registered with the College of Psychologists of BC. In addition to providing therapy, psychologists are qualified to conduct formal psychological assessments — for example, if there are questions about cognition or learning alongside emotional wellbeing.
+
 A **Registered Clinical Counsellor (RCC)** typically holds a master's degree in counselling and is registered with the BC Association of Clinical Counsellors (BCACC). RCCs provide talk therapy and are well-suited for working through anxiety, depression, adjustment difficulties, and the emotional demands of living with a chronic condition.
 
-A **psychologist** holds a doctoral degree (PhD or PsyD) in psychology and is registered with the College of Psychologists of BC. In addition to providing therapy, psychologists are qualified to conduct formal psychological assessments — for example, if there are questions about cognition or learning in addition to emotional wellbeing.
+Both psychologists and RCCs can provide effective, evidence-based therapy. Many people start with an RCC; a psychologist may be the better fit if you also need a formal assessment alongside therapy.
 
-Both RCCs and psychologists can provide effective, evidence-based therapy. Many people start with an RCC; a psychologist may be the better fit if you also need a formal assessment alongside therapy.
+To find a psychologist or counsellor in BC:
 
-To find a counsellor or psychologist in BC:
-
-- [How do I find a Registered Clinical Counsellor near me?](https://bcacc.ca/counsellors/){:target="_blank" rel="noopener"} — The BC Association of Clinical Counsellors' searchable directory of RCCs across BC. Filter by location, session style (in-person or online), areas of practice, and more.
 - [How do I find a registered psychologist in BC?](https://helpstartshere.gov.bc.ca/resource/find-psychologist){:target="_blank" rel="noopener"} — BC government resource listing registered psychologists, searchable by location, specialty, language, and availability.
+- [How do I find a Registered Clinical Counsellor near me?](https://bcacc.ca/counsellors/){:target="_blank" rel="noopener"} — The BC Association of Clinical Counsellors' searchable directory of RCCs across BC. Filter by location, session style (in-person or online), areas of practice, and more.
 - [Where else can I search for a counsellor or psychologist?](https://counsellingbc.com/counsellors){:target="_blank" rel="noopener"} — CounsellingBC is a searchable directory of counsellors and psychologists across BC.
 
 Most extended health benefit plans cover a number of counselling or psychology sessions up to a set dollar amount per year. Check with your benefits provider or HR advisor to understand your coverage before your first appointment.
@@ -76,7 +76,7 @@ To access a psychiatrist in BC, ask your family doctor for a referral. You can a
 
 Memory and thinking difficulties — including problems with attention, processing speed, word-finding, and recall — are among the most common and frustrating challenges in epilepsy. They can result from the condition itself, seizure activity, or medication effects. Understanding why they occur is the first step toward managing them effectively.
 
-The Epilepsy Foundation provides a comprehensive overview of [**thinking and memory in epilepsy**](https://www.epilepsy.com/complications-risks/thinking-and-memory){:target="_blank" rel="noopener"}, covering why these difficulties arise and what can help. For practical, day-to-day strategies, see their guide to [**memory techniques for people with epilepsy**](https://www.epilepsy.com/complications-risks/thinking-and-memory/diagnosing-memory-problems/memory-techniques){:target="_blank" rel="noopener"}.
+The Epilepsy Foundation provides a comprehensive overview of [thinking and memory in epilepsy](https://www.epilepsy.com/complications-risks/thinking-and-memory){:target="_blank" rel="noopener"}, covering why these difficulties arise and what can help. For practical, day-to-day strategies, see their guide to [memory techniques for people with epilepsy](https://www.epilepsy.com/complications-risks/thinking-and-memory/diagnosing-memory-problems/memory-techniques){:target="_blank" rel="noopener"}.
 
 **Books by Sallie Baxendale**
 

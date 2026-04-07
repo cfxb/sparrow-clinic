@@ -27,7 +27,7 @@
   h3 { margin-top: 1.75rem; }
   h2:first-child, h3:first-child { margin-top: 0; }
 
-  a { color: $accent; &:hover { color: #fff; } }
+  a { color: $accent; &:hover { color: $accent-dark; } strong { color: inherit; } }
 }
 
 // Credentials list

@@ -92,7 +92,7 @@ Adults with ADHD have significantly higher rates of anxiety, depression, and low
 
 A **psychologist** has completed a doctorate in psychology (PhD or PsyD) and is registered with the College of Psychologists of BC. In addition to providing therapy, psychologists are qualified to conduct formal psychological assessments. A psychologist who specialises in ADHD can offer therapy that addresses the emotional and psychological consequences of the condition alongside the cognitive ones.
 
-A **Registered Clinical Counsellor (RCC)** typically holds a master's degree in counselling and is registered with the BC Association of Clinical Counsellors (BCACC). RCCs provide talk therapy and are well-suited for working through anxiety, depression, self-esteem, and the adjustment challenges that come with an ADHD diagnosis.
+A **Registered Clinical Counsellor (RCC)** typically holds a master's degree in counselling and is registered with the BC Association of Clinical Counsellors (BCACC). RCCs provide therapy and are well-suited for working through anxiety, depression, self-esteem, and the adjustment challenges that come with an ADHD diagnosis.
 
 Both psychologists and RCCs can provide effective, evidence-based therapy. Cognitive behavioural therapy (CBT) has the strongest evidence base for adults with ADHD. A psychologist may be the better fit if you also need formal assessment.
 

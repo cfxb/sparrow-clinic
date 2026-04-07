@@ -92,7 +92,7 @@ Living with a TBI or concussion — particularly when recovery is slow — carri
 
 A **psychologist** has completed a doctorate in psychology (PhD or PsyD) and is registered with the College of Psychologists of BC. In addition to providing therapy, psychologists are qualified to conduct formal psychological assessments — which can be useful when there are questions about whether difficulties reflect mood, cognition, or both.
 
-A **Registered Clinical Counsellor (RCC)** typically holds a master's degree in counselling and is registered with the BC Association of Clinical Counsellors (BCACC). RCCs provide talk therapy and are well-suited for working through anxiety, depression, grief, and the emotional challenges of adjusting to life after a brain injury.
+A **Registered Clinical Counsellor (RCC)** typically holds a master's degree in counselling and is registered with the BC Association of Clinical Counsellors (BCACC). RCCs provide therapy and are well-suited for working through anxiety, depression, grief, and the emotional challenges of adjusting to life after a brain injury.
 
 Both psychologists and RCCs can provide effective, evidence-based therapy. A psychologist may be the better fit if you also need formal assessment alongside therapy.
 

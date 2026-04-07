@@ -41,7 +41,7 @@ A **psychologist** has completed a doctorate in psychology (PhD or PsyD) and is 
 
 A **Registered Clinical Counsellor (RCC)** typically holds a master's degree in counselling and is registered with the BC Association of Clinical Counsellors (BCACC). RCCs provide talk therapy and are well-suited for working through anxiety, depression, adjustment difficulties, and the emotional demands of living with a chronic condition.
 
-Both psychologists and RCCs can provide effective, evidence-based therapy. Many people start with an RCC; a psychologist may be the better fit if you also need a formal assessment alongside therapy.
+Both psychologists and RCCs can provide effective, evidence-based therapy. A psychologist may be the better fit if you also need a formal assessment alongside therapy.
 
 To find a psychologist or counsellor in BC:
 

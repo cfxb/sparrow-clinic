@@ -90,7 +90,7 @@ Adults with ADHD have significantly higher rates of anxiety, depression, and low
 
 **Counsellors and psychologists**
 
-A **psychologist** has completed a doctorate in psychology (PhD or PsyD) and is registered with the College of Psychologists of BC. In addition to providing therapy, psychologists are qualified to conduct formal psychological assessments. A psychologist who specialises in ADHD can offer therapy that addresses the emotional and psychological consequences of the condition alongside the cognitive ones.
+A **psychologist** has completed a doctorate in psychology (PhD or PsyD) and is registered with the College of Psychologists of BC. In addition to providing therapy, psychologists can diagnose mental health conditions and are qualified to conduct formal psychological assessments. A psychologist who specialises in ADHD can offer therapy that addresses the emotional and psychological consequences of the condition alongside the cognitive ones.
 
 A **Registered Clinical Counsellor (RCC)** typically holds a master's degree in counselling and is registered with the BC Association of Clinical Counsellors (BCACC). RCCs provide therapy and are well-suited for working through anxiety, depression, self-esteem, and the adjustment challenges that come with an ADHD diagnosis.
 
@@ -107,7 +107,7 @@ Most extended health benefit plans cover a number of counselling or psychology s
 
 **Psychiatrists**
 
-A **psychiatrist** is a medical doctor (MD) who has completed specialist training in mental health. Unlike psychologists and counsellors — who are trained primarily in therapy — psychiatrists can diagnose mental health conditions and prescribe medication. For adults with ADHD, a psychiatrist is often the appropriate specialist to manage stimulant or non-stimulant medication.
+A **psychiatrist** is a medical doctor (MD) who has completed specialist training in mental health. Like psychologists, psychiatrists can diagnose mental health conditions — and unlike psychologists and counsellors, they can also prescribe medication. For adults with ADHD, a psychiatrist is often the appropriate specialist to manage stimulant or non-stimulant medication.
 
 ADHD medication, when well-matched and properly dosed, can be genuinely life-changing — in the same way that glasses correct vision: not by changing who you are, but by allowing your brain to function in the way it was always capable of. Many adults describe medication as allowing them to experience for the first time what it feels like to work with, rather than against, their own mind. It is entirely reasonable to decide medication is not for you — but it is worth at least having the conversation with a specialist.
 
@@ -142,6 +142,16 @@ Peer support is one of the most consistently helpful resources for adults with A
 
 - [Are there free virtual ADHD support groups in Canada?](https://caddac.ca/programs-events/adhd-support-groups/){:target="_blank" rel="noopener"} — CADDAC runs free virtual adult ADHD support groups across Canada, facilitated by trained adults with ADHD. These are the most accessible current option for BC residents.
 - [What other programs and events does CADDAC offer?](https://caddac.ca/programs-and-events/){:target="_blank" rel="noopener"} — CADDAC's full calendar of virtual groups, coaching sessions, and webinars covering executive function, relationships, employment, and daily living with ADHD.
+
+---
+
+## Podcasts
+
+- [ADHD Experts Podcast](https://additudemag.libsyn.com/){:target="_blank" rel="noopener"} — ADDitude Magazine's series featuring leading ADHD researchers and clinicians addressing real questions from adults and families about symptoms, treatment, relationships, and daily life.
+- [Hacking Your ADHD](https://www.hackingyouradhd.com/podcast){:target="_blank" rel="noopener"} — Short, practical episodes focused on evidence-based strategies for managing the executive function and attention challenges of ADHD day-to-day.
+- [ADHD reWired](https://www.adhdrewired.com/podcast/){:target="_blank" rel="noopener"} — A long-running, extensively produced podcast exploring ADHD across productivity, relationships, emotions, and wellbeing, with hundreds of episodes available.
+- [All in the Mind — BBC Radio 4](https://www.bbc.co.uk/programmes/b006qxx9){:target="_blank" rel="noopener"} — Award-winning BBC Radio 4 podcast hosted by psychologist Claudia Hammond, covering mental health, neuroscience, and brain conditions including regular episodes on attention and ADHD.
+- [All In The Mind — ABC Radio National](https://www.abc.net.au/radionational/programs/allinthemind/){:target="_blank" rel="noopener"} — ABC Australia's weekly podcast on the mind, brain, and behaviour, covering attention, executive function, and a wide range of neurological and psychological topics.
 
 ---
 

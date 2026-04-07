@@ -37,7 +37,7 @@ Connecting with others who truly understand your experience can make an enormous
 
 **Counsellors and psychologists**
 
-A **psychologist** has completed a doctorate in psychology (PhD or PsyD) and is registered with the College of Psychologists of BC. In addition to providing therapy, psychologists are qualified to conduct formal psychological assessments — for example, if there are questions about cognition or learning alongside emotional wellbeing.
+A **psychologist** has completed a doctorate in psychology (PhD or PsyD) and is registered with the College of Psychologists of BC. In addition to providing therapy, psychologists can diagnose mental health conditions and are qualified to conduct formal psychological assessments — for example, if there are questions about cognition or learning alongside emotional wellbeing.
 
 A **Registered Clinical Counsellor (RCC)** typically holds a master's degree in counselling and is registered with the BC Association of Clinical Counsellors (BCACC). RCCs provide therapy and are well-suited for working through anxiety, depression, adjustment difficulties, and the emotional demands of living with a chronic condition.
 
@@ -53,7 +53,7 @@ Most extended health benefit plans cover a number of counselling or psychology s
 
 **Psychiatrists**
 
-A **psychiatrist** is a medical doctor (MD) who has completed specialist training in mental health. Unlike psychologists and counsellors — who are trained primarily in therapy — psychiatrists can diagnose mental health conditions and prescribe medication. They typically work alongside a GP or therapist rather than replacing them.
+A **psychiatrist** is a medical doctor (MD) who has completed specialist training in mental health. Like psychologists, psychiatrists can diagnose mental health conditions — and unlike psychologists and counsellors, they can also prescribe medication. They typically work alongside a GP or therapist rather than replacing them.
 
 Antidepressant and antianxiety medications can be genuinely life-changing for people who suffer from depression or anxiety — in the same way that blood pressure medication is life-changing for someone with hypertension. You would not hesitate to take medication for high blood pressure, or thyroid hormone for an underactive thyroid: both involve a biological process that has gone out of balance, causing real and measurable symptoms. Depression and anxiety are no different. They often reflect a biological imbalance that medication can meaningfully correct, and the evidence that it does so is strong.
 
@@ -101,6 +101,15 @@ HOBSCOTCH (Home-Based Self-management and Cognitive Training CHanges lives) is a
 - [How can I reduce my risk of injury at home?](https://www.epilepsy.com/preparedness-safety/staying-safe/safety-home){:target="_blank" rel="noopener"} — Practical tips for reducing seizure-related injury risk in the kitchen, bathroom, and bedroom.
 - [Is it safe to exercise or play sports with epilepsy?](https://www.epilepsy.com/preparedness-safety/staying-safe/exercise-sports){:target="_blank" rel="noopener"} — Information on safe participation in physical activity and sport, including water safety.
 - [What do I need to know about epilepsy and pregnancy?](https://www.epilepsy.com/lifestyle/family-planning/pregnancy){:target="_blank" rel="noopener"} — What to discuss with your neurologist before and during pregnancy, including medication management and monitoring.
+
+---
+
+## Podcasts
+
+- [Voice Epilepsy™ Podcast](https://bcepilepsy.com/podcast/){:target="_blank" rel="noopener"} — The BC Epilepsy Society's own podcast, covering medications, surgery, employment, mental health, and personal stories from people living with epilepsy in BC and beyond.
+- [I've Got This! Owning My Epilepsy](https://ivegotthis.one/listen/){:target="_blank" rel="noopener"} — A podcast by young adults living with epilepsy — co-hosted with specialist neurologists — covering daily life, relationships, employment, contraception, mental health, and navigating the world with epilepsy.
+- [All in the Mind — BBC Radio 4](https://www.bbc.co.uk/programmes/b006qxx9){:target="_blank" rel="noopener"} — Long-running, award-winning BBC Radio 4 podcast hosted by psychologist Claudia Hammond, exploring mental health, neuroscience, and brain conditions in depth.
+- [All In The Mind — ABC Radio National](https://www.abc.net.au/radionational/programs/allinthemind/){:target="_blank" rel="noopener"} — ABC Australia's weekly podcast on the mind, brain, and behaviour — from memory and cognition to mental health and neurological conditions — one of ABC's most internationally downloaded shows.
 
 ---
 

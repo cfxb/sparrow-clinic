@@ -107,7 +107,7 @@ People with dementia and their carers both have significantly higher rates of de
 
 **Counsellors and psychologists**
 
-A **psychologist** has completed a doctorate in psychology (PhD or PsyD) and is registered with the College of Psychologists of BC. Psychologists provide therapy and are also qualified to conduct formal psychological assessments. They may be particularly useful when there are questions about cognition or capacity alongside emotional wellbeing.
+A **psychologist** has completed a doctorate in psychology (PhD or PsyD) and is registered with the College of Psychologists of BC. Psychologists provide therapy, can diagnose mental health conditions, and are also qualified to conduct formal psychological assessments. They may be particularly useful when there are questions about cognition or capacity alongside emotional wellbeing.
 
 A **Registered Clinical Counsellor (RCC)** typically holds a master's degree in counselling and is registered with the BC Association of Clinical Counsellors (BCACC). Both psychologists and RCCs provide therapy, and both are well-suited for working through grief, anxiety, depression, and the emotional demands of living with dementia or caring for someone who has it.
 
@@ -123,7 +123,7 @@ Most extended health benefit plans cover a number of counselling or psychology s
 
 **Psychiatrists**
 
-A **psychiatrist** is a medical doctor (MD) who has completed specialist training in mental health. Unlike psychologists and counsellors — who are trained primarily in therapy — psychiatrists can diagnose mental health conditions and prescribe medication.
+A **psychiatrist** is a medical doctor (MD) who has completed specialist training in mental health. Like psychologists, psychiatrists can diagnose mental health conditions — and unlike psychologists and counsellors, they can also prescribe medication.
 
 Depression and anxiety are common in dementia and in its carers — and for both groups, antidepressant or antianxiety medication can be genuinely helpful when the situation warrants it. Just as medication is a reasonable and evidence-based response to blood pressure that has gone out of range, it is a reasonable response to a mood system that has been overwhelmed by circumstances that would challenge anyone. The decision to try medication is personal and deserves to be made with proper advice — but it is always worth at least having the conversation, particularly if depression or anxiety has been present for some time.
 
@@ -167,6 +167,14 @@ Connecting with others who understand what you are going through — whether you
 - [Are there support groups for people living with dementia in BC?](https://alzheimer.ca/bc/en/help-support/programs-services/support-groups){:target="_blank" rel="noopener"} — Monthly virtual support groups for people living with dementia at any stage, and specialised groups for carers, adult children, long-term care carers, young-onset dementia, Lewy body and frontotemporal dementia, and 2SLGBTQIA+ carers. Register via the First Link® Helpline.
 - [Is there peer support available for carers of people with dementia in BC?](https://www.familycaregiversbc.ca/){:target="_blank" rel="noopener"} — Family Caregivers BC offers peer support, one-on-one coaching, and community navigation for carers across BC. Caregiver Support Line: 1-877-520-3267 (Mon–Fri 8:30 a.m. to 4 p.m.).
 - [Where can I find mental health information and self-help resources as a carer?](https://www.heretohelp.bc.ca/){:target="_blank" rel="noopener"} — Here to Help BC provides mental health information and referrals for carers experiencing stress, anxiety, or burnout.
+
+---
+
+## Podcasts
+
+- [Dementia Matters](https://dementiamatters.podbean.com/){:target="_blank" rel="noopener"} — Produced by the Wisconsin Alzheimer's Disease Research Center, this podcast features leading dementia scientists and caregiving experts on Alzheimer's research, treatment, and care — one of the most research-grounded dementia podcasts available.
+- [All in the Mind — BBC Radio 4](https://www.bbc.co.uk/programmes/b006qxx9){:target="_blank" rel="noopener"} — Award-winning BBC Radio 4 podcast hosted by psychologist Claudia Hammond, exploring mental health, neuroscience, and brain conditions, with regular episodes on dementia, memory, and cognitive ageing.
+- [All In The Mind — ABC Radio National](https://www.abc.net.au/radionational/programs/allinthemind/){:target="_blank" rel="noopener"} — ABC Australia's weekly podcast on the mind, brain, and behaviour, including episodes on dementia, memory, and the neuroscience of ageing.
 
 ---
 

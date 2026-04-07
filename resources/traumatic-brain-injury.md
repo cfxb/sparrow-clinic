@@ -90,7 +90,7 @@ Living with a TBI or concussion — particularly when recovery is slow — carri
 
 **Counsellors and psychologists**
 
-A **psychologist** has completed a doctorate in psychology (PhD or PsyD) and is registered with the College of Psychologists of BC. In addition to providing therapy, psychologists are qualified to conduct formal psychological assessments — which can be useful when there are questions about whether difficulties reflect mood, cognition, or both.
+A **psychologist** has completed a doctorate in psychology (PhD or PsyD) and is registered with the College of Psychologists of BC. In addition to providing therapy, psychologists can diagnose mental health conditions and are qualified to conduct formal psychological assessments — which can be useful when there are questions about whether difficulties reflect mood, cognition, or both.
 
 A **Registered Clinical Counsellor (RCC)** typically holds a master's degree in counselling and is registered with the BC Association of Clinical Counsellors (BCACC). RCCs provide therapy and are well-suited for working through anxiety, depression, grief, and the emotional challenges of adjusting to life after a brain injury.
 
@@ -106,7 +106,7 @@ Most extended health benefit plans cover a number of counselling or psychology s
 
 **Psychiatrists**
 
-A **psychiatrist** is a medical doctor (MD) who has completed specialist training in mental health. Unlike psychologists and counsellors — who are trained primarily in therapy — psychiatrists can diagnose mental health conditions and prescribe medication. They typically work alongside a GP or therapist rather than replacing them.
+A **psychiatrist** is a medical doctor (MD) who has completed specialist training in mental health. Like psychologists, psychiatrists can diagnose mental health conditions — and unlike psychologists and counsellors, they can also prescribe medication. They typically work alongside a GP or therapist rather than replacing them.
 
 Antidepressants and antianxiety medications can meaningfully reduce depression and anxiety after TBI — in the same way that blood pressure medication helps someone with hypertension. Depression and anxiety after a brain injury often have a direct neurological basis, and medication can help to correct the underlying imbalance. It is entirely reasonable to decide that medication is not for you, but it is worth having the conversation with a specialist, particularly if you have been struggling for some time.
 
@@ -148,6 +148,14 @@ Connecting with others who understand can be one of the most valuable parts of r
 - [How do I find a brain injury support group in BC?](https://www.brainstreams.ca/){:target="_blank" rel="noopener"} — Brainstreams lists peer support groups, community programs, and services for people with brain injury throughout BC.
 - [Is there a national directory of brain injury services and support groups?](https://braininjurycanadaconnect.ca/services/community-support-groups/){:target="_blank" rel="noopener"} — Brain Injury Canada Connect maintains a searchable Canada-wide directory of community support groups, searchable by province and service type.
 - [Are there peer support programs specifically for women after concussion?](https://www.pinkconcussions.com/support){:target="_blank" rel="noopener"} — Pink Concussions provides peer support specifically for women, girls, and female-identifying people living with concussion and brain injury, including Canadian online groups.
+
+---
+
+## Podcasts
+
+- [Faces of TBI](https://facesoftbi.com/podcast-series/){:target="_blank" rel="noopener"} — Created by survivors for survivors, this podcast features conversations with TBI and concussion survivors, caregivers, and medical professionals about recovery and life after brain injury.
+- [All in the Mind — BBC Radio 4](https://www.bbc.co.uk/programmes/b006qxx9){:target="_blank" rel="noopener"} — Award-winning BBC Radio 4 podcast hosted by psychologist Claudia Hammond, exploring mental health, neuroscience, and brain conditions with depth and rigour.
+- [All In The Mind — ABC Radio National](https://www.abc.net.au/radionational/programs/allinthemind/){:target="_blank" rel="noopener"} — ABC Australia's weekly podcast on the mind, brain, and behaviour, including episodes on brain injury, recovery, and the neuroscience of rehabilitation.
 
 ---
 

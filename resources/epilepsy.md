@@ -65,7 +65,7 @@ To access a psychiatrist in BC, ask your family doctor or neurologist for a refe
 
 - [Does the BC Epilepsy Society offer mental health support?](https://bcepilepsy.com/programs/bc-epilepsy-societys-mental-wellness-program/){:target="_blank" rel="noopener"} — Yes: their Mental Wellness Program offers counselling and peer support specifically for people affected by epilepsy in BC. Contact them at 604-875-6704 to ask about current availability.
 - [Where can I find BC-specific mental health information and self-assessments?](https://www.heretohelp.bc.ca/){:target="_blank" rel="noopener"} — Here to Help BC provides mental health information, self-assessments, and connections to local services.
-- [How do I find mental health programmes in my community?](https://bc.cmha.ca/mental-health/find-help/){:target="_blank" rel="noopener"} — The Canadian Mental Health Association BC can help you find mental health programmes and peer support across BC.
+- [How do I find mental health programs in my community?](https://bc.cmha.ca/mental-health/find-help/){:target="_blank" rel="noopener"} — The Canadian Mental Health Association BC can help you find mental health programs and peer support across BC.
 - [Is there a crisis or distress line I can call?](https://www.crisislines.bc.ca/){:target="_blank" rel="noopener"} — The Crisis Line Association of BC maintains a directory of volunteer-operated crisis and distress lines across British Columbia.
 - **What if I need immediate emotional support right now?** — Call or text **310-6789** (310 Mental Health Line, no area code needed) for free, 24/7 emotional support and mental health referrals anywhere in BC.
 - **What if I am in crisis?** — Call or text **9-8-8** (toll-free, 24/7) for immediate support.
@@ -85,12 +85,12 @@ Dr Sallie Baxendale is one of the world's leading neuropsychologists specialisin
 - [Coping with Memory Problems](https://www.amazon.com/Coping-Memory-Problems-sallie-baxendale/dp/1529329213){:target="_blank" rel="noopener"} — Dr Baxendale's essential guide to understanding and managing memory difficulties, covering how memory works, why it goes wrong, and evidence-based strategies for coping day-to-day. Highly recommended as a starting point.
 - [The Sheldon Short Guide to Memory Problems](https://www.amazon.com/Sheldon-Short-Guide-Memory-Problems/dp/1847093663){:target="_blank" rel="noopener"} — A compact, accessible companion covering the key strategies in a shorter format.
 
-**HOBSCOTCH — free memory management programme**
+**HOBSCOTCH — free memory management program**
 
-HOBSCOTCH (Home-Based Self-management and Cognitive Training CHanges lives) is an evidence-based, eight-session memory management programme developed at Dartmouth and delivered by trained coaches. It covers memory education, self-awareness, practical strategies, and problem-solving — and it is free.
+HOBSCOTCH (Home-Based Self-management and Cognitive Training CHanges lives) is an evidence-based, eight-session memory management program developed at Dartmouth and delivered by trained coaches. It covers memory education, self-awareness, practical strategies, and problem-solving — and it is free.
 
 - [Can I access free HOBSCOTCH memory training in BC?](https://bcepilepsy.com/hobscotch/){:target="_blank" rel="noopener"} — Yes: the BC Epilepsy Society offers HOBSCOTCH free to BC residents, delivered via Zoom, regardless of seizure control. Contact esther@bcepilepsy.com to register.
-- [What is the research behind HOBSCOTCH?](https://www.dartmouth-hitchcock.org/hobscotch-institute){:target="_blank" rel="noopener"} — The HOBSCOTCH Institute at Dartmouth Health is the originating centre for the programme, with information on the evidence base behind the approach.
+- [What is the research behind HOBSCOTCH?](https://www.dartmouth-hitchcock.org/hobscotch-institute){:target="_blank" rel="noopener"} — The HOBSCOTCH Institute at Dartmouth Health is the originating centre for the program, with information on the evidence base behind the approach.
 
 ---
 

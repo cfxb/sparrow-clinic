@@ -12,21 +12,21 @@ These resources are oriented towards adults with ADHD in **British Columbia, Can
 
 ## What can a neuropsychological assessment uniquely offer?
 
-A diagnosis of ADHD is often made on the basis of a clinical interview and self-report questionnaires — valuable tools, but ones that rely entirely on a person's own account of their difficulties. A neuropsychological assessment adds something that no other evaluation can: **objective, standardised measurement of how your brain actually performs**.
+A diagnosis of ADHD is often made on the basis of a clinical interview and self-report questionnaires — valuable tools, but ones that rely primarily on a person's own account of their difficulties. A neuropsychological assessment adds something distinct: objective, standardised measurement of cognitive performance across attention, working memory, processing speed, and executive function, compared to norms for thousands of people of the same age.
 
-A neuropsychologist administers a structured battery of validated cognitive tests that measure attention, working memory, processing speed, executive function, and other relevant abilities — and compares your results to those of thousands of people your age. This produces a precise, documented picture of where your cognition is strong and where it is genuinely impaired.
+A neuropsychologist administers a structured battery of validated cognitive tests and compares your results to your age group, producing a documented profile of cognitive strengths and areas of difficulty.
 
-This matters for several reasons:
+This information can be useful in several ways:
 
-**Definitive evidence of impairment.** Many adults with ADHD have spent years doubting themselves — wondering whether they are simply lazy, disorganised, or not trying hard enough. Objective test data can confirm, clearly and finally, that the difficulties are real and neurologically based. For many people, this is profoundly validating.
+**Objective documentation of cognitive performance.** Many adults with ADHD have spent years wondering whether their difficulties are real, or whether they are simply not trying hard enough. Where cognitive testing reveals impairment, that objective record can be meaningful and validating. A thorough evaluation contributes to clinical understanding even when standardised scores fall within normal ranges — the full picture is broader than test scores alone.
 
-**Differentiating ADHD from other conditions.** Anxiety, depression, sleep disorders, thyroid problems, and learning disabilities can all produce symptoms that look like ADHD. A neuropsychological assessment can identify which conditions are actually present, which significantly affects treatment. Getting the right diagnosis matters.
+**Differentiating ADHD from other conditions.** Anxiety, depression, sleep disorders, thyroid problems, and learning disabilities can all produce symptoms that look like ADHD. A neuropsychological assessment contributes to identifying which conditions are actually present, which can significantly affect treatment. Getting the right diagnosis matters.
 
-**A precise cognitive profile.** Not all ADHD is the same. Assessment identifies exactly which cognitive functions are most affected — for instance, working memory but not processing speed, or sustained attention but not impulse control — which allows treatment, therapy, and accommodations to be targeted precisely.
+**A detailed cognitive profile.** Assessment maps performance across multiple domains — attention, working memory, processing speed, executive function — providing a more specific picture than clinical interview alone. This can help target therapy, strategies, and accommodations more precisely.
 
-**Documentation for accommodations and entitlements.** A formal neuropsychological report carries significant weight with employers, universities, insurance providers, and disability services. It provides the objective evidence required to access extended exam time, workplace accommodations, disability benefits, or medication subsidies.
+**Documentation for accommodations and entitlements.** A formal neuropsychological report carries significant weight with employers, universities, insurance providers, and disability services. It may be required to access extended exam time, workplace accommodations, disability benefits, or medication subsidies.
 
-**Guiding treatment decisions.** When medication is being considered, knowing the specific cognitive profile helps prescribers choose the right approach and monitor treatment more effectively.
+**Informing treatment decisions.** When medication is being considered, a detailed cognitive profile can provide useful context for prescribers in choosing an approach and monitoring treatment.
 
 ---
 

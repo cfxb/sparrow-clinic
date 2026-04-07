@@ -59,11 +59,11 @@ Antidepressant and antianxiety medications can be genuinely life-changing for pe
 
 It is entirely reasonable to decide that medication is not for you — that choice deserves respect. But it is worth at least getting properly assessed and having the conversation, particularly if you have been struggling for some time. Many people who were initially reluctant to consider medication describe it as one of the best decisions they ever made.
 
-To access a psychiatrist in BC, ask your family doctor for a referral. You can also call [HealthLink BC (8-1-1)](https://www.healthlinkbc.ca/){:target="_blank" rel="noopener"} for guidance on mental health services in your region.
+To access a psychiatrist in BC, ask your family doctor or neurologist for a referral. You can also call [HealthLink BC (8-1-1)](https://www.healthlinkbc.ca/){:target="_blank" rel="noopener"} for guidance on mental health services in your region.
 
 **Other BC mental health resources**
 
-- [Does the BC Epilepsy Society offer mental health support?](https://bcepilepsy.com/){:target="_blank" rel="noopener"} — Yes: their Mental Wellness Program offers counselling and peer support specifically for people affected by epilepsy in BC. Contact them at 604-875-6704 to ask about current availability.
+- [Does the BC Epilepsy Society offer mental health support?](https://bcepilepsy.com/programs/bc-epilepsy-societys-mental-wellness-program/){:target="_blank" rel="noopener"} — Yes: their Mental Wellness Program offers counselling and peer support specifically for people affected by epilepsy in BC. Contact them at 604-875-6704 to ask about current availability.
 - [Where can I find BC-specific mental health information and self-assessments?](https://www.heretohelp.bc.ca/){:target="_blank" rel="noopener"} — Here to Help BC provides mental health information, self-assessments, and connections to local services.
 - [How do I find mental health programmes in my community?](https://bc.cmha.ca/mental-health/find-help/){:target="_blank" rel="noopener"} — The Canadian Mental Health Association BC can help you find mental health programmes and peer support across BC.
 - [Is there a crisis or distress line I can call?](https://www.crisislines.bc.ca/){:target="_blank" rel="noopener"} — The Crisis Line Association of BC maintains a directory of volunteer-operated crisis and distress lines across British Columbia.
@@ -80,7 +80,10 @@ The Epilepsy Foundation provides a comprehensive overview of [thinking and memor
 
 **Books by Sallie Baxendale**
 
-Dr Sallie Baxendale is one of the world's leading neuropsychologists specialising in epilepsy and memory. She has published several accessible, evidence-based books written specifically for people with epilepsy who experience memory difficulties. They are widely available at low cost and offer practical, research-backed guidance that goes well beyond what any website can provide. Look for her titles through major book retailers.
+Dr Sallie Baxendale is one of the world's leading neuropsychologists specialising in epilepsy and memory. She has published several accessible, evidence-based books written specifically for people who experience memory difficulties. They are available at low cost and offer practical, research-backed guidance that goes well beyond what any website can provide.
+
+- [Coping with Memory Problems](https://www.amazon.com/Coping-Memory-Problems-sallie-baxendale/dp/1529329213){:target="_blank" rel="noopener"} — Dr Baxendale's essential guide to understanding and managing memory difficulties, covering how memory works, why it goes wrong, and evidence-based strategies for coping day-to-day. Highly recommended as a starting point.
+- [The Sheldon Short Guide to Memory Problems](https://www.amazon.com/Sheldon-Short-Guide-Memory-Problems/dp/1847093663){:target="_blank" rel="noopener"} — A compact, accessible companion covering the key strategies in a shorter format.
 
 **HOBSCOTCH — free memory management programme**
 

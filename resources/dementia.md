@@ -31,18 +31,18 @@ This page brings together high-quality resources for people living with dementia
 A dementia diagnosis can feel overwhelming. These resources are designed specifically for people who have just received one.
 
 - [First Link® Dementia Helpline](https://alzheimer.ca/bc/en/help-support/find-support-bc/first-link-dementia-helpline){:target="_blank" rel="noopener"} — The single most important BC resource after a diagnosis. Call **1-800-936-6033** (English, Mon–Fri 9 a.m. to 8 p.m.) to be connected to education, support groups, and community services. Also available in Cantonese and Mandarin (**1-833-674-5007**) and Punjabi, Hindi, and Urdu (**1-833-674-5003**), Mon–Fri 9 a.m. to 4 p.m.
-- [Newly diagnosed — Alzheimer Society of Canada](https://alzheimer.ca/en/help-support/im-person-living-dementia/ive-just-been-diagnosed){:target="_blank" rel="noopener"} — Step-by-step guidance on what to do following a diagnosis, including planning ahead, talking with family, and accessing support.
+- [First steps after a dementia diagnosis — Alzheimer Society of Canada](https://alzheimer.ca/en/help-information/im-living-dementia/first-steps-after-diagnosis){:target="_blank" rel="noopener"} — Step-by-step guidance on what to do following a diagnosis, including contacting First Link®, learning about dementia, talking with family, and planning ahead.
 - [Accessing home support and care services in BC](https://alzheimer.ca/bc/en/accessing-home-support-care-services-bc){:target="_blank" rel="noopener"} — Alzheimer Society of BC guide to publicly funded home support, adult day programmes, and residential care in BC, including how to request a health authority assessment.
 - [Dementia information — Government of British Columbia](https://www2.gov.bc.ca/gov/content/family-social-supports/seniors/health-safety/disease-and-injury-care-and-prevention/dementia-information){:target="_blank" rel="noopener"} — BC government portal with provincial dementia care resources for people with dementia, families, and healthcare providers.
-- [Route 65](https://route65.ca/){:target="_blank" rel="noopener"} — Free online directory to help BC seniors and families find independent living, assisted living, long-term care, and home support options by region.
+- [Seniors housing — Province of BC](https://www2.gov.bc.ca/gov/content/housing-tenancy/affordable-and-social-housing/seniors-housing){:target="_blank" rel="noopener"} — BC government directory of seniors housing options including independent living, assisted living, and residential care, with information on how to access publicly funded services.
 
 ---
 
 ## Living with dementia
 
-- [Living well with dementia — Alzheimer Society of Canada](https://alzheimer.ca/en/help-support/im-person-living-dementia/living-well-dementia){:target="_blank" rel="noopener"} — Practical strategies for daily life, staying connected, and maintaining independence and quality of life after a diagnosis.
+- [Living well with dementia — Alzheimer Society of Canada](https://alzheimer.ca/en/help-information/im-living-dementia/living-well-dementia){:target="_blank" rel="noopener"} — Practical strategies for daily life, staying connected, and maintaining independence and quality of life after a diagnosis.
 - [Minds in Motion®](https://alzheimer.ca/bc/en/help-support/programs-services/minds-motion){:target="_blank" rel="noopener"} — A free fitness and social programme run by the Alzheimer Society of BC for people in the early stages of dementia and their care partners. Combines physical activity with social connection.
-- [Caregiving and safety — Alzheimer Society of Canada](https://alzheimer.ca/en/help-support/i-have-friend-or-family-member-who-lives-dementia/caregiving){:target="_blank" rel="noopener"} — Guidance for carers on communication, daily routines, safety in the home, and managing behavioural changes.
+- [Caring for a person living with dementia — Alzheimer Society of Canada](https://alzheimer.ca/en/help-information/im-caring-person-living-dementia){:target="_blank" rel="noopener"} — Guidance for carers on communication, daily routines, safety in the home, and managing behavioural changes as dementia progresses.
 
 ---
 

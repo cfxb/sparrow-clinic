@@ -30,7 +30,7 @@ Publications: [Google Scholar](https://scholar.google.com/citations?user=k61JbYU
 
 Dr. Benjamin makes brain science accessible and practical for both professionals and the public. He has presented internationally on language networks, fMRI, and neuropsychology in epilepsy, including at the International Neuropsychological Society, the International Society for Magnetic Resonance in Medicine, and the American Epilepsy Society. He has mentored over 30 trainees in neuropsychology and neuroimaging, many now practicing across North America and beyond.
 
-In this video, Dr. Benjamin introduces the basics of neuroanatomy as part of the open-access [KnowNeuropsychology](https://knowneuropsychology.org) teaching series.
+In this video, Dr. Benjamin introduces the basics of neuroanatomy as part of the open-access [KnowNeuropsychology](https://knowneuropsych.org/) teaching series.
 
 {% include video-embed.html url="https://player.vimeo.com/video/1094426843?h=3f13ffa1fb" title="Neuropsychology education" %}
 

@@ -19,10 +19,18 @@ layout: default
     <h2 class="section__heading">Areas of practice</h2>
     <div class="grid grid--3">
       {% for service in site.data.services %}
+      {% if service.link %}
+      <a href="{{ service.link }}" class="card card--linked">
+      {% else %}
       <div class="card">
+      {% endif %}
         <h3 class="card__title">{{ service.title }}</h3>
         <p class="card__text">{{ service.description }}</p>
+      {% if service.link %}
+      </a>
+      {% else %}
       </div>
+      {% endif %}
       {% endfor %}
     </div>
   </div>

@@ -1,11 +1,18 @@
 - title: Attention problems & ADHD
   description: Assessment of attentional difficulties
+  link: /resources/adhd/
 
 - title: Concussion & brain injury
   description: Cognitive recovery after concussion, traumatic brain injury, or other acquired brain injuries.
+  link: /resources/traumatic-brain-injury/
 
 - title: Memory concerns & dementia
   description: Age-related memory changes, suspected dementia, and Alzheimer's disease screening.
+  link: /resources/dementia/
+
+- title: Epilepsy
+  description: Neuropsychological assessment and cognitive support for people living with epilepsy.
+  link: /resources/epilepsy/
 
 - title: Stroke & neurological conditions
   description: Post-stroke cognitive evaluation, brain tumor effects, and multiple sclerosis.

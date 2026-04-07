@@ -20,6 +20,16 @@
   }
 }
 
+a.card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+
+  .card__title { color: $accent; }
+
+  &:hover .card__title { color: $accent-dark; }
+}
+
 .card__title {
   font-family: $sans;
   font-size: 0.95rem;

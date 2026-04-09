@@ -39,6 +39,13 @@
   font-size: 0.72rem;
 }
 
+.site-footer__right {
+  @media (min-width: $bp-md) {
+    text-align: right;
+    justify-self: end;
+  }
+}
+
 .site-footer__bottom {
   padding-top: 1.25rem;
   border-top: 1px solid $border;

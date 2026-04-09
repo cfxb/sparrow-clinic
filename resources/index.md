@@ -12,3 +12,4 @@ These pages provide an overview of common conditions assessed by neuropsychologi
 - [Epilepsy](/resources/epilepsy/)
 - [Traumatic Brain Injury](/resources/traumatic-brain-injury/)
 - [Dementia](/resources/dementia/)
+- [Stroke](/resources/stroke/)

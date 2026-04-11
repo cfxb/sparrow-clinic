@@ -17,3 +17,4 @@ These pages provide an overview of common conditions assessed by neuropsychologi
 - [Parkinson's Disease](/resources/parkinsons-disease/)
 - [Huntington's Disease](/resources/huntingtons-disease/)
 - [Brain Tumours](/resources/brain-tumours/)
+- [Encephalitis and Meningitis](/resources/encephalitis-and-meningitis/)

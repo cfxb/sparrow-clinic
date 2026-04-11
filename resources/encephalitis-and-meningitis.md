@@ -93,7 +93,6 @@ For many survivors, the psychological demands of recovery are as significant as 
 
 - [What are the emotional and behavioural changes after encephalitis?](https://www.encephalitis.info/effects-of-encephalitis/emotional-and-behavioural-changes/){:target="_blank" rel="noopener"} — Encephalitis Society guide to the emotional and behavioural changes common after encephalitis: why they occur, what they look like, and how to approach them.
 - [What is the relationship between encephalitis and mental health?](https://www.encephalitis.info/effects-of-encephalitis/mental-health-and-encephalitis/){:target="_blank" rel="noopener"} — Encephalitis Society overview of the mental health effects of encephalitis: depression, anxiety, PTSD, and the complex relationship between neurological injury and psychological distress.
-- [What are the emotional changes that follow meningitis?](https://www.meningitisnow.org/meningitis-explained/after-effects-meningitis/emotional-changes/){:target="_blank" rel="noopener"} — Meningitis Now's overview of the emotional after-effects of meningitis in adults, including depression, anxiety, PTSD, and the psychological demands of recovery.
 - [What does recovery from meningitis look like?](https://www.meningitisnow.org/meningitis-explained/after-effects-meningitis/recovering-from-meningitis/){:target="_blank" rel="noopener"} — Meningitis Now's guide to the recovery process after meningitis: what to expect, how long recovery takes, and what factors influence the trajectory.
 
 ---

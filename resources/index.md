@@ -13,3 +13,4 @@ These pages provide an overview of common conditions assessed by neuropsychologi
 - [Traumatic Brain Injury](/resources/traumatic-brain-injury/)
 - [Dementia](/resources/dementia/)
 - [Stroke](/resources/stroke/)
+- [Multiple Sclerosis](/resources/multiple-sclerosis/)

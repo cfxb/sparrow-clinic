@@ -199,7 +199,7 @@ Connecting with others who live with MS — or who care for someone who does —
 **In British Columbia**
 
 - [Who supports people with MS in BC?](https://mscanada.ca/find-support-multiple-sclerosis){:target="_blank" rel="noopener"} — MS Canada (formerly the MS Society of Canada) is the national MS organisation, with support programs, peer networks, and resources for people in BC and across Canada. Call their MS Navigators at 1-844-859-6789 for personalised guidance.
-- [What MS research is being conducted in BC?](https://ms.ubc.ca/){:target="_blank" rel="noopener"} — The UBC MS/MRI Research Group at the University of British Columbia is one of the world's leading MS research centres, internationally recognised for advances in MS imaging and clinical research. UBC is also home to specialist MS neurology clinics.
+- [Where is specialist MS care provided in BC?](https://ms.ubc.ca/){:target="_blank" rel="noopener"} — The UBC MS Clinic at the Djavad Mowafaghian Centre for Brain Health is one of the world's leading MS centres, providing specialist neurological care and internationally recognised MS research in Vancouver.
 
 **Across Canada**
 

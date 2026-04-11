@@ -15,3 +15,4 @@ These pages provide an overview of common conditions assessed by neuropsychologi
 - [Stroke](/resources/stroke/)
 - [Multiple Sclerosis](/resources/multiple-sclerosis/)
 - [Parkinson's Disease](/resources/parkinsons-disease/)
+- [Huntington's Disease](/resources/huntingtons-disease/)

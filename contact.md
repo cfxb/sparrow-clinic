@@ -6,14 +6,16 @@ hero_image: /assets/images/hero-sky.jpg
 narrow: true
 ---
 
-We welcome inquiries about our services and referral coordination. We aim to respond within 48 hours.
+We welcome inquiries about neuropsychological assessment. If you are wondering whether assessment might be right for you, the best first step is a free 15-minute consultation.
+
+<a href="{{ site.data.contact.booking_url }}" target="_blank" rel="noopener" class="btn btn--primary">Book a free 15-minute consultation</a>
 
 **Please note:** Assessments are currently completed primarily on Fridays.
 
 ## Contact details
 
-- **Email:** [{{ site.data.contact.email }}](mailto:{{ site.data.contact.email }}?subject=Assessment%20enquiry)
 - **Phone:** [{{ site.data.contact.phone }}](tel:{{ site.data.contact.phone_link }})
+- **Email:** [{{ site.data.contact.email }}](mailto:{{ site.data.contact.email }}?subject=Assessment%20enquiry)
 - **Fax:** {{ site.data.contact.fax }}
 
 ## Address

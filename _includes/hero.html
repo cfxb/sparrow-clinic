@@ -6,7 +6,7 @@
       <p class="hero__subtitle">{{ include.subtitle }}</p>
     {% endif %}
     {% if include.cta %}
-      <a href="mailto:{{ site.data.contact.email }}?subject=Assessment%20enquiry" class="btn btn--primary">Request a phone call</a>
+      <a href="{{ site.data.contact.booking_url }}" target="_blank" rel="noopener" class="btn btn--primary">Book a free 15-minute consultation</a>
     {% endif %}
   </div>
 </section>

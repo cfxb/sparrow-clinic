@@ -55,7 +55,7 @@ You request your records by contacting the relevant doctor or hospital.  You can
 
 Christopher Benjamin\\
 Sparrow Neuropsychology Ltd\\
-Fax: (236) 259 5318\\
+Fax: (236) 501 5099\\
 Email: [clinic@sparrow.clinic](mailto:clinic@sparrow.clinic?subject=Assessment%20enquiry)
 
 You can send us a confidential email by emailing us from a [free proton account](https://www.proton.me).

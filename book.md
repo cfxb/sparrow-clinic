@@ -44,7 +44,7 @@ hero_image: /assets/images/hero-sky.jpg
 
 <h2 class="book-heading">Introductory consultation</h2>
 
-Not sure whether assessment is right for you? Book a free 15-minute call with Dr. Benjamin to talk through your situation and any questions you have. There is no obligation to proceed.
+Not sure whether assessment is right for you? Book a free 15-minute call with Dr. Benjamin to talk through your situation and any questions you have. There is no obligation to proceed. Prefer to call directly? Reach us at [(236) 501-5099](tel:2365015099).
 
 <div class="book-scheduler">
   <iframe src="https://scheduler.zoom.us/christopher-benjamin-xkymna/15-min-sparrow-intake?embedStyle=%7B%22buttonColor%22%3A%22%23a6cdf4%22%7D&embed=true" frameborder="0" title="Book an introductory consultation"></iframe>

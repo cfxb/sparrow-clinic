@@ -12,6 +12,8 @@ If you have been **recently diagnosed with epilepsy**, welcome — you are not a
 
 Many patients in BC have their seizures managed by a neurologist in the community. For more complex evaluation or treatment, patients may be referred to the specialist [VGH Epilepsy Program](https://www.vch.ca/en/service/epilepsy-programs){:target="_blank" rel="noopener"} at Vancouver General Hospital — BC's only comprehensive adult epilepsy program.
 
+If you are wondering whether a neuropsychological assessment might be right for you, Dr. Benjamin offers a [free 15-minute introductory consultation](/book/).
+
 ---
 
 ## Understanding seizures

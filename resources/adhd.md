@@ -8,6 +8,8 @@ narrow: true
 
 These resources are oriented towards adults with ADHD in **British Columbia, Canada**. This page brings together high-quality resources on understanding ADHD, managing its effects on thinking and wellbeing, and finding support. It is intended as a starting point — not a substitute for advice from your own medical team.
 
+If you are wondering whether a neuropsychological assessment might be right for you, Dr. Benjamin offers a [free 15-minute introductory consultation](/book/).
+
 ---
 
 ## What can a neuropsychological assessment uniquely offer?

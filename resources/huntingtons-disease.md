@@ -14,6 +14,8 @@ HD is unlike many other neurological conditions in that it affects movement, cog
 
 The gene responsible for HD was identified in 1993, making predictive genetic testing possible for the first time. This was a profound development for HD families: for the first time, at-risk individuals could know for certain whether they had inherited the mutation — years or decades before any symptoms appeared. This possibility brings with it a set of deeply personal decisions and emotional challenges that have no real parallel in other neurological conditions.
 
+If you are wondering whether a neuropsychological assessment might be right for you or your family, Dr. Benjamin offers a [free 15-minute introductory consultation](/book/).
+
 ---
 
 ## What a neuropsychological assessment can offer

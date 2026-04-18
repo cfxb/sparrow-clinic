@@ -8,6 +8,8 @@ narrow: true
 
 This page brings together high-quality resources for people living with dementia, and their families and carers. It is intended as a starting point — not a substitute for advice from your own medical team.
 
+If you are wondering whether a neuropsychological assessment might be right for you or a family member, Dr. Benjamin offers a [free 15-minute introductory consultation](/book/).
+
 ---
 
 ## What a neuropsychological assessment can offer

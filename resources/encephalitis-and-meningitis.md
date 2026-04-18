@@ -14,6 +14,8 @@ These resources are oriented towards people living with the after-effects of enc
 
 Both conditions are neurological injuries that affect the brain, and their after-effects overlap considerably — particularly in the domains of cognition, mood, fatigue, and adjustment. Survivors of encephalitis and meningitis often find that the lasting effects are poorly understood by others, and that the recovery journey is slower, less linear, and more psychologically complex than they expected.
 
+If you are wondering whether a neuropsychological assessment might be right for you, Dr. Benjamin offers a [free 15-minute introductory consultation](/book/).
+
 ---
 
 ## What a neuropsychological assessment can offer

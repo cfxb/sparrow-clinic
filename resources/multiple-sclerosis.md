@@ -12,6 +12,8 @@ These resources are oriented towards people living with multiple sclerosis in **
 
 MS takes different forms in different people. The most common is relapsing-remitting MS (RRMS), in which periods of new or worsening symptoms (relapses) are followed by periods of recovery. Over time, some people transition to a secondary progressive course; a smaller number have primary progressive MS, in which disability accumulates more steadily without distinct relapses. Disease-modifying therapies, now considerably more effective than a generation ago, can substantially reduce relapse rates and slow progression for many people.
 
+If you are wondering whether a neuropsychological assessment might be right for you, Dr. Benjamin offers a [free 15-minute introductory consultation](/book/).
+
 ---
 
 ## What a neuropsychological assessment can offer

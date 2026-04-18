@@ -12,6 +12,8 @@ These resources are oriented towards people living with Parkinson's disease in *
 
 Parkinson's is often thought of primarily as a movement disorder — and tremor, slowness, and stiffness are indeed its most visible features. But a growing body of evidence recognises that non-motor symptoms — including cognitive changes, mood difficulties, sleep disruption, and fatigue — often cause as much or more difficulty in daily life, and may in some cases precede the motor symptoms by years.
 
+If you are wondering whether a neuropsychological assessment might be right for you or a family member, Dr. Benjamin offers a [free 15-minute introductory consultation](/book/).
+
 ---
 
 ## What a neuropsychological assessment can offer

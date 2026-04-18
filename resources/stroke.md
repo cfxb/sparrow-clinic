@@ -10,6 +10,8 @@ These resources are oriented towards stroke survivors in **British Columbia, Can
 
 A **stroke** occurs when blood supply to part of the brain is suddenly interrupted — either by a blockage in a blood vessel (ischaemic stroke, around 85% of cases) or by bleeding into or around the brain (haemorrhagic stroke). Every minute counts during a stroke: the faster blood flow is restored, the less brain tissue is lost. In BC, approximately 7,000 people experience a stroke each year, and stroke remains one of the leading causes of adult disability in Canada. Survival rates have improved substantially over recent decades — which means more people are living with the long-term effects of stroke than ever before.
 
+If you are wondering whether a neuropsychological assessment might be right for you or someone you care for, Dr. Benjamin offers a [free 15-minute introductory consultation](/book/).
+
 ---
 
 ## What a neuropsychological assessment can offer

@@ -14,6 +14,8 @@ These resources are oriented towards people living with depression or anxiety in
 
 Both conditions are real, biological, treatable — and both can significantly impair thinking, memory, attention, and everyday functioning in ways that are often not well recognised or taken seriously.
 
+If you are wondering whether a neuropsychological assessment might be right for you, Dr. Benjamin offers a [free 15-minute introductory consultation](/book/).
+
 ---
 
 ## What a neuropsychological assessment can offer

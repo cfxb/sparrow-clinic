@@ -14,6 +14,8 @@ The most common primary brain tumours in adults are gliomas — tumours arising 
 
 Brain tumours are unusual among neurological conditions in that treatment itself — surgery, radiation, and chemotherapy — is a significant source of neurological change alongside the tumour. Understanding what the tumour, and what the treatment, has done to the brain is a central concern for most patients and their families.
 
+If you are wondering whether a neuropsychological assessment might be right for you or your family member, Dr. Benjamin offers a [free 15-minute introductory consultation](/book/).
+
 ---
 
 ## What a neuropsychological assessment can offer

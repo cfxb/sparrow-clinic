@@ -14,9 +14,11 @@
           <p>Fax: {{ site.data.contact.fax }}</p>
           <p>Email: <a href="mailto:{{ site.data.contact.email }}?subject=Assessment%20enquiry">{{ site.data.contact.email }}</a></p>
         </div>
+        {% unless page.url == '/book/' %}
         <div class="mt-2">
           {% include cta-phone.html %}
         </div>
+        {% endunless %}
       </div>
     </div>
     <div class="site-footer__bottom">

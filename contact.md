@@ -8,7 +8,7 @@ narrow: true
 
 We welcome inquiries about neuropsychological assessment. If you are wondering whether assessment might be right for you, the best first step is a free 15-minute consultation.
 
-<a href="{{ site.data.contact.booking_url }}" target="_blank" rel="noopener" class="btn btn--primary">Book an introductory consultation</a>
+<a href="/book" class="btn btn--primary">Book an introductory consultation</a>
 
 **Please note:** Assessments are currently completed primarily on Fridays.
 

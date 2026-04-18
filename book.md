@@ -40,7 +40,7 @@ hero_image: /assets/images/hero-sky.jpg
   }
 </style>
 
-<span class="book-label">Free · 15 minutes · Video</span>
+<span class="book-label">Free · 15 minutes · Video or phone</span>
 
 <h2 class="book-heading">Introductory consultation</h2>
 

@@ -4,6 +4,12 @@
   url: /about/
 - title: Services
   url: /services/
+- title: Referral
+  url: /referral/
+- title: Book
+  url: /book/
+- title: Contact
+  url: /contact/
 - title: Resources
   url: /resources/
   children:
@@ -29,12 +35,6 @@
       url: /resources/encephalitis-and-meningitis/
     - title: Depression and Anxiety
       url: /resources/depression-and-anxiety/
-- title: Referral
-  url: /referral/
-- title: Book
-  url: /book/
-- title: Contact
-  url: /contact/
 - title: Research
   url: https://www.cogneuro.net
   external: true

@@ -4,6 +4,7 @@ title: Dementia Resources — Sparrow Neuropsychology
 hero_title: Dementia Resources
 hero_subtitle: Organisations, information, and support for people living with dementia in BC
 narrow: true
+under_review: true
 ---
 
 This page brings together high-quality resources for people living with dementia, and their families and carers. It is intended as a starting point — not a substitute for advice from your own medical team.

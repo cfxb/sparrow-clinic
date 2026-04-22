@@ -4,6 +4,7 @@ title: Traumatic Brain Injury Resources — Sparrow Neuropsychology
 hero_title: Traumatic Brain Injury Resources
 hero_subtitle: Information and support for people living with TBI or concussion in BC, Canada
 narrow: true
+under_review: true
 ---
 
 These resources are oriented towards people living with a traumatic brain injury (TBI) or concussion in **British Columbia, Canada**. This page brings together high-quality resources on understanding TBI, managing its effects on thinking and mood, accessing rehabilitation, and finding support. It is intended as a starting point — not a substitute for advice from your own medical team.

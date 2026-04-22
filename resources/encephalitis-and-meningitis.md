@@ -4,6 +4,7 @@ title: Encephalitis and Meningitis Resources — Sparrow Neuropsychology
 hero_title: Encephalitis and Meningitis Resources
 hero_subtitle: Organisations, information, and support for people affected by encephalitis or meningitis in BC, Canada
 narrow: true
+under_review: true
 ---
 
 These resources are oriented towards people living with the after-effects of encephalitis or meningitis in **British Columbia, Canada**. This page brings together high-quality information, services, and support for survivors and their families. It is intended as a starting point — not a substitute for advice from your own medical team.

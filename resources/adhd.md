@@ -4,6 +4,7 @@ title: ADHD Resources — Sparrow Neuropsychology
 hero_title: ADHD Resources
 hero_subtitle: Information and support for adults with ADHD in BC, Canada
 narrow: true
+under_review: true
 ---
 
 These resources are oriented towards adults with ADHD in **British Columbia, Canada**. This page brings together high-quality resources on understanding ADHD, managing its effects on thinking and wellbeing, and finding support. It is intended as a starting point — not a substitute for advice from your own medical team.

@@ -4,6 +4,7 @@ title: Huntington's Disease Resources — Sparrow Neuropsychology
 hero_title: Huntington's Disease Resources
 hero_subtitle: Organisations, information, and support for people affected by Huntington's disease in BC, Canada
 narrow: true
+under_review: true
 ---
 
 These resources are oriented towards people affected by Huntington's disease in **British Columbia, Canada**. This page brings together high-quality information, services, and support for people living with HD and for the families who share their lives. It is intended as a starting point — not a substitute for advice from your own medical team.

@@ -4,6 +4,7 @@ title: Brain Tumour Resources — Sparrow Neuropsychology
 hero_title: Brain Tumour Resources
 hero_subtitle: Organisations, information, and support for people living with a brain tumour in BC, Canada
 narrow: true
+under_review: true
 ---
 
 These resources are oriented towards people living with a brain tumour in **British Columbia, Canada**. This page brings together high-quality information, services, and support for patients and their families. It is intended as a starting point — not a substitute for advice from your own medical team.

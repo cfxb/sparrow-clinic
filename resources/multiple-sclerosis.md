@@ -4,6 +4,7 @@ title: Multiple Sclerosis Resources — Sparrow Neuropsychology
 hero_title: Multiple Sclerosis Resources
 hero_subtitle: Organisations, information, and support for people living with MS in BC, Canada
 narrow: true
+under_review: true
 ---
 
 These resources are oriented towards people living with multiple sclerosis in **British Columbia, Canada**. This page brings together high-quality information, services, and support for people with MS and for the families and carers who support them. It is intended as a starting point — not a substitute for advice from your own medical team.

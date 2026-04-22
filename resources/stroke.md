@@ -4,6 +4,7 @@ title: Stroke Resources — Sparrow Neuropsychology
 hero_title: Stroke Resources
 hero_subtitle: Organisations, information, and support for stroke survivors and their families in BC, Canada
 narrow: true
+under_review: true
 ---
 
 These resources are oriented towards stroke survivors in **British Columbia, Canada**. This page brings together high-quality information, services, and support for people recovering from stroke and for the families and carers who support them. It is intended as a starting point — not a substitute for advice from your own medical team.

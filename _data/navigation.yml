@@ -10,6 +10,8 @@
   url: /book/
 - title: Contact
   url: /contact/
+- title: FAQ
+  url: /faq/
 - title: Resources
   url: /resources/
   children:

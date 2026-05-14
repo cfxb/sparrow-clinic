@@ -29,7 +29,7 @@ Neuropsychological assessment following TBI serves several purposes:
 
 - Documenting cognitive effects: standardised testing provides an objective measure of the cognitive impact of the injury, covering memory, attention, processing speed, executive function, and language.
 - Monitoring recovery: serial assessments track improvement over time and inform decisions about return to work, school, or sport.
-- Medicolegal documentation: detailed assessment reports provide objective evidence for insurance claims, legal proceedings, or workplace accommodation requests.
+- Supporting accommodations: detailed assessment reports provide objective documentation to support workplace, school, or disability accommodation requests.
 - Guiding rehabilitation: understanding the specific cognitive profile guides targeted rehabilitation strategies and supports.
 
 Assessment begins with a clinical interview covering the injury history, current symptoms, and their functional impact. Cognitive testing typically covers memory, attention, processing speed, and executive function. Testing duration varies depending on the nature and severity of the injury, typically ranging from two to five hours.

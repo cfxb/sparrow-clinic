@@ -29,12 +29,6 @@ Preparation is mostly practical: sleep normally, take regular medications unless
 
 If you are being assessed for a specific question — for example, suspected ADHD, post-concussion symptoms, or memory change — bring any relevant medical records, school reports, imaging summaries, or prior psychological testing. For pediatric assessments in Vancouver, parents are asked to bring report cards, individualized education plans, and prior specialist letters where available. Plan for the day to be cognitively demanding, and arrange transportation if you anticipate fatigue.
 
-## What is the difference between psychoeducational and neuropsychological testing?
-
-Psychoeducational testing focuses on learning, academic skills, and educational planning, while neuropsychological testing examines a broader range of brain-based cognitive functions in the context of medical, neurological, or psychiatric conditions. The two overlap in tools but differ in scope, referral questions, and clinical framing.
-
-A psychoeducational assessment typically targets questions such as whether a student meets criteria for a learning disability or gifted designation, and is often used to support school accommodations in British Columbia. A neuropsychological assessment is broader: it can address learning concerns, but it is also used to characterize cognition in adults and children with epilepsy, stroke, brain injury, neurodevelopmental conditions, neurodegenerative disease, and complex psychiatric presentations. When a child has a known medical or neurological condition, a neuropsychological framing is usually more appropriate than a purely psychoeducational one.
-
 ## What do neurologists want from a neuropsychology report?
 
 Neurologists generally want a clear cognitive profile, an interpretation that integrates imaging and clinical data, and explicit answers to their referral question. A useful report distinguishes cognitive patterns consistent with a neurological process from those better explained by mood, sleep, pain, or medication effects.

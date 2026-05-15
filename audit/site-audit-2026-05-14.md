@@ -469,3 +469,54 @@ FAQ now has **22 questions**. FAQPage JSON-LD parses cleanly after each commit; 
 ### Flags surfaced after Tier 3 (not changed silently)
 - The FAQ "About the author" section reads "Dr. Benjamin is a psychologist at Vancouver General Hospital and an adjunct Associate Professor at Yale University." Per the closeout rationale (now casual at VGH, stepped back from the epilepsy program), this present-tense phrasing may overstate involvement. Your call on softening (e.g. "has a clinical appointment at" or "is on staff at") or leaving as-is.
 
+---
+
+## Tier 4 — marketing/superlative trim
+
+### Landed
+| # | Commit | Where | What |
+|---|---|---|---|
+| 4.1 | `29df737` | `about.md`, `index.md` (×2), `contact.md`, `resources/depression-and-anxiety.md` | Five before/after substitutions — see table below. |
+| 4.2 | `7ff4f19` | `resources/epilepsy.md` (line 86) | Sallie Baxendale descriptor reworded to role-neutral phrasing. |
+| 4.3 | `9e99d5d` | `resources/depression-and-anxiety.md` (lines 81, 219, 221) | "comprehensive" trimmed from three third-party resource descriptors. |
+
+### T4.1 — before/after surfacing (for sign-off)
+
+| File | Before | After |
+|---|---|---|
+| `about.md` | "He provides **personalized, evidence-based** assessments of brain function in adults aged 16 and older." | "He provides **evidence-based** assessments of brain function in adults aged 16 and older." |
+| `index.md` (para 1) | "Christopher Benjamin, PhD is a clinical neuropsychologist in Vancouver who **provides comprehensive assessments** of memory, attention, and thinking." | "Christopher Benjamin, PhD is a clinical neuropsychologist in Vancouver who **assesses memory, attention, and thinking in adults aged 16 and older**." |
+| `index.md` (para 2) | "Dr. Benjamin **brings a warm, collaborative, and science-grounded approach to every assessment**." | "Dr. Benjamin **combines standardised testing with evidence-based interpretation for every assessment**." |
+| `contact.md` | "If you are wondering whether assessment might be right for you, **the best first step** is a free 15-minute consultation." | "If you are wondering whether assessment might be right for you, **a useful first step** is a free 15-minute consultation." |
+| `resources/depression-and-anxiety.md:32` | "a **comprehensive** neuropsychological assessment untangles…" | "a neuropsychological assessment untangles…" |
+
+### T4.2 — before/after
+
+| File | Before | After |
+|---|---|---|
+| `resources/epilepsy.md:88` | "Dr Sallie Baxendale is **one of the world's leading neuropsychologists specialising in epilepsy and memory**. She has published several accessible, evidence-based books written specifically for people who experience memory difficulties." | "Dr Sallie Baxendale is **a researcher who has published extensively on cognitive outcomes in epilepsy surgery**. She has also written several accessible, evidence-based books for people who experience memory difficulties." |
+
+### T4.3 — before/after
+
+| File:line | Before | After |
+|---|---|---|
+| `resources/depression-and-anxiety.md:81` | "CAMH's **comprehensive** overview of depression, including its cognitive and biological effects." | "CAMH's overview of depression, including its cognitive and biological effects." |
+| `resources/depression-and-anxiety.md:219` | "Canada's largest mental health teaching hospital and research centre, with **comprehensive, evidence-based** patient information…" | "Canada's largest mental health teaching hospital and research centre, with **evidence-based** patient information…" |
+| `resources/depression-and-anxiety.md:221` | "NIMH (USA) provides **comprehensive, research-based** information on depression and anxiety disorders, including the **latest** evidence on causes, treatments, and research directions." | "NIMH (USA) provides **research-based** information on depression and anxiety disorders, including **evidence** on causes, treatments, and research directions." |
+
+### Deliberately kept (not changed)
+- `about.md` — "INS is the leading international society for clinical neuropsychology." User explicitly endorsed this superlative in an earlier turn (about INS, not about himself). Kept.
+- `resources/epilepsy.md` — "British Columbia's only comprehensive adult epilepsy program" (about VGH, factual). Kept.
+
+### Open placeholders after all four tiers
+| Source | Placeholder |
+|---|---|
+| `contact.md` — Accessibility section | `[INSERT: clinic-specific accessibility notes — e.g., suite-level wheelchair access, accessible washroom, hearing-loop or similar]` |
+| `contact.md` — Accessibility section | `[INSERT: parking guidance — underground or street, rates, validation, etc.]` |
+| `_includes/medical-business-schema.html` | `openingHoursSpecification` — omitted per your decision; revisit if you want structured hours published. |
+| `_includes/medical-business-schema.html` | `sameAs[]` for the business — empty until Google Business Profile / Psychology Today / BCPA listings exist. |
+| `_includes/person-schema.html` | Wikidata URL — appendable to `sameAs` once an entry exists. |
+
+The FAQ wait-time placeholder was filled (P1, commit `71d92a7`) with "four to eight weeks, depending on urgency and complexity." Mirrored in the FAQPage JSON-LD.
+
+

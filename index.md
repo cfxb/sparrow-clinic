@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Adult Neuropsychology — Vancouver, BC"
+title: "Sparrow Neuropsychology — Adult Assessment in Vancouver, BC"
 description: "Adult neuropsychological assessment in Vancouver, BC. Dr. Christopher Benjamin: memory, attention, thinking, epilepsy, brain injury, dementia, MS."
 hero_title: Sparrow Neuropsychology
 hero_subtitle: Helping you understand memory, attention, and thinking changes.

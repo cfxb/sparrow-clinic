@@ -67,6 +67,20 @@ A formal referral is not legally required to see a registered psychologist priva
 
 Some extended health plans in BC require a physician referral for reimbursement even though provincial regulations do not. Patients are encouraged to check their plan before booking. In Vancouver, most adult neuropsychology referrals come from neurology, family medicine, psychiatry, and rehabilitation medicine.
 
+## How do I find a neuropsychologist in Vancouver or BC?
+
+In British Columbia there are two practical starting points for finding a clinical neuropsychologist: the public register of registered psychologists, and the BC Psychological Association's member directory.
+
+The [College of Health and Care Professionals of BC (CHCPBC)](https://chcpbcp.alinityapp.com/) maintains the public register of every registered psychologist in the province. The register lists each clinician's registration number, training, and (where provided) areas of practice; filtering for neuropsychology is the most reliable way to confirm credentials. The [BC Psychological Association (BCPA) directory](https://www.psychologists.bc.ca/find-a-psychologist) is more searchable by city, language, and specialty but is opt-in and does not list every registered psychologist.
+
+A referral is not legally required to see a private psychologist in BC, but many extended health plans require one for reimbursement. In Vancouver, most adult neuropsychology referrals come from neurology, family medicine, psychiatry, and rehabilitation medicine. Sparrow Neuropsychology accepts both physician referrals and direct enquiries from patients; see the [contact page](/contact/) or [book a free introductory consultation](/book/).
+
+## Do you see patients remotely or outside Vancouver?
+
+Sparrow Neuropsychology provides in-person assessments in Vancouver, British Columbia. Remote or telehealth assessments are not offered at this time.
+
+Patients from elsewhere in British Columbia are welcome to attend in person. Some preparatory steps — intake forms, record collection, the introductory consultation — can be handled by phone or email in advance, but the cognitive testing itself is conducted in person at the Vancouver clinic.
+
 ## Can a neuropsychologist diagnose ADHD?
 
 A clinical neuropsychologist in British Columbia can diagnose ADHD when the assessment includes a thorough developmental and clinical history, standardized rating scales, cognitive testing, and consideration of alternative explanations. Neuropsychological testing is not, by itself, diagnostic of ADHD.

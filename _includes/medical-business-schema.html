@@ -43,13 +43,22 @@
       "name": "British Columbia"
     }
   ],
+  "audience": {
+    "@type": "PeopleAudience",
+    "audienceType": "Adults aged 16 and older",
+    "suggestedMinAge": 16
+  },
   "availableService": [
     {
       "@type": "MedicalProcedure",
       "@id": "{{ site.url }}/services/#neuropsychological-assessment",
       "name": "Adult Neuropsychological Assessment",
-      "description": "Structured clinical interview, record review, standardised cognitive testing, written report, and feedback session. Conducted in person in Vancouver, BC, for adults.",
-      "audience": { "@type": "PeopleAudience", "audienceType": "Adults" }
+      "description": "Structured clinical interview, record review, standardised cognitive testing, written report, and feedback session. Conducted in person in Vancouver, BC, for adults aged 16 and older.",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Adults aged 16 and older",
+        "suggestedMinAge": 16
+      }
     },
     {
       "@type": "MedicalProcedure",

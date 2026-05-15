@@ -6,14 +6,15 @@
       "@type": "MedicalProcedure",
       "@id": "{{ site.url }}/services/#neuropsychological-assessment",
       "name": "Adult Neuropsychological Assessment",
-      "description": "Structured clinical evaluation combining a detailed interview, record review, standardised cognitive testing, written report, and feedback session. Conducted in person in Vancouver, BC, for adults.",
+      "description": "Structured clinical evaluation combining a detailed interview, record review, standardised cognitive testing, written report, and feedback session. Conducted in person in Vancouver, BC, for adults aged 16 and older.",
       "url": "{{ site.url }}/services/",
       "procedureType": "https://schema.org/DiagnosticProcedure",
       "provider": { "@id": "{{ site.url }}/#clinic" },
       "performer": { "@id": "{{ site.url }}/#person" },
       "audience": {
         "@type": "PeopleAudience",
-        "audienceType": "Adults"
+        "audienceType": "Adults aged 16 and older",
+        "suggestedMinAge": 16
       },
       "preparation": "Sleep normally, take regular medications as usual unless told otherwise, bring glasses and hearing aids if required, and avoid alcohol and marijuana for at least 24 hours before testing.",
       "howPerformed": "Initial clinical interview; review of medical, educational, and prior assessment records; in-person standardised testing across cognitive domains (attention, memory, language, executive function, visuospatial skills, and others as appropriate); validity and effort indicators; scoring; integration with clinical history; written report; and a feedback meeting."

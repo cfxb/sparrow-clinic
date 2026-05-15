@@ -4,7 +4,7 @@ title: Services
 description: "Neuropsychological assessment services in Vancouver, BC for adults: clinical interview, standardised testing, written report, and a feedback session."
 services_schema: true
 hero_title: Services
-hero_subtitle: Neuropsychological assessment for adults
+hero_subtitle: Neuropsychological assessment for adults aged 16 and older
 hero_image: /assets/images/hero-sky.jpg
 narrow: true
 ---

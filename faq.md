@@ -21,19 +21,21 @@ A neuropsychological assessment is a structured clinical evaluation that combine
 
 The first appointment is usually a clinical interview that covers presenting concerns, medical and psychiatric history, developmental and educational background, occupational functioning, and current mood, sleep, and substance use. Collateral information from family, treating clinicians, and prior records is reviewed where available. The clinician then selects a battery of standardized tests tailored to the referral question rather than running every patient through the same protocol.
 
-Testing samples several domains: attention and working memory, processing speed, language, learning and memory, visuospatial and visuoconstructional skills, executive functions, motor skills, and mood and personality. Validity and effort indicators are administered as standard practice; they help the clinician interpret whether scores reflect underlying ability. After scoring and integration, results are explained in a feedback meeting and summarized in a written report sent to the patient and, with consent, to referring clinicians.
+The second appointment is in person and involves the formal testing. Testing samples several domains: attention and working memory, processing speed, language, learning and memory, visuospatial and visuoconstructional skills, executive functions, motor skills, and mood and personality. Validity and effort indicators are administered as standard practice; they help the clinician interpret whether scores reflect underlying ability. After scoring and integration, results are explained in a feedback meeting and summarized in a written report sent to the patient and, with consent, to referring clinicians.
 
 ## How should I prepare for a neuropsychological assessment?
 
-Preparation is mostly practical: sleep normally, take regular medications unless told otherwise, bring glasses and hearing aids, and bring a list of current medications and prior reports. Avoid alcohol the night before and limit caffeine to your usual amount on the day of testing.
+Preparation is mostly practical: sleep normally, take regular medications unless told otherwise, bring glasses and hearing aids if required, and bring a list of current medications and prior reports. Avoid alcohol and marijuana for at least 24 hours before and limit caffeine to your usual amount on the day of testing.
 
-If you are being assessed for a specific question — for example, suspected ADHD, post-concussion symptoms, or memory change — bring any relevant medical records, school reports, imaging summaries, or prior psychological testing. For pediatric assessments in Vancouver, parents are asked to bring report cards, individualized education plans, and prior specialist letters where available. Plan for the day to be cognitively demanding, and arrange transportation if you anticipate fatigue.
+If you are being assessed for a specific question — for example, suspected ADHD, post-concussion symptoms, or memory change — bring any relevant medical records, school reports, imaging summaries, or prior psychological testing. Plan for the day to be cognitively demanding, and arrange transportation if you anticipate fatigue.
 
 ## What do neurologists want from a neuropsychology report?
 
 Neurologists generally want a clear cognitive profile, an interpretation that integrates imaging and clinical data, and explicit answers to their referral question. A useful report distinguishes cognitive patterns consistent with a neurological process from those better explained by mood, sleep, pain, or medication effects.
 
-In practice, that means concise summaries of test findings by domain, a statement about effort and validity, and an interpretation that addresses lateralization or localization where appropriate. Reports for adults with epilepsy in British Columbia often include a baseline cognitive profile relevant to surgical planning, expected post-surgical cognitive risk, and recommendations for follow-up. Brevity, specificity, and a clear bottom line are more useful to a referring neurologist than exhaustive test-by-test narration.
+In practice, that means concise summaries of test findings by domain, a clear statement about any diagnoses made, and straightforward treatment recommendations.
+
+For presurgical patients with (e.g.,) epilepsy, reports often include a statement of baseline cognitive profile relevant to surgical planning, expected post-surgical cognitive risk, and recommendations for follow-up. Brevity, specificity, and a clear bottom line are more useful to a referring neurologist than exhaustive test-by-test narration.
 
 ## What are common cognitive symptoms in adults with epilepsy?
 
@@ -47,7 +49,7 @@ An IQ score is a summary index that can obscure clinically important cognitive v
 
 IQ tests were not designed to detect acquired cognitive impairment or to characterize selective deficits. A person can have a normal full-scale IQ and a clinically significant memory disorder, executive dysfunction, or language impairment that an IQ test simply does not measure. For most neurological and neuropsychiatric referral questions in Vancouver — memory change, post-injury cognitive concerns, suspected ADHD, epilepsy — IQ testing alone is insufficient and can be actively misleading if treated as a global measure of brain health.
 
-## What can and cannot neuropsychology diagnose?
+## What can and cannot be diagnosed by neuropsychological assessment?
 
 Neuropsychology characterizes cognitive and behavioural functioning and contributes to the diagnosis of conditions with cognitive features, but it does not, on its own, diagnose most neurological diseases. A neuropsychologist measures the cognitive consequences of brain dysfunction; structural and physiological causes are established by neurology, neuroimaging, and laboratory testing.
 
@@ -57,7 +59,7 @@ Neuropsychological assessment contributes meaningfully to the diagnosis of condi
 
 A formal referral is not legally required to see a registered psychologist privately in British Columbia, including a clinical neuropsychologist. However, referrals from a family physician, neurologist, psychiatrist, or other specialist are strongly encouraged because they clarify the clinical question and ensure results return to the treating team.
 
-Some extended health plans in BC require a physician referral for reimbursement even though provincial regulations do not. Patients are encouraged to check their plan before booking. In Vancouver, most adult neuropsychology referrals come from neurology, family medicine, psychiatry, and rehabilitation medicine; pediatric referrals more often come from pediatricians, child psychiatrists, and developmental pediatricians.
+Some extended health plans in BC require a physician referral for reimbursement even though provincial regulations do not. Patients are encouraged to check their plan before booking. In Vancouver, most adult neuropsychology referrals come from neurology, family medicine, psychiatry, and rehabilitation medicine.
 
 ## Can a neuropsychologist diagnose ADHD?
 
@@ -67,7 +69,7 @@ ADHD is a clinical diagnosis: it requires a developmentally appropriate pattern 
 
 ## Does extended health insurance cover neuropsychology in BC?
 
-Many extended health plans in British Columbia provide partial coverage for services delivered by a registered psychologist, which includes clinical neuropsychology. Coverage caps, percentage reimbursement, and whether a referral is required vary considerably by insurer and plan.
+Many extended health plans in British Columbia provide partial or full coverage for services delivered by a registered psychologist, which includes a clinical neuropsychologist. Coverage caps, percentage reimbursement, and whether a referral is required vary considerably by insurer and plan.
 
 Some plans have a combined annual cap for psychology services, which a neuropsychological assessment can exceed in a single appointment. Patients in Vancouver are encouraged to contact their insurer in advance with the relevant service codes and to ask specifically about coverage for neuropsychological assessment, not only therapy. Receipts for tax purposes are typically provided regardless of insurer coverage, because services from a registered psychologist are eligible medical expenses under federal tax rules.
 
@@ -79,21 +81,21 @@ A psychiatrist is a physician who can prescribe, order investigations, and provi
 
 ## How long does neuropsychological testing take?
 
-A full neuropsychological assessment typically takes between four and eight hours of in-person contact, distributed across one or more days. Total turnaround from first appointment to delivered report is usually longer because of scoring, integration, and report writing.
+A full neuropsychological assessment typically takes between four and eight hours of in-person contact, distributed across one or more days. Total turnaround from first appointment to delivered report is usually longer because of scoring, integration, review of records and history, and report writing.
 
 Length depends on the referral question, the patient's age, fatigue tolerance, and the complexity of the cognitive picture. Screening-level assessments can be shorter, while pre-surgical epilepsy evaluations and dementia workups are often longer. Reports at Sparrow Neuropsychology are typically delivered within two to three weeks; current scheduling lead times are noted on the [contact page](/contact/).
 
 ## How much does a neuropsychological assessment cost in BC?
 
-Neuropsychological assessment in private practice in British Columbia is typically priced as a package that reflects interview, testing, scoring, interpretation, report writing, and a feedback session. Fees vary by complexity and by clinician.
+Neuropsychological assessment in private practice in British Columbia is typically priced as a package that reflects interview, record review, testing, scoring, interpretation, report writing, and a feedback session. Fees vary by complexity and by clinician.
 
 A standard clinical neuropsychological assessment at Sparrow Neuropsychology is **$3,750**. This is an all-inclusive package covering the clinical interview, testing, scoring, interpretation, the written report, and a feedback session. Many extended health plans reimburse part or all of this cost — see [Does extended health insurance cover neuropsychology in BC?](#does-extended-health-insurance-cover-neuropsychology-in-bc) above. Patients are encouraged to confirm their coverage with their insurer in advance and can request a written fee estimate before booking. If cost is a barrier to a needed assessment, please get in touch to discuss options.
 
 ## Is neuropsychology covered by MSP in British Columbia?
 
-Neuropsychological assessment in private practice is not covered by the BC Medical Services Plan (MSP), because MSP does not fund services delivered by registered psychologists. Publicly funded neuropsychology in British Columbia exists primarily within hospital-based programs.
+Neuropsychological assessment in private practice is typically not covered by the BC Medical Services Plan (MSP), because MSP does not fund services delivered by registered psychologists.
 
-Patients can access publicly funded neuropsychology through hospital services such as those at Vancouver General Hospital, BC Children's Hospital, and other regional centres, when they meet program-specific eligibility criteria and are referred by a treating physician. Wait times in the public system are often substantial. Private assessment is one alternative; eligibility for partial reimbursement through extended health benefits is the more common funding pathway.
+For select conditions patients can access publicly funded neuropsychological assessment through hospital services such as those at Vancouver General Hospital, BC Children's Hospital, and other regional centres, when they meet program-specific eligibility criteria and are referred by a treating physician. Wait times in the public system are often substantial. Private assessment is one alternative; here eligibility for partial or full reimbursement through extended health benefits is a common funding pathway.
 
 ## When is neuropsychology useful for memory concerns in older adults?
 
@@ -106,12 +108,6 @@ The pattern of test findings — for example, predominantly amnestic versus dyse
 Neuropsychological assessment is generally not indicated in the first weeks after an uncomplicated concussion because most people recover without formal testing. It becomes more useful when cognitive symptoms persist beyond the expected recovery window, when symptoms are disproportionate to the injury, or when return-to-work, school, or sport decisions are complex.
 
 Persistent post-concussion cognitive symptoms are frequently multifactorial: sleep disruption, mood symptoms, pain, vestibular dysfunction, and deconditioning all contribute. A neuropsychological assessment helps disentangle these contributors and produce realistic recommendations rather than attributing every symptom to the injury itself. Validity and effort testing is a standard and necessary part of the assessment.
-
-## When is pediatric neuropsychology indicated?
-
-Pediatric neuropsychology is indicated when a child or adolescent has a known or suspected neurological, developmental, or medical condition that affects learning, attention, behaviour, or development. It is distinct from school-based psychoeducational testing because it integrates medical context, developmental history, and broader cognitive and behavioural functioning.
-
-Common reasons for pediatric neuropsychology referral in Vancouver include epilepsy, prematurity, congenital heart disease, prenatal exposures, acquired brain injury, brain tumours and their treatment, neurogenetic conditions, and complex neurodevelopmental presentations such as suspected ADHD with co-occurring concerns. Assessment results inform school planning, medical management, and family understanding of the child's profile. For children with no medical condition and a pure learning question, a school-based or private psychoeducational assessment is often the more appropriate first step.
 
 ## How accurate are online cognitive tests?
 

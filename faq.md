@@ -93,6 +93,14 @@ Many extended health plans in British Columbia provide partial or full coverage 
 
 Some plans have a combined annual cap for psychology services, which a neuropsychological assessment can exceed in a single appointment. Patients in Vancouver are encouraged to contact their insurer in advance with the relevant service codes and to ask specifically about coverage for neuropsychological assessment, not only therapy. Receipts for tax purposes are typically provided regardless of insurer coverage, because services from a registered psychologist are eligible medical expenses under federal tax rules.
 
+## What is the difference between psychoeducational and neuropsychological testing?
+
+Psychoeducational testing focuses on learning, academic skills, and educational planning; neuropsychological testing looks more broadly at brain-based cognitive functions in the context of medical, neurological, or psychiatric conditions. The two overlap in tools but differ in scope.
+
+In British Columbia, psychoeducational assessment is most commonly used to support post-secondary or admissions-test accommodations. Neuropsychological assessment is broader and is typically used when learning or cognitive concerns sit alongside a medical or neurological history.
+
+Sparrow Neuropsychology offers both, for adults aged 16 and older. Pediatric and school-aged psychoeducational testing is not offered here; for children, a school-based or pediatric psychoeducational provider is the appropriate first step.
+
 ## What is the difference between psychiatry and neuropsychology?
 
 Psychiatry is a branch of medicine that diagnoses and treats mental health conditions, including with medication, while neuropsychology is a specialty within clinical psychology that assesses brain-behaviour relationships using structured testing. The two roles are complementary rather than interchangeable.

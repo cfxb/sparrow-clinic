@@ -1,0 +1,33 @@
+---
+layout: none
+permalink: /robots.txt
+---
+# Sparrow Neuropsychology — robots.txt
+# Intent: the site is fully open to all crawlers. The explicit Allow blocks
+# below make our stance toward AI crawlers deliberate rather than relying on
+# the silent default. To opt out of any one, change its Allow to Disallow.
+
+User-agent: *
+Allow: /
+
+# AI-answer and AI-training crawlers — explicit policy.
+# Related user-triggered variants (ChatGPT-User, Claude-User, Perplexity-User,
+# OAI-SearchBot) are not listed individually; they remain allowed via the
+# User-agent: * block above.
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: {{ site.url }}/sitemap.xml

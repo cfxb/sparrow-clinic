@@ -32,7 +32,7 @@ We welcome inquiries about neuropsychological assessment. If you are wondering w
 
 The clinic is in the Fairmont Medical Building at 750 W Broadway, Vancouver — a few minutes' walk from Broadway–City Hall SkyTrain station (Canada Line) and served by multiple Broadway bus routes including the #99 B-Line and the #9 trolley.
 
-The building has elevator access to all floors. [INSERT: clinic-specific accessibility notes — e.g., suite-level wheelchair access, accessible washroom, hearing-loop or similar.]
+The building has elevator access to all floors, and is wheelchair accessible.
 
 **Parking.** [INSERT: parking guidance — underground or street, rates, validation, etc.]
 

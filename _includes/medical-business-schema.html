@@ -1,0 +1,48 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalBusiness",
+  "@id": "{{ site.url }}/#clinic",
+  "name": "Sparrow Neuropsychology",
+  "legalName": "Sparrow Neuropsychology Inc.",
+  "url": "{{ site.url }}/",
+  "logo": "{{ site.url }}/assets/images/logo.png",
+  "image": "{{ site.url }}/assets/images/og-default.jpg",
+  "description": "Adult neuropsychological assessment in Vancouver, BC — in-person evaluation of memory, attention, and thinking for adults, by registered clinical neuropsychologist Dr. Christopher Benjamin.",
+  "telephone": "+1-236-501-5099",
+  "faxNumber": "+1-236-501-5099",
+  "email": "clinic@sparrow.clinic",
+  "priceRange": "$$$",
+  "currenciesAccepted": "CAD",
+  "medicalSpecialty": "Neuropsychology",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "750 Broadway W, Suite 1210",
+    "addressLocality": "Vancouver",
+    "addressRegion": "BC",
+    "postalCode": "V5Z 1K1",
+    "addressCountry": "CA"
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Vancouver",
+      "containedInPlace": {
+        "@type": "AdministrativeArea",
+        "name": "British Columbia"
+      }
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "British Columbia"
+    }
+  ],
+  "availableService": {
+    "@type": "MedicalProcedure",
+    "name": "Neuropsychological assessment",
+    "description": "Structured clinical interview, record review, standardised cognitive testing, written report, and feedback session. Conducted in person in Vancouver, BC."
+  },
+  "founder": { "@id": "{{ site.url }}/#person" },
+  "employee": { "@id": "{{ site.url }}/#person" }
+}
+</script>

@@ -3,7 +3,6 @@ layout: page
 title: Parkinson's Disease Resources
 description: "Parkinson's disease and cognition: thinking changes, assessment, and BC support resources — Sparrow Neuropsychology, Vancouver."
 author: "Dr. Christopher Benjamin, Clinical Neuropsychologist"
-last_reviewed: 2026-04-22
 hero_title: Parkinson's Disease Resources
 hero_subtitle: Organisations, information, and support for people living with Parkinson's in BC, Canada
 narrow: true

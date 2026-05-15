@@ -3,7 +3,6 @@ layout: page
 title: Depression and Anxiety Resources
 description: "Depression and anxiety: cognitive effects, neuropsychology's role, and BC mental health resources — Sparrow Neuropsychology, Vancouver."
 author: "Dr. Christopher Benjamin, Clinical Neuropsychologist"
-last_reviewed: 2026-04-22
 hero_title: Depression and Anxiety Resources
 hero_subtitle: Organisations, information, and support for people living with depression and anxiety in BC, Canada
 narrow: true

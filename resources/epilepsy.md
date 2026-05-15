@@ -3,7 +3,6 @@ layout: page
 title: Epilepsy Resources
 description: "Information and BC-based resources on epilepsy and cognition for adults — Sparrow Neuropsychology, Vancouver. Includes VGH Epilepsy Program links."
 author: "Dr. Christopher Benjamin, Clinical Neuropsychologist"
-last_reviewed: 2026-04-22
 hero_title: Epilepsy Resources
 hero_subtitle: Organisations, information, and support for people living with epilepsy in BC, Canada
 narrow: true

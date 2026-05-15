@@ -3,7 +3,6 @@ layout: page
 title: Stroke Resources
 description: "Cognitive change after stroke: what to expect, recovery pathways, and BC support resources — Sparrow Neuropsychology, Vancouver."
 author: "Dr. Christopher Benjamin, Clinical Neuropsychologist"
-last_reviewed: 2026-04-22
 hero_title: Stroke Resources
 hero_subtitle: Organisations, information, and support for stroke survivors and their families in BC, Canada
 narrow: true

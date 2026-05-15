@@ -3,7 +3,6 @@ layout: page
 title: Traumatic Brain Injury Resources
 description: "Traumatic brain injury and concussion: cognitive impact, recovery, and BC support resources — Sparrow Neuropsychology, Vancouver."
 author: "Dr. Christopher Benjamin, Clinical Neuropsychologist"
-last_reviewed: 2026-05-14
 hero_title: Traumatic Brain Injury Resources
 hero_subtitle: Information and support for people living with TBI or concussion in BC, Canada
 narrow: true

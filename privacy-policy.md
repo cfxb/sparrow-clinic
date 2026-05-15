@@ -9,7 +9,7 @@ narrow: true
 **Sparrow Neuropsychology**\\
 *Last updated: September 9, 2025*
 
-Sparrow Neuropsychology complies with the standards of the College of Psychologists of British Columbia and with British Columbia's *Personal Information Protection Act (PIPA)*, which sets out rules for how organizations collect, use and disclose personal information. Where personal information crosses provincial or national borders, Canada's *Personal Information Protection and Electronic Documents Act (PIPEDA)* may also apply.
+Sparrow Neuropsychology complies with the standards of the College of Health and Care Professionals of British Columbia (CHCPBC) and with British Columbia's *Personal Information Protection Act (PIPA)*, which sets out rules for how organizations collect, use and disclose personal information. Where personal information crosses provincial or national borders, Canada's *Personal Information Protection and Electronic Documents Act (PIPEDA)* may also apply.
 
 ## 1. Accountability
 
@@ -43,7 +43,7 @@ We use and disclose personal information only for the purposes listed above, unl
 - Risk of serious harm to self or others
 - Suspected abuse or neglect of a child or vulnerable adult
 - A lawful order (e.g., court order, subpoena) or regulator request
-- An audit by the College of Psychologists of BC
+- An audit by the College of Health and Care Professionals of BC (CHCPBC)
 
 We retain records for at least **7 years** after the last date of service (or longer if required by law). After that, we securely destroy or anonymize them.
 

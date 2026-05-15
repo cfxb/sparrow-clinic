@@ -14,7 +14,7 @@ Christopher Benjamin, PhD is a neuropsychologist in Vancouver, BC, practicing as
 ## Professional credentials
 
 <ul class="credentials">
-  <li>Licensed psychologist in Canada (BC #4057) and the United States (CT #8423)</li>
+  <li>Licensed psychologist in Canada (<a href="https://chcpbcp.alinityapp.com/Client/PublicDirectory/Registrant/5743f595-0a9b-ef11-b035-000d3a844429" rel="noopener" target="_blank">BC #4057</a>) and the United States (CT #8423)</li>
   <li>Clinical neuropsychologist at <a href="https://www.vch.ca/en/location-service/epilepsy-program-gordon-and-leslie-diamond-health-care-centre">Vancouver General Hospital</a></li>
   <li>Associate Professor at <a href="https://medicine.yale.edu/profile/christopher-benjamin/">Yale University</a></li>
 </ul>

@@ -21,7 +21,7 @@ Common referral questions include:
 - Baseline evaluations of thinking
 - Return-to-work assessments
 
-Please note we do not typically see patients whose primary concern is epilepsy.  Such patients should be referred to an epilepsy program, such as the one at Vancouver General Hospital.
+Please note we do not typically see patients whose primary concern is ongoing seizure management. Such patients should be referred to an epilepsy program, such as the one at Vancouver General Hospital.
 
 ## How to refer
 

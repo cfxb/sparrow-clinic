@@ -509,14 +509,19 @@ FAQ now has **22 questions**. FAQPage JSON-LD parses cleanly after each commit; 
 - `resources/epilepsy.md` — "British Columbia's only comprehensive adult epilepsy program" (about VGH, factual). Kept.
 
 ### Open placeholders after all four tiers
-| Source | Placeholder |
-|---|---|
-| `contact.md` — Accessibility section | `[INSERT: clinic-specific accessibility notes — e.g., suite-level wheelchair access, accessible washroom, hearing-loop or similar]` |
-| `contact.md` — Accessibility section | `[INSERT: parking guidance — underground or street, rates, validation, etc.]` |
-| `_includes/medical-business-schema.html` | `openingHoursSpecification` — omitted per your decision; revisit if you want structured hours published. |
-| `_includes/medical-business-schema.html` | `sameAs[]` for the business — empty until Google Business Profile / Psychology Today / BCPA listings exist. |
-| `_includes/person-schema.html` | Wikidata URL — appendable to `sameAs` once an entry exists. |
 
-The FAQ wait-time placeholder was filled (P1, commit `71d92a7`) with "four to eight weeks, depending on urgency and complexity." Mirrored in the FAQPage JSON-LD.
+All in-repo `[INSERT]` placeholders are now resolved.
+
+- `contact.md` accessibility note — resolved `98270a7` ("The building has elevator access to all floors, and is wheelchair accessible.")
+- `contact.md` parking guidance — resolved `31654b9` ("There is paid parking on the second level of the building, with entry from the rear.")
+- FAQ wait-time placeholder — resolved `71d92a7` ("four to eight weeks, depending on urgency and complexity"); mirrored in FAQPage JSON-LD.
+
+Remaining items are off-site only, not blocking anything in the repo:
+
+| Source | Item | Status |
+|---|---|---|
+| `_includes/medical-business-schema.html` | `openingHoursSpecification` | Omitted per decision; revisit if you want structured hours published. |
+| `_includes/medical-business-schema.html` | business `sameAs[]` | Empty until Google Business Profile / Psychology Today / BCPA listings exist. Append URLs as they go live. |
+| `_includes/person-schema.html` | Wikidata URL | No entry yet; appendable to `sameAs` once one exists. |
 
 

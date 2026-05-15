@@ -137,6 +137,14 @@ Neuropsychological assessment is useful when memory complaints in an older adult
 
 The pattern of test findings — for example, predominantly amnestic versus dysexecutive versus language-led — helps clarify the most likely underlying process and informs follow-up planning with neurology, geriatrics, or family medicine. Assessment is most informative when results are interpreted alongside medical workup, including blood work and neuroimaging where indicated. For older adults in Vancouver and across British Columbia, neuropsychological assessment can also support decisions about driving, financial management, and capacity, though formal capacity assessment is a separate process.
 
+## What is mild cognitive impairment (MCI), and when is neuropsychology helpful for it?
+
+Mild cognitive impairment (MCI) describes measurable cognitive decline beyond what is expected for a person's age and education, without a level of impairment that meets criteria for dementia. People with MCI typically function independently in daily life but notice slips in memory, attention, or other thinking skills that family or close colleagues also recognise.
+
+Neuropsychological assessment is particularly useful in MCI because it documents the specific pattern of strengths and weaknesses — predominantly amnestic, dysexecutive, language-led, or mixed. The pattern matters clinically: it helps clarify the most likely underlying process, informs follow-up planning with neurology, geriatrics, or family medicine, and provides a baseline against which any future change can be measured.
+
+Not every adult with memory complaints meets criteria for MCI. Many cognitive symptoms are better explained by mood, sleep, pain, or medication effects, all of which can produce genuine difficulty without measurable impairment on testing. A careful assessment distinguishes these and points to the most useful next steps.
+
 ## Is neuropsychological assessment indicated after concussion or mild TBI?
 
 Neuropsychological assessment is generally not indicated in the first weeks after an uncomplicated concussion because most people recover without formal testing. It becomes more useful when cognitive symptoms persist beyond the expected recovery window, when symptoms are disproportionate to the injury, or when return-to-work, school, or sport decisions are complex.

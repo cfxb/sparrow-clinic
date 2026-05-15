@@ -78,7 +78,7 @@ Anxiety hijacks attention. The threat-detection systems that generate anxiety ar
 - **Decision-making** is affected by the overestimation of risk and the difficulty of tolerating uncertainty that characterises anxiety
 - **In performance contexts** — exams, presentations, assessments — anxiety can produce significant acute cognitive impairment that does not reflect actual underlying ability
 
-- [What does depression do to cognitive functioning?](https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/depression){:target="_blank" rel="noopener"} — CAMH's comprehensive overview of depression, including its cognitive and biological effects.
+- [What does depression do to cognitive functioning?](https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/depression){:target="_blank" rel="noopener"} — CAMH's overview of depression, including its cognitive and biological effects.
 - [What are the symptoms of depression?](https://www.beyondblue.org.au/mental-health/depression/signs-and-symptoms-of-depression){:target="_blank" rel="noopener"} — Beyond Blue's guide to the signs and symptoms of depression, including cognitive, emotional, physical, and behavioural changes. Beyond Blue is an Australian mental health organisation with internationally recognised, evidence-based resources.
 - [What are the symptoms of anxiety?](https://www.beyondblue.org.au/mental-health/anxiety/signs-and-symptoms-of-anxiety){:target="_blank" rel="noopener"} — Beyond Blue's guide to anxiety symptoms across emotional, cognitive, physical, and behavioural domains.
 - [How does depression relate to physical health?](https://www.beyondblue.org.au/mental-health/depression/depression-and-physical-health){:target="_blank" rel="noopener"} — Beyond Blue's overview of the relationship between depression and physical health, including sleep, fatigue, pain, and long-term health risks.
@@ -216,9 +216,9 @@ Connecting with others who understand your experience — people who are not try
 
 **National and international**
 
-- [What is CAMH?](https://www.camh.ca/){:target="_blank" rel="noopener"} — The Centre for Addiction and Mental Health is Canada's largest mental health teaching hospital and research centre, with comprehensive, evidence-based patient information on depression, anxiety, and their treatments.
+- [What is CAMH?](https://www.camh.ca/){:target="_blank" rel="noopener"} — The Centre for Addiction and Mental Health is Canada's largest mental health teaching hospital and research centre, with evidence-based patient information on depression, anxiety, and their treatments.
 - [What is the Mood Disorders Society of Canada?](https://mooddisorders.ca/){:target="_blank" rel="noopener"} — The Mood Disorders Society of Canada advocates for people living with mood disorders including depression and anxiety, and provides peer support resources and information.
-- [What does the National Institute of Mental Health (NIMH) offer?](https://www.nimh.nih.gov/health/topics/depression){:target="_blank" rel="noopener"} — NIMH (USA) provides comprehensive, research-based information on depression and anxiety disorders, including the latest evidence on causes, treatments, and research directions.
+- [What does the National Institute of Mental Health (NIMH) offer?](https://www.nimh.nih.gov/health/topics/depression){:target="_blank" rel="noopener"} — NIMH (USA) provides research-based information on depression and anxiety disorders, including evidence on causes, treatments, and research directions.
 - [What does Beyond Blue offer?](https://www.beyondblue.org.au/){:target="_blank" rel="noopener"} — Beyond Blue is an Australian mental health organisation with internationally respected, evidence-based information on depression, anxiety, and their treatment.
 
 ---

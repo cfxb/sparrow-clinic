@@ -144,7 +144,7 @@ The site is doing the human-readable half of local SEO but none of the machine-r
 | Action | Why it matters | Status (per user) |
 |---|---|---|
 | Google Business Profile — claim/verify, categories (Neuropsychologist, Psychologist), NAP, hours, service-area, photos, weekly posts | The single biggest service-finding signal — most LLMs and Google Maps draw heavily from this | unknown |
-| Psychology Today therapist directory listing | High domain authority; consistently appears in "find a psychologist in [city]" results | unknown |
+| Psychology Today therapist directory listing | High domain authority; consistently appears in "find a psychologist in [city]" results | ✓ live — [profile 1503727](https://www.psychologytoday.com/profile/1503727); integrated in Person `sameAs[]` and footer profiles |
 | BC Psychological Association (BCPA) member directory | Authoritative provincial register; trust signal | unknown |
 | College of Health and Care Professionals of BC (CHCPBC) public register entry | Authoritative regulator listing; supports the licence-number claim on the site | exists (mandatory) — link from site? |
 | VGH / VCH provider listing | Already linked from `/about/` to the program page; confirm a profile entry exists and is consistent | partially linked |
@@ -353,7 +353,7 @@ Appended to as new placeholders are introduced commit-by-commit.
 | `_includes/medical-business-schema.html` | `GeoCoordinates` for 750 Broadway W, Vancouver | Omitted to avoid a fabricated lat/lon. Add `"geo": { "@type": "GeoCoordinates", "latitude": <num>, "longitude": <num> }` once verified (Google Maps coordinates for the exact suite are fine). |
 | `_includes/medical-business-schema.html` | `openingHoursSpecification` | Omitted; the site currently says only "primarily on Fridays" (`/contact/`). Decide whether to publish specific hours (e.g. `Friday 09:00–17:00`) or leave open. |
 | `_includes/medical-business-schema.html` | `paymentAccepted` | Omitted; not stated anywhere on the site. Add a short list, e.g. `"paymentAccepted": "Credit card, debit card, e-transfer"`. |
-| `_includes/medical-business-schema.html` | `sameAs[]` for the business | Empty until you have business-level URLs (Google Business Profile, Psychology Today, BCPA member directory). Add as those listings come online. |
+| `_includes/medical-business-schema.html` | `sameAs[]` for the business | Empty until you have clinic-level URLs (Google Business Profile, BCPA member directory). Add as those listings come online. **Note:** Psychology Today is a clinician-level identifier and belongs in Person `sameAs[]` only — not here. |
 | `_includes/person-schema.html` | Wikidata entity | No Wikidata entry exists yet. If you create one for Christopher Benjamin (clinical neuropsychologist), append its `https://www.wikidata.org/wiki/Q…` URL to the Person `sameAs[]` and the visible footer profiles. |
 | `privacy-policy.md` line 11 | Regulator name out of date | Currently reads "College of Psychologists of British Columbia". The current regulator is the College of Health and Care Professionals of BC (CHCPBC), formed by amalgamation. Update the wording site-wide where the old college is named. Surfacing rather than fixing because the privacy-policy text is legally framed copy and you may want to review the full paragraph. |
 | FAQ (planned Tier 3.2) | Current wait time | Per your instruction: leave as `[INSERT: current wait time]` in the new FAQ entry to be added in Tier 3. |
@@ -375,11 +375,12 @@ Appended to as new placeholders are introduced commit-by-commit.
 These are the same off-site directory items from the audit's Section D, repeated here so they're not forgotten when filling placeholders:
 
 - Google Business Profile (categories, NAP, hours, photos, weekly posts)
-- Psychology Today therapist directory listing
 - BC Psychological Association (BCPA) member directory listing
 - VGH / VCH provider listing — confirm and link bidirectionally
 - Yale faculty profile — confirm bidirectional `sameAs` back to sparrow.clinic
 - RateMDs and BC physician directories — listing not required but helps service-finding
+
+Resolved: Psychology Today profile [1503727](https://www.psychologytoday.com/profile/1503727) — integrated as a clinician-level identifier in Person `sameAs[]` and the footer profile list. **Not** added to MedicalBusiness `sameAs[]` (that array is for clinic-level directory listings only).
 
 Once any of these go live, append the URL to the business `sameAs[]` in `_includes/medical-business-schema.html` (Google Business Profile especially — the strongest single local signal).
 
@@ -521,7 +522,7 @@ Remaining items are off-site only, not blocking anything in the repo:
 | Source | Item | Status |
 |---|---|---|
 | `_includes/medical-business-schema.html` | `openingHoursSpecification` | Omitted per decision; revisit if you want structured hours published. |
-| `_includes/medical-business-schema.html` | business `sameAs[]` | Empty until Google Business Profile / Psychology Today / BCPA listings exist. Append URLs as they go live. |
+| `_includes/medical-business-schema.html` | business `sameAs[]` | Empty until Google Business Profile / BCPA listings exist. Append URLs as they go live. Psychology Today belongs in Person `sameAs[]` (clinician-level), not here. |
 | `_includes/person-schema.html` | Wikidata URL | No entry yet; appendable to `sameAs` once one exists. |
 
 

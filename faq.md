@@ -165,7 +165,7 @@ A normal cognitive profile does not mean the person's experience is invented. It
 
 ## About the author
 
-Sparrow Neuropsychology is led by Dr. Christopher Benjamin, a registered clinical neuropsychologist in Vancouver, British Columbia. Dr. Benjamin is a psychologist at Vancouver General Hospital and an adjunct Associate Professor at Yale University, with clinical and research interests in epilepsy and adult neuropsychology. More information is available on the [about page](/about/).
+Sparrow Neuropsychology is led by Dr. Christopher Benjamin, a registered clinical neuropsychologist in Vancouver, British Columbia. Dr. Benjamin holds a casual appointment at Vancouver General Hospital and is an adjunct Associate Professor at Yale University, with clinical and research interests in epilepsy and adult neuropsychology. More information is available on the [about page](/about/).
 
 ## Contact
 

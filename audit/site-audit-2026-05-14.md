@@ -358,6 +358,18 @@ Appended to as new placeholders are introduced commit-by-commit.
 | `privacy-policy.md` line 11 | Regulator name out of date | Currently reads "College of Psychologists of British Columbia". The current regulator is the College of Health and Care Professionals of BC (CHCPBC), formed by amalgamation. Update the wording site-wide where the old college is named. Surfacing rather than fixing because the privacy-policy text is legally framed copy and you may want to review the full paragraph. |
 | FAQ (planned Tier 3.2) | Current wait time | Per your instruction: leave as `[INSERT: current wait time]` in the new FAQ entry to be added in Tier 3. |
 
+### Introduced or resolved during Tier 2
+
+| Source | Placeholder / item | Notes |
+|---|---|---|
+| `_includes/medical-business-schema.html` | Geo coordinates **set to lat 49.2632, lon -123.1238** | Approximate values for 750 Broadway W, Vancouver, BC. Please sanity-check against Google Maps for 750 W Broadway (street address, not the suite). Adjust if your geocoded value differs. |
+| `_includes/medical-business-schema.html` | `paymentAccepted` resolved | ["Cash", "Cheque", "Credit Card", "Debit Card", "Electronic Funds Transfer"] — per decision 4c. |
+| `services.md` | Visible psychoeducational section added | Section author copy is mine and follows the 16+ scope you set. Please review the wording on a live build before Tier 3 layers more on top. |
+| `_includes/services-schema.html` | `MedicalProcedure` schema for psychoeducational | `audience.suggestedMinAge: 16`; `audienceType: "Adults aged 16 and older"`. |
+| `_includes/services-schema.html` | `MedicalProcedure` schema for neuropsychological | `audienceType: "Adults"` only; no `suggestedMinAge` per your instruction to leave it off unless the service is age-restricted. Confirm this is correct or specify a minimum age and I'll add it in a follow-up. |
+| `resources/*.md` | `last_reviewed` dates | Set to the file's last substantive-content modification date (mostly 2026-04-22; TBI 2026-05-14). Override per page if you'd like a different review cadence. |
+| `privacy-policy.md` | Regulator name corrected to CHCPBC | Two references updated; no other substantive policy rewording. |
+
 ### Already known / acknowledged off-site work (not site content — informational)
 
 These are the same off-site directory items from the audit's Section D, repeated here so they're not forgotten when filling placeholders:

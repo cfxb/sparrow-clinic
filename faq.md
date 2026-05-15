@@ -23,7 +23,7 @@ _Last updated: 2026-05-15_
 
 ## What actually happens during a neuropsychological assessment?
 
-A neuropsychological assessment is a structured clinical evaluation that combines a detailed interview, standardized cognitive testing, and integration of medical and psychological information to characterize how a person's brain is functioning. In a Vancouver private-practice setting, it typically unfolds across one or more appointments and is conducted by, or under the supervision of, a registered clinical neuropsychologist.
+A neuropsychological assessment is a structured clinical evaluation that combines a detailed interview, standardized cognitive testing, and integration of medical and psychological information to characterise how a person's brain is functioning. In a Vancouver private-practice setting, it typically unfolds across one or more appointments and is conducted by, or under the supervision of, a registered clinical neuropsychologist.
 
 The first appointment is usually a clinical interview that covers presenting concerns, medical and psychiatric history, developmental and educational background, occupational functioning, and current mood, sleep, and substance use. Collateral information from family, treating clinicians, and prior records is reviewed where available. The clinician then selects a battery of standardized tests tailored to the referral question rather than running every patient through the same protocol.
 
@@ -47,17 +47,17 @@ For presurgical patients with (e.g.,) epilepsy, reports often include a statemen
 
 Adults with epilepsy commonly report problems with memory, word-finding, attention, and mental speed, though the specific pattern varies with seizure focus, age of onset, and medication burden. Temporal lobe epilepsy is most often associated with material-specific memory difficulties, while frontal lobe epilepsy more often affects attention, executive control, and processing speed.
 
-Cognitive symptoms in epilepsy are multifactorial. They may reflect the underlying epileptogenic lesion, the cumulative effect of seizures, interictal discharges, antiseizure medications, mood and sleep disruption, or some combination of these. Neuropsychological assessment is widely used in epilepsy care in British Columbia to characterize this profile, to support pre-surgical decision-making, and to track cognition over time after medication changes or surgery.
+Cognitive symptoms in epilepsy are multifactorial. They may reflect the underlying epileptogenic lesion, the cumulative effect of seizures, interictal discharges, antiseizure medications, mood and sleep disruption, or some combination of these. Neuropsychological assessment is widely used in epilepsy care in British Columbia to characterise this profile, to support pre-surgical decision-making, and to track cognition over time after medication changes or surgery.
 
 ## Why is IQ testing alone often misleading?
 
 An IQ score is a summary index that can obscure clinically important cognitive variability rather than reveal it. Two people with identical IQs can have very different memory, attention, language, and executive profiles, and only some of those profiles are clinically relevant to the referral question.
 
-IQ tests were not designed to detect acquired cognitive impairment or to characterize selective deficits. A person can have a normal full-scale IQ and a clinically significant memory disorder, executive dysfunction, or language impairment that an IQ test simply does not measure. For most neurological and neuropsychiatric referral questions in Vancouver — memory change, post-injury cognitive concerns, suspected ADHD, epilepsy — IQ testing alone is insufficient and can be actively misleading if treated as a global measure of brain health.
+IQ tests were not designed to detect acquired cognitive impairment or to characterise selective deficits. A person can have a normal full-scale IQ and a clinically significant memory disorder, executive dysfunction, or language impairment that an IQ test simply does not measure. For most neurological and neuropsychiatric referral questions in Vancouver — memory change, post-injury cognitive concerns, suspected ADHD, epilepsy — IQ testing alone is insufficient and can be actively misleading if treated as a global measure of brain health.
 
 ## What can and cannot be diagnosed by neuropsychological assessment?
 
-Neuropsychology characterizes cognitive and behavioural functioning and contributes to the diagnosis of conditions with cognitive features, but it does not, on its own, diagnose most neurological diseases. A neuropsychologist measures the cognitive consequences of brain dysfunction; structural and physiological causes are established by neurology, neuroimaging, and laboratory testing.
+Neuropsychology characterises cognitive and behavioural functioning and contributes to the diagnosis of conditions with cognitive features, but it does not, on its own, diagnose most neurological diseases. A neuropsychologist measures the cognitive consequences of brain dysfunction; structural and physiological causes are established by neurology, neuroimaging, and laboratory testing.
 
 Neuropsychological assessment contributes meaningfully to the diagnosis of conditions such as ADHD, learning disorders, mild cognitive impairment, and dementia syndromes, and to the differential diagnosis between cognitive impairment and depression, anxiety, sleep disorders, or chronic pain. It does not diagnose conditions such as multiple sclerosis, stroke, brain tumours, or epilepsy; those diagnoses rest on medical workup. A well-framed report makes this distinction clear and states what is, and is not, supported by the testing.
 
@@ -99,7 +99,7 @@ Psychoeducational testing focuses on learning, academic skills, and educational 
 
 In British Columbia, psychoeducational assessment is most commonly used to support post-secondary or admissions-test accommodations. Neuropsychological assessment is broader and is typically used when learning or cognitive concerns sit alongside a medical or neurological history.
 
-Sparrow Neuropsychology offers both, for adults aged 16 and older. Pediatric and school-aged psychoeducational testing is not offered here; for children, a school-based or pediatric psychoeducational provider is the appropriate first step.
+Sparrow Neuropsychology offers both, for adults aged 16 and older. Paediatric and school-aged psychoeducational testing is not offered here; for children, a school-based or paediatric psychoeducational provider is the appropriate first step.
 
 ## What is the difference between psychiatry and neuropsychology?
 
@@ -133,7 +133,7 @@ For select conditions patients can access publicly funded neuropsychological ass
 
 ## When is neuropsychology useful for memory concerns in older adults?
 
-Neuropsychological assessment is useful when memory complaints in an older adult need to be distinguished from normal aging, mild cognitive impairment, or an emerging neurodegenerative process. It establishes a careful cognitive baseline and characterizes the pattern of strengths and weaknesses across memory, language, attention, executive function, and visuospatial skills.
+Neuropsychological assessment is useful when memory complaints in an older adult need to be distinguished from normal aging, mild cognitive impairment, or an emerging neurodegenerative process. It establishes a careful cognitive baseline and characterises the pattern of strengths and weaknesses across memory, language, attention, executive function, and visuospatial skills.
 
 The pattern of test findings — for example, predominantly amnestic versus dysexecutive versus language-led — helps clarify the most likely underlying process and informs follow-up planning with neurology, geriatrics, or family medicine. Assessment is most informative when results are interpreted alongside medical workup, including blood work and neuroimaging where indicated. For older adults in Vancouver and across British Columbia, neuropsychological assessment can also support decisions about driving, financial management, and capacity, though formal capacity assessment is a separate process.
 

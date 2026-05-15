@@ -46,7 +46,7 @@ Sparrow Neuropsychology also provides psychoeducational assessment for **adults 
 
 Psychoeducational assessment overlaps with neuropsychological assessment in the tools used but differs in scope and clinical framing. For an outline of the difference, see [the FAQ](/faq/).
 
-Pediatric and school-aged psychoeducational testing is not offered at Sparrow; for children and adolescents under 16, a school-based or pediatric psychoeducational provider is the appropriate first step.
+Paediatric and school-aged psychoeducational testing is not offered at Sparrow; for children and adolescents under 16, a school-based or paediatric psychoeducational provider is the appropriate first step.
 
 ## Preparing for your assessment
 

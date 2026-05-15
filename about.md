@@ -9,7 +9,7 @@ narrow: true
 
 ![Dr. Christopher Benjamin](/assets/images/headshot.jpg){: .about-headshot }
 
-Christopher Benjamin, PhD is a neuropsychologist in Vancouver, BC, practicing as Sparrow Neuropsychology. He provides personalized, evidence-based assessments of brain function in adults aged 16 and older.
+Christopher Benjamin, PhD is a neuropsychologist in Vancouver, BC, practising as Sparrow Neuropsychology. He provides personalized, evidence-based assessments of brain function in adults aged 16 and older.
 
 ## Professional credentials
 
@@ -27,7 +27,7 @@ Publications: [Google Scholar](https://scholar.google.com/citations?user=k61JbYU
 
 ## Neuropsychology education
 
-Dr. Benjamin makes brain science accessible and practical for both professionals and the public. He has presented internationally on language networks, fMRI, and neuropsychology in epilepsy, including at the International Neuropsychological Society, the International Society for Magnetic Resonance in Medicine, and the American Epilepsy Society. He has mentored over 30 trainees in neuropsychology and neuroimaging, many now practicing across North America and beyond.
+Dr. Benjamin makes brain science accessible and practical for both professionals and the public. He has presented internationally on language networks, fMRI, and neuropsychology in epilepsy, including at the International Neuropsychological Society, the International Society for Magnetic Resonance in Medicine, and the American Epilepsy Society. He has mentored over 30 trainees in neuropsychology and neuroimaging, many now practising across North America and beyond.
 
 In this video, Dr. Benjamin introduces the basics of neuroanatomy as part of the open-access [KnowNeuropsychology](https://knowneuropsych.org/) teaching series.
 

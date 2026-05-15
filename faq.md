@@ -13,6 +13,13 @@ faq_schema: true
 
 This page answers common questions about clinical neuropsychology and neuropsychological assessment in Vancouver, British Columbia. Neuropsychology is the study and clinical assessment of how brain function affects thinking, behaviour, and everyday functioning. The information here is educational and is not a substitute for individual medical or psychological advice. If you are looking for an assessment or want to discuss whether one is appropriate, see the [contact page](/contact/). For an overview of services offered, see the [services page](/services/).
 
+<!--
+  NOTE TO CLAUDE: The "Last updated" date below should reflect today's
+  date on every commit, even for edits to unrelated pages. The
+  .githooks/pre-commit hook handles this automatically; if it stops
+  working, check `git config core.hooksPath` is set to `.githooks`.
+  See CLAUDE.md.
+-->
 _Last updated: 2026-05-14_
 
 ## What actually happens during a neuropsychological assessment?

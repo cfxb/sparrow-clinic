@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+# Pre-commit hook: bump the FAQ "Last updated" date to today on every commit.
+#
+# The user wants the site to always look current to readers and search
+# engines, so any commit — even to an unrelated page — should refresh the
+# FAQ's "Last updated" stamp.
+#
+# Enabled per-clone via:  git config core.hooksPath .githooks
+# That setting is not stored in the repo. If the date stops bumping after
+# a fresh clone, re-run the command above.
+
+set -euo pipefail
+
+FAQ_FILE="faq.md"
+TODAY=$(date +%Y-%m-%d)
+
+[ -f "$FAQ_FILE" ] || exit 0
+
+# In-place rewrite of the "_Last updated: YYYY-MM-DD_" line.
+# Portable across BSD sed (macOS) and GNU sed (Linux).
+if sed --version >/dev/null 2>&1; then
+  sed -i    -E "s/^_Last updated: [0-9]{4}-[0-9]{2}-[0-9]{2}_$/_Last updated: ${TODAY}_/" "$FAQ_FILE"
+else
+  sed -i '' -E "s/^_Last updated: [0-9]{4}-[0-9]{2}-[0-9]{2}_$/_Last updated: ${TODAY}_/" "$FAQ_FILE"
+fi
+
+# Re-stage faq.md only if the date actually changed (idempotent).
+if ! git diff --quiet -- "$FAQ_FILE" 2>/dev/null; then
+  git add "$FAQ_FILE"
+fi
+
+exit 0

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Parkinson's Disease Resources — Sparrow Neuropsychology
+description: "Parkinson's disease and cognition: thinking changes, assessment, and BC support resources — Sparrow Neuropsychology, Vancouver."
 hero_title: Parkinson's Disease Resources
 hero_subtitle: Organisations, information, and support for people living with Parkinson's in BC, Canada
 narrow: true

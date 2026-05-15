@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Traumatic Brain Injury Resources — Sparrow Neuropsychology
+description: "Traumatic brain injury and concussion: cognitive impact, recovery, and BC support resources — Sparrow Neuropsychology, Vancouver."
 hero_title: Traumatic Brain Injury Resources
 hero_subtitle: Information and support for people living with TBI or concussion in BC, Canada
 narrow: true

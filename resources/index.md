@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resources — Sparrow Neuropsychology
+description: "Patient resource pages on neuropsychological conditions assessed at Sparrow Neuropsychology in Vancouver, BC: epilepsy, TBI, ADHD, dementia, stroke, MS."
 hero_title: Resources
 hero_subtitle: Information about neuropsychological conditions
 narrow: true

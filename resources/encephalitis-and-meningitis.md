@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Encephalitis and Meningitis Resources — Sparrow Neuropsychology
+description: "Encephalitis and meningitis: cognitive after-effects, recovery pathways, and BC support resources — Sparrow Neuropsychology, Vancouver."
 hero_title: Encephalitis and Meningitis Resources
 hero_subtitle: Organisations, information, and support for people affected by encephalitis or meningitis in BC, Canada
 narrow: true

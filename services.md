@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Services — Sparrow Neuropsychology
+description: "Neuropsychological assessment services in Vancouver, BC for adults: clinical interview, standardised testing, written report, and a feedback session."
 hero_title: Services
 hero_subtitle: Neuropsychological assessment for adults
 hero_image: /assets/images/hero-sky.jpg

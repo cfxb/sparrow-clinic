@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact — Sparrow Neuropsychology
+description: "Contact Sparrow Neuropsychology — 750 Broadway W, Suite 1210, Vancouver, BC. Phone, email, address, hours, and clinic location map."
 hero_title: Contact us
 hero_image: /assets/images/hero-sky.jpg
 narrow: true

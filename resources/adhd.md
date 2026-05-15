@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ADHD Resources — Sparrow Neuropsychology
+description: "Adult ADHD information and BC-based resources: assessment, treatment, support — Sparrow Neuropsychology, Vancouver."
 hero_title: ADHD Resources
 hero_subtitle: Information and support for adults with ADHD in BC, Canada
 narrow: true

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Privacy Policy — Sparrow Neuropsychology
+description: "Sparrow Neuropsychology privacy policy: how we handle patient information and personal data in compliance with BC and federal law."
 hero_title: Privacy Policy
 narrow: true
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Referral — Sparrow Neuropsychology
+description: "How clinicians refer patients to Sparrow Neuropsychology in Vancouver, BC. Process, requirements, and the downloadable referral form."
 hero_title: Referral
 hero_subtitle: How to refer a patient
 hero_image: /assets/images/hero-sky.jpg

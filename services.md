@@ -22,12 +22,12 @@ In this short video, you'll learn more about the purpose of a neuropsychological
 
 If you (or someone close to you) has a condition that might be affecting how well you think, this kind of assessment can help understand what's going on and what will help. Common reasons for referral include:
 
-- Attention problems and ADHD
-- Head injury
-- Aging or dementia concerns
-- Multiple sclerosis
-- Stroke effects
-- Brain tumors
+- [Attention problems and ADHD](/resources/adhd/)
+- [Head injury and concussion](/resources/traumatic-brain-injury/)
+- [Aging or dementia concerns](/resources/dementia/)
+- [Multiple sclerosis](/resources/multiple-sclerosis/)
+- [Stroke](/resources/stroke/)
+- [Brain tumours](/resources/brain-tumours/)
 
 ## What happens in an assessment?
 

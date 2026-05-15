@@ -6,7 +6,6 @@ hero_title: Frequently Asked Questions
 hero_subtitle: Plain-language answers about neuropsychological assessment in Vancouver, BC
 hero_image: /assets/images/hero-sky.jpg
 narrow: true
-canonical_url: "https://www.sparrow.clinic/faq/"
 author: "Dr. Christopher Benjamin, Clinical Neuropsychologist"
 faq_schema: true
 ---

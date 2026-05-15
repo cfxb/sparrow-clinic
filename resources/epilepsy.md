@@ -85,7 +85,7 @@ The Epilepsy Foundation provides a comprehensive overview of [thinking and memor
 
 **Books by Sallie Baxendale**
 
-Dr Sallie Baxendale is one of the world's leading neuropsychologists specialising in epilepsy and memory. She has published several accessible, evidence-based books written specifically for people who experience memory difficulties. They are available at low cost and offer practical, research-backed guidance that goes well beyond what any website can provide.
+Dr Sallie Baxendale is a researcher who has published extensively on cognitive outcomes in epilepsy surgery. She has also written several accessible, evidence-based books for people who experience memory difficulties. They are available at low cost and offer practical, research-backed guidance that goes well beyond what any website can provide.
 
 - [Coping with Memory Problems](https://www.amazon.com/Coping-Memory-Problems-sallie-baxendale/dp/1529329213){:target="_blank" rel="noopener"} — Dr Baxendale's essential guide to understanding and managing memory difficulties, covering how memory works, why it goes wrong, and evidence-based strategies for coping day-to-day. Highly recommended as a starting point.
 - [The Sheldon Short Guide to Memory Problems](https://www.amazon.com/Sheldon-Short-Guide-Memory-Problems/dp/1847093663){:target="_blank" rel="noopener"} — A compact, accessible companion covering the key strategies in a shorter format.

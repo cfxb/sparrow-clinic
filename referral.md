@@ -25,7 +25,7 @@ Please note we do not typically see patients whose primary concern is ongoing se
 
 ## How to refer
 
-Our clinic serves English-speaking adults. To refer a patient, please download and complete a referral form:
+Our clinic serves English-speaking adults aged 16 and older. To refer a patient, please download and complete a referral form:
 
 <div class="download-links">
   <a href="{{ '/assets/files/referral-form.docx' | relative_url }}" class="btn btn--outline btn--sm">Download referral form (Word)</a>

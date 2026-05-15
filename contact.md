@@ -34,7 +34,7 @@ The clinic is in the Fairmont Medical Building at 750 W Broadway, Vancouver — 
 
 The building has elevator access to all floors, and is wheelchair accessible.
 
-**Parking.** [INSERT: parking guidance — underground or street, rates, validation, etc.]
+**Parking.** There is paid parking on the second level of the building, with entry from the rear.
 
 If you have a specific access need or would like to discuss accommodations for the assessment day, please [get in touch](mailto:{{ site.data.contact.email }}?subject=Accessibility%20enquiry) in advance.
 

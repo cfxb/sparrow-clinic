@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Frequently Asked Questions — Sparrow Neuropsychology, Vancouver"
+title: Frequently Asked Questions
 description: "Plain-language answers about neuropsychological assessment in Vancouver, BC: what it involves, what it can and cannot diagnose, referrals, and coverage."
 hero_title: Frequently Asked Questions
 hero_subtitle: Plain-language answers about neuropsychological assessment in Vancouver, BC

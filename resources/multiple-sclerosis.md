@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Multiple Sclerosis Resources — Sparrow Neuropsychology
+title: Multiple Sclerosis Resources
 description: "Multiple sclerosis and cognition: what's affected, what helps, and BC support resources — Sparrow Neuropsychology, Vancouver."
 hero_title: Multiple Sclerosis Resources
 hero_subtitle: Organisations, information, and support for people living with MS in BC, Canada

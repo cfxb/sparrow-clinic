@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dementia Resources — Sparrow Neuropsychology
+title: Dementia Resources
 description: "Dementia and cognitive decline: signs, assessment, BC supports, and what neuropsychology can clarify — Sparrow Neuropsychology, Vancouver."
 hero_title: Dementia Resources
 hero_subtitle: Organisations, information, and support for people living with dementia in BC

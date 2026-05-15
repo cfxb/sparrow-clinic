@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About — Sparrow Neuropsychology
+title: About
 description: "Dr. Christopher Benjamin, registered clinical neuropsychologist in Vancouver, BC. Yale Associate Professor; VGH epilepsy team; 15+ years' experience."
 hero_title: Who we are
 hero_image: /assets/images/hero-sky.jpg

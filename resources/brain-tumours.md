@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brain Tumour Resources — Sparrow Neuropsychology
+title: Brain Tumour Resources
 description: "Brain tumours and cognition: cognitive effects of tumours and treatment, plus BC support resources — Sparrow Neuropsychology, Vancouver."
 hero_title: Brain Tumour Resources
 hero_subtitle: Organisations, information, and support for people living with a brain tumour in BC, Canada

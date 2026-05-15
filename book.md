@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Book a consultation — Sparrow Neuropsychology
+title: Book a consultation
 description: "Book a free 15-minute introductory consultation with Dr. Christopher Benjamin, clinical neuropsychologist, in Vancouver, BC."
 hero_title: Book a consultation
 hero_image: /assets/images/hero-sky.jpg

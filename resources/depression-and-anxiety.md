@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Depression and Anxiety Resources — Sparrow Neuropsychology
+title: Depression and Anxiety Resources
 description: "Depression and anxiety: cognitive effects, neuropsychology's role, and BC mental health resources — Sparrow Neuropsychology, Vancouver."
 hero_title: Depression and Anxiety Resources
 hero_subtitle: Organisations, information, and support for people living with depression and anxiety in BC, Canada

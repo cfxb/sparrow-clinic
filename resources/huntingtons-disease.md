@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Huntington's Disease Resources — Sparrow Neuropsychology
+title: Huntington's Disease Resources
 description: "Huntington's disease and cognition: what's affected, neuropsychology's role, and BC supports — Sparrow Neuropsychology, Vancouver."
 hero_title: Huntington's Disease Resources
 hero_subtitle: Organisations, information, and support for people affected by Huntington's disease in BC, Canada

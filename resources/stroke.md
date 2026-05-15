@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stroke Resources — Sparrow Neuropsychology
+title: Stroke Resources
 description: "Cognitive change after stroke: what to expect, recovery pathways, and BC support resources — Sparrow Neuropsychology, Vancouver."
 hero_title: Stroke Resources
 hero_subtitle: Organisations, information, and support for stroke survivors and their families in BC, Canada

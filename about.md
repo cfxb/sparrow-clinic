@@ -15,13 +15,13 @@ Christopher Benjamin, PhD is a neuropsychologist in Vancouver, BC, practising as
 
 <ul class="credentials">
   <li>Licensed psychologist in Canada (<a href="https://chcpbcp.alinityapp.com/Client/PublicDirectory/Registrant/5743f595-0a9b-ef11-b035-000d3a844429" rel="noopener" target="_blank">BC #4057</a>) and the United States (CT #8423)</li>
-  <li>Clinical neuropsychologist at <a href="https://www.vch.ca/en/location-service/epilepsy-program-gordon-and-leslie-diamond-health-care-centre">Vancouver General Hospital</a></li>
   <li>Associate Professor at <a href="https://medicine.yale.edu/profile/christopher-benjamin/">Yale University</a></li>
+  <li>Consultant at Vancouver General Hospital</li>
 </ul>
 
 ## Background and experience
 
-Dr. Benjamin completed his Master's and PhD in clinical neuropsychology at the University of Melbourne, followed by research and clinical fellowships at Boston Children's Hospital, Harvard Medical School, and UCLA where he was Chief Fellow.  He is an Associate Professor at Yale University in Connecticut, which he joined in 2014, and a member of the neuropsychology team at VGH's epilepsy clinic in BC, Canada, since 2024.  He has over fifteen years' clinical, research, and educational experience, with specializations in epilepsy, brain mapping, dyslexia, and ADHD.
+Dr. Benjamin completed his Master's and PhD in clinical neuropsychology at the University of Melbourne, followed by research and clinical fellowships at Boston Children's Hospital, Harvard Medical School, and UCLA where he was Chief Fellow.  He is an Associate Professor at Yale University in Connecticut, which he joined in 2014, and a consultant at Vancouver General Hospital in BC, Canada, since 2024.  He has over fifteen years' clinical, research, and educational experience, with specializations in epilepsy, brain mapping, dyslexia, and ADHD.
 
 Publications: [Google Scholar](https://scholar.google.com/citations?user=k61JbYUAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Christopher-Benjamin-3?ev=hdr_xprf)
 

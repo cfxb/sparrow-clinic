@@ -115,7 +115,7 @@ Length depends on the referral question, the patient's age, fatigue tolerance, a
 
 ## What is the current wait time for an assessment at Sparrow?
 
-Current wait time for a neuropsychological assessment at Sparrow Neuropsychology is **[INSERT: current wait time]**. Wait times reflect both clinical demand and the practice's session structure (one or more in-person testing appointments plus a feedback meeting after the report).
+Current wait time for a neuropsychological assessment at Sparrow Neuropsychology is **four to eight weeks**, depending on urgency and complexity. Wait times reflect both clinical demand and the practice's session structure (one or more in-person testing appointments plus a feedback meeting after the report).
 
 Up-to-date scheduling information is on the [contact page](/contact/). A free 15-minute introductory consultation can be booked separately and is usually available within a shorter window than a full assessment.
 

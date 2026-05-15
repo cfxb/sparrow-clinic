@@ -6,41 +6,6 @@ hero_title: Book a consultation
 hero_image: /assets/images/hero-sky.jpg
 ---
 
-<style>
-  .book-heading {
-    font-family: 'JetBrains Mono', monospace;
-    font-weight: 500;
-    letter-spacing: -0.03em;
-    font-size: clamp(1.1rem, 2.5vw, 1.4rem);
-    color: #081a18;
-    margin-top: 0;
-    margin-bottom: 0.75rem;
-  }
-  .book-label {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 0.75rem;
-    font-weight: 500;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    color: #00a99d;
-    margin-bottom: 0.5rem;
-    display: block;
-  }
-  .book-scheduler {
-    margin-top: 2rem;
-    border-radius: 8px;
-    overflow: hidden;
-  }
-  .book-scheduler iframe {
-    width: 100%;
-    height: 900px;
-    border: none;
-    display: block;
-    letter-spacing: normal;
-    word-spacing: normal;
-  }
-</style>
-
 <span class="book-label">Free · 15 minutes · Video or phone</span>
 
 <h2 class="book-heading">Introductory consultation</h2>

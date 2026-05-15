@@ -22,8 +22,6 @@ Christopher Benjamin, PhD is a neuropsychologist in Vancouver, BC, practicing as
 
 Dr. Benjamin completed his Master's and PhD in clinical neuropsychology at the University of Melbourne, followed by research and clinical fellowships at Boston Children's Hospital, Harvard Medical School, and UCLA where he was Chief Fellow.  He is an Associate Professor at Yale University in Connecticut, which he joined in 2014, and a member of the neuropsychology team at VGH's epilepsy clinic in BC, Canada, since 2024.  He has over fifteen years' clinical, research, and educational experience, with specializations in epilepsy, brain mapping, dyslexia, and ADHD.
 
-Dr. Benjamin is also active in the neuropsychology community, serving until 2026 as a co-chair of the International Neuropsychological Society’s Epilepsy Special Interest Group. He is a licensed psychologist in Canada (BC #4057) and the U.S. (CT #8423).
-
 Publications: [Google Scholar](https://scholar.google.com/citations?user=k61JbYUAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Christopher-Benjamin-3?ev=hdr_xprf)
 
 ## Neuropsychology education
@@ -42,4 +40,7 @@ Dr. Benjamin has completed extensive research into the use of neuropsychology an
 
 ## Professional involvement
 
-Dr. Benjamin has served in multiple professional organizations, most recently as a co-chair of the International Neuropsychological Society's Epilepsy Special Interest Group.
+Dr. Benjamin's involvement in the international neuropsychology community has been concentrated in epilepsy:
+
+- Former co-chair (term to 2026) of the [International Neuropsychological Society](https://the-ins.org/) (INS) Epilepsy Special Interest Group. INS is the leading international society for clinical neuropsychology.
+- Completed the International League Against Epilepsy (ILAE) training in the Neuropsychology of Epilepsy in 2024 and 2026.

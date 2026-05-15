@@ -439,3 +439,33 @@ These can be made coherent (we don't do seizure management; we do help with cogn
 - Business `sameAs[]` — still empty until off-site directory listings exist.
 - Open hours — still omitted per decision 4b.
 
+---
+
+## Tier 3 — new content additions and remaining items
+
+### Landed
+| # | Where | What |
+|---|---|---|
+| 3.1 | `/faq/` | "How do I find a neuropsychologist in Vancouver or BC?" — points to CHCPBC public register and BCPA member directory; clarifies referral pathways. |
+| 3.3 | `/faq/` | "Do you see patients remotely or outside Vancouver?" — in-person Vancouver only per decision 4. |
+| 3.2 | `/faq/` | "What is the current wait time for an assessment at Sparrow?" — body uses `[INSERT: current wait time]`. |
+| 3.7 | `/faq/` | "What is the difference between psychoeducational and neuropsychological testing?" — re-added at ~118 words, 16+ scope explicit. |
+| 3.6 | `/faq/` | "What is mild cognitive impairment (MCI), and when is neuropsychology helpful for it?" — bridges to the existing older-adult memory entry. |
+| 3.4 | `/contact/` | "Accessibility and transit" section — transit details verifiable from the address; two `[INSERT]` placeholders for suite-level access notes and parking guidance. |
+
+FAQ now has **22 questions**. FAQPage JSON-LD parses cleanly after each commit; all five new entries have matching schema entries.
+
+### Placeholders introduced during Tier 3
+| Source | Placeholder | Notes |
+|---|---|---|
+| `faq.md` — "What is the current wait time…" | `[INSERT: current wait time]` | Per decision 3. /referral/ separately states "4–8 weeks" (line 44) — if accurate, copy here so the two pages don't drift. |
+| `faq.md` — schema for the same entry | `[INSERT: current wait time]` | Same fill. |
+| `contact.md` — Accessibility section | `[INSERT: clinic-specific accessibility notes — e.g., suite-level wheelchair access, accessible washroom, hearing-loop or similar]` | Cannot verify suite-level access externally. |
+| `contact.md` — Accessibility section | `[INSERT: parking guidance — underground or street, rates, validation, etc.]` | Cannot verify externally. |
+
+### Deferred from Tier 3
+- **3.5 — Dedicated epilepsy specialty page**. The Tier-3 plan included an expansion of the epilepsy resource into a focused specialty page. **Now incongruous with the closeout direction** (removal of the home "Specialty focus" callout; user's stated step-back from the VGH epilepsy program; instruction to avoid framing implying active formal involvement). Recommend: skip this item unless you actively want a separate specialty page; the existing `/resources/epilepsy/` plus the FAQ epilepsy entries cover the topic without over-claiming role.
+
+### Flags surfaced after Tier 3 (not changed silently)
+- The FAQ "About the author" section reads "Dr. Benjamin is a psychologist at Vancouver General Hospital and an adjunct Associate Professor at Yale University." Per the closeout rationale (now casual at VGH, stepped back from the epilepsy program), this present-tense phrasing may overstate involvement. Your call on softening (e.g. "has a clinical appointment at" or "is on staff at") or leaving as-is.
+

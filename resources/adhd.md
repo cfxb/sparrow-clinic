@@ -2,6 +2,8 @@
 layout: page
 title: ADHD Resources
 description: "Adult ADHD information and BC-based resources: assessment, treatment, support — Sparrow Neuropsychology, Vancouver."
+author: "Dr. Christopher Benjamin, Clinical Neuropsychologist"
+last_reviewed: 2026-04-22
 hero_title: ADHD Resources
 hero_subtitle: Information and support for adults with ADHD in BC, Canada
 narrow: true
@@ -175,3 +177,5 @@ Peer support is one of the most consistently helpful resources for adults with A
 ---
 
 If you are interested in a neuropsychological assessment to better understand attention or executive function difficulties, please [contact us](/contact/) or [submit a referral](/referral/).
+
+{% include resource-byline.html %}

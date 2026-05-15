@@ -2,6 +2,8 @@
 layout: page
 title: Dementia Resources
 description: "Dementia and cognitive decline: signs, assessment, BC supports, and what neuropsychology can clarify — Sparrow Neuropsychology, Vancouver."
+author: "Dr. Christopher Benjamin, Clinical Neuropsychologist"
+last_reviewed: 2026-04-22
 hero_title: Dementia Resources
 hero_subtitle: Organisations, information, and support for people living with dementia in BC
 narrow: true
@@ -204,3 +206,5 @@ Research suggests that certain lifestyle factors can support brain health and ma
 ---
 
 If you are interested in a neuropsychological assessment to evaluate memory or other cognitive concerns, please [contact us](/contact/) or [submit a referral](/referral/).
+
+{% include resource-byline.html %}

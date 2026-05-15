@@ -2,6 +2,8 @@
 layout: page
 title: Huntington's Disease Resources
 description: "Huntington's disease and cognition: what's affected, neuropsychology's role, and BC supports — Sparrow Neuropsychology, Vancouver."
+author: "Dr. Christopher Benjamin, Clinical Neuropsychologist"
+last_reviewed: 2026-04-22
 hero_title: Huntington's Disease Resources
 hero_subtitle: Organisations, information, and support for people affected by Huntington's disease in BC, Canada
 narrow: true
@@ -250,3 +252,5 @@ There are fewer dedicated HD podcasts than for some other neurological condition
 ---
 
 If you are interested in a neuropsychological assessment to better understand cognitive changes related to Huntington's disease — whether for diagnosis, monitoring, capacity assessment, or pre-manifest evaluation — please [contact us](/contact/) or [submit a referral](/referral/).
+
+{% include resource-byline.html %}

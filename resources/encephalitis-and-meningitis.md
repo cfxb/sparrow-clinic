@@ -2,6 +2,8 @@
 layout: page
 title: Encephalitis and Meningitis
 description: "Encephalitis and meningitis: cognitive after-effects, recovery pathways, and BC support resources — Sparrow Neuropsychology, Vancouver."
+author: "Dr. Christopher Benjamin, Clinical Neuropsychologist"
+last_reviewed: 2026-04-22
 hero_title: Encephalitis and Meningitis Resources
 hero_subtitle: Organisations, information, and support for people affected by encephalitis or meningitis in BC, Canada
 narrow: true
@@ -232,3 +234,5 @@ Connecting with others who have been through what you have been through — whet
 ---
 
 If you are interested in a neuropsychological assessment to better understand the cognitive after-effects of encephalitis or meningitis — whether for documentation, rehabilitation planning, monitoring, or capacity assessment — please [contact us](/contact/) or [submit a referral](/referral/).
+
+{% include resource-byline.html %}

@@ -2,6 +2,8 @@
 layout: page
 title: Brain Tumour Resources
 description: "Brain tumours and cognition: cognitive effects of tumours and treatment, plus BC support resources — Sparrow Neuropsychology, Vancouver."
+author: "Dr. Christopher Benjamin, Clinical Neuropsychologist"
+last_reviewed: 2026-04-22
 hero_title: Brain Tumour Resources
 hero_subtitle: Organisations, information, and support for people living with a brain tumour in BC, Canada
 narrow: true
@@ -232,3 +234,5 @@ Connecting with others who understand what you are living with — whether you a
 ---
 
 If you are interested in a neuropsychological assessment — whether for a pre-treatment cognitive baseline, post-treatment evaluation, monitoring of cognitive change, or capacity assessment — please [contact us](/contact/) or [submit a referral](/referral/).
+
+{% include resource-byline.html %}

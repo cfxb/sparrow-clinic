@@ -2,6 +2,8 @@
 layout: page
 title: Depression and Anxiety Resources
 description: "Depression and anxiety: cognitive effects, neuropsychology's role, and BC mental health resources — Sparrow Neuropsychology, Vancouver."
+author: "Dr. Christopher Benjamin, Clinical Neuropsychologist"
+last_reviewed: 2026-04-22
 hero_title: Depression and Anxiety Resources
 hero_subtitle: Organisations, information, and support for people living with depression and anxiety in BC, Canada
 narrow: true
@@ -223,3 +225,5 @@ Connecting with others who understand your experience — people who are not try
 ---
 
 If depression or anxiety is affecting your cognitive functioning — your memory, concentration, decision-making, or ability to work — and you would like a formal, objective assessment of your current cognitive profile, please [contact us](/contact/) or [submit a referral](/referral/).
+
+{% include resource-byline.html %}

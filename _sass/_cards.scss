@@ -108,3 +108,33 @@ a.card {
 
   &:hover &__cta { color: $accent-dark; }
 }
+
+// ── Resource page byline ────────────────────────────────────
+// Visible "Reviewed by ... Last reviewed ..." block at the
+// foot of each /resources/<condition>/ page.
+
+.resource-byline {
+  margin: 3rem 0 0;
+  padding: 1.25rem 0 0;
+  border-top: 1px solid $surface-2;
+  font-family: $mono;
+  font-size: 0.78rem;
+  color: $text-muted;
+  line-height: 1.6;
+
+  &__main { margin: 0 0 0.3rem; }
+
+  &__date {
+    margin: 0;
+    font-size: 0.7rem;
+    letter-spacing: 0.06em;
+  }
+
+  a {
+    color: $text-dim;
+    text-decoration: none;
+    border-bottom: 1px dotted $border;
+    transition: color 0.15s, border-color 0.15s;
+    &:hover { color: $accent; border-bottom-color: $accent; }
+  }
+}

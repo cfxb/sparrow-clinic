@@ -1,0 +1,6 @@
+<div class="resource-byline">
+  <p class="resource-byline__main">Reviewed by <a href="/about/">Dr. Christopher Benjamin</a>, Clinical Neuropsychologist.</p>
+  {% if page.last_reviewed %}
+  <p class="resource-byline__date">Last reviewed: {{ page.last_reviewed | date: '%B %-d, %Y' }}</p>
+  {% endif %}
+</div>

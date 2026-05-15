@@ -105,6 +105,12 @@ A full neuropsychological assessment typically takes between four and eight hour
 
 Length depends on the referral question, the patient's age, fatigue tolerance, and the complexity of the cognitive picture. Screening-level assessments can be shorter, while pre-surgical epilepsy evaluations and dementia workups are often longer. Reports at Sparrow Neuropsychology are typically delivered within two to three weeks; current scheduling lead times are noted on the [contact page](/contact/).
 
+## What is the current wait time for an assessment at Sparrow?
+
+Current wait time for a neuropsychological assessment at Sparrow Neuropsychology is **[INSERT: current wait time]**. Wait times reflect both clinical demand and the practice's session structure (one or more in-person testing appointments plus a feedback meeting after the report).
+
+Up-to-date scheduling information is on the [contact page](/contact/). A free 15-minute introductory consultation can be booked separately and is usually available within a shorter window than a full assessment.
+
 ## How much does a neuropsychological assessment cost in BC?
 
 Neuropsychological assessment in private practice in British Columbia is typically priced as a package that reflects interview, record review, testing, scoring, interpretation, report writing, and a feedback session. Fees vary by complexity and by clinician.

@@ -383,3 +383,59 @@ These are the same off-site directory items from the audit's Section D, repeated
 
 Once any of these go live, append the URL to the business `sameAs[]` in `_includes/medical-business-schema.html` (Google Business Profile especially — the strongest single local signal).
 
+---
+
+## Tier 2 closeout — verifications and flags
+
+### Geo correction (resolved)
+The Tier 2 estimate (49.2632, -123.1238) was **off-block by ~200m**. OpenStreetMap Nominatim verifies 750 W Broadway, Vancouver as the **Fairmont Medical Building** at 49.26306, -123.12105. Schema updated. Nominatim record's postal code is `V5Z 1G8`, but `_data/contact.yml` lists `V5Z 1K1`; both are valid Vancouver postal codes in the immediate area (likely building vs. suite). Address line was not changed.
+
+### Canadian-spelling inconsistencies (surfaced, not changed)
+Mixed-spelling counts across `*.md` source (excluding `audit/`, `CLAUDE.md`, `_site/`):
+
+- **tumor / tumour** — 4 American "tumor" vs 64 Canadian "tumour". Stray "tumor" appears in `_data/services.yml` (Stroke entry) and a few resource pages. Recommend normalising to "tumour" sitewide.
+- **behavior / behaviour** — 1 American vs 32 Canadian. One stray instance.
+- **characterize / characterise** — 3 vs 2. Mixed and roughly even; pick one and normalise.
+
+Already consistent: centre, organise, organisation, analyse, summarise.
+
+### Practice-wide age scope — site copy audit
+Phrasings that mention age scope and what they say now:
+
+| Where | Phrase | Status |
+|---|---|---|
+| `_config.yml` description, `index.md` description, `about.md` description | "adult neuropsychological assessment" or "Adult neuropsychological assessment" | OK — "adult" matches 16+ in the practice's framing. |
+| `services.md` hero subtitle | **"Neuropsychological assessment for adults aged 16 and older"** | Updated this commit. |
+| `services.md` psychoeducational section | "adults aged 16 and older" | Already correct. |
+| `about.md` body | "assessments of brain function in adults" | Not explicit on the 16+ floor. Surface for review. |
+| FAQ — "About the author" section | "clinical and research interests in epilepsy and adult neuropsychology" | OK. |
+| FAQ — multiple Q&As reference "adults" generically (e.g. "in adults," "adult ADHD") | n/a | OK. |
+| Resource pages — most have "adults with X in British Columbia, Canada" in the lead | n/a | OK as descriptor. |
+| Resource pages — incidental third-party mentions of "adults and children", "young adults", "adult children", etc. | n/a | These describe third-party resources or family-impact discussions, not Sparrow's scope. **Not a scope inconsistency.** |
+| `/contact/` page | none | No scope mention; OK. |
+| `/book/` page | none | OK. |
+| `/referral/` page | "Our clinic serves English-speaking adults." | Not explicit on the 16+ floor. Surface for review. |
+
+Two places where the visible 16+ floor is not stated and arguably should be (or could be left as "adults" — your call): **`about.md`** body and **`/referral/` "How to refer" section**. No edits made; flagged for your decision.
+
+### `/referral/` — internal tension introduced by closeout 4B
+Adding the Epilepsy bullet to the "Common referral questions" list ("Epilepsy: impact of medications; baseline testing; pre- and post-surgical testing") sits in tension with the existing line further down the page:
+
+> "Please note we do not typically see patients whose primary concern is epilepsy. Such patients should be referred to an epilepsy program, such as the one at Vancouver General Hospital."
+
+These can be made coherent (we don't do seizure management; we do help with cognitive aspects of epilepsy), but the current wording reads as broadly negating the new bullet. **Not edited silently** — surfaced for your call. Suggested softening (do not commit without your sign-off): replace "primary concern is epilepsy" with "primary concern is ongoing seizure management."
+
+### Cross-consistency check (per closeout instruction)
+- **Epilepsy visibility** — present on `/`, `/referral/`, `/services/`, and `/resources/epilepsy/`. No language anywhere now implies a current formal VGH role or specialist-program leadership (the "Specialty focus" block and "BC's only comprehensive adult epilepsy program" framing are gone from the home page).
+- **Age scope (16+)** — schema graph (MedicalBusiness, both MedicalProcedures, availableService[]) all carry `suggestedMinAge: 16`. Visible copy on `/services/` matches. Other surfaces flagged in the table above.
+- **Orphaned "Specialty focus" references** — none. Source and build both clean (grep for `specialty-feature` returns 0 in `_sass`, `index.md`, and the compiled `_site/`).
+- **Card grid** — Epilepsy at position 2; 8 cards render as expected.
+
+### Open items not addressed in closeout
+- Spelling inconsistencies — list above; awaiting your decision on which spellings to normalise to.
+- "About the author" and `/referral/` "adults" phrasing — your decision whether to update to "16 and older".
+- `/referral/` epilepsy-seizure-management tension — your decision on softening.
+- Wikidata sameAs — still no entry; remains a future addition.
+- Business `sameAs[]` — still empty until off-site directory listings exist.
+- Open hours — still omitted per decision 4b.
+

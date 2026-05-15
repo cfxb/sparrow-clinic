@@ -2,6 +2,7 @@
 layout: page
 title: Services
 description: "Neuropsychological assessment services in Vancouver, BC for adults: clinical interview, standardised testing, written report, and a feedback session."
+services_schema: true
 hero_title: Services
 hero_subtitle: Neuropsychological assessment for adults
 hero_image: /assets/images/hero-sky.jpg
@@ -37,6 +38,14 @@ If you (or someone close to you) has a condition that might be affecting how wel
   <li><strong>Report and review</strong> — We analyse your performance compared to others of a similar background, review records, and may also interview your partner or a friend to understand your difficulties.</li>
   <li><strong>Feedback (30–60 minutes)</strong> — We explain your results and recommendations, often via Zoom.</li>
 </ol>
+
+## Psychoeducational assessment
+
+Sparrow Neuropsychology also provides psychoeducational assessment for **adults aged 16 and older**. This assessment focuses on learning, academic skills, and the cognitive supports needed for post-secondary study or work. It is commonly used to apply for accommodations in post-secondary settings or on standardised admissions tests, and to clarify the cognitive contribution to long-standing academic difficulties in adulthood.
+
+Psychoeducational assessment overlaps with neuropsychological assessment in the tools used but differs in scope and clinical framing. For an outline of the difference, see [the FAQ](/faq/).
+
+Pediatric and school-aged psychoeducational testing is not offered at Sparrow; for children and adolescents under 16, a school-based or pediatric psychoeducational provider is the appropriate first step.
 
 ## Preparing for your assessment
 

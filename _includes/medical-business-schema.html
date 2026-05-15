@@ -43,11 +43,26 @@
       "name": "British Columbia"
     }
   ],
-  "availableService": {
-    "@type": "MedicalProcedure",
-    "name": "Neuropsychological assessment",
-    "description": "Structured clinical interview, record review, standardised cognitive testing, written report, and feedback session. Conducted in person in Vancouver, BC."
-  },
+  "availableService": [
+    {
+      "@type": "MedicalProcedure",
+      "@id": "{{ site.url }}/services/#neuropsychological-assessment",
+      "name": "Adult Neuropsychological Assessment",
+      "description": "Structured clinical interview, record review, standardised cognitive testing, written report, and feedback session. Conducted in person in Vancouver, BC, for adults.",
+      "audience": { "@type": "PeopleAudience", "audienceType": "Adults" }
+    },
+    {
+      "@type": "MedicalProcedure",
+      "@id": "{{ site.url }}/services/#psychoeducational-assessment",
+      "name": "Adult Psychoeducational Assessment",
+      "description": "Psychoeducational assessment for adults aged 16 and older — learning, academic skills, and cognitive supports for post-secondary study or work. Used for accommodation applications in post-secondary education and on standardised admissions tests.",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Adults aged 16 and older",
+        "suggestedMinAge": 16
+      }
+    }
+  ],
   "founder": { "@id": "{{ site.url }}/#person" },
   "employee": { "@id": "{{ site.url }}/#person" }
 }

@@ -1,0 +1,38 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalProcedure",
+      "@id": "{{ site.url }}/services/#neuropsychological-assessment",
+      "name": "Adult Neuropsychological Assessment",
+      "description": "Structured clinical evaluation combining a detailed interview, record review, standardised cognitive testing, written report, and feedback session. Conducted in person in Vancouver, BC, for adults.",
+      "url": "{{ site.url }}/services/",
+      "procedureType": "https://schema.org/DiagnosticProcedure",
+      "provider": { "@id": "{{ site.url }}/#clinic" },
+      "performer": { "@id": "{{ site.url }}/#person" },
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Adults"
+      },
+      "preparation": "Sleep normally, take regular medications as usual unless told otherwise, bring glasses and hearing aids if required, and avoid alcohol and marijuana for at least 24 hours before testing.",
+      "howPerformed": "Initial clinical interview; review of medical, educational, and prior assessment records; in-person standardised testing across cognitive domains (attention, memory, language, executive function, visuospatial skills, and others as appropriate); validity and effort indicators; scoring; integration with clinical history; written report; and a feedback meeting."
+    },
+    {
+      "@type": "MedicalProcedure",
+      "@id": "{{ site.url }}/services/#psychoeducational-assessment",
+      "name": "Adult Psychoeducational Assessment",
+      "description": "Psychoeducational assessment for adults aged 16 and older, focused on learning, academic skills, and the cognitive supports needed for post-secondary study or work. Used to support accommodation applications in post-secondary education and on standardised admissions tests, and to clarify the cognitive contribution to long-standing academic difficulties in adulthood.",
+      "url": "{{ site.url }}/services/",
+      "procedureType": "https://schema.org/DiagnosticProcedure",
+      "provider": { "@id": "{{ site.url }}/#clinic" },
+      "performer": { "@id": "{{ site.url }}/#person" },
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Adults aged 16 and older",
+        "suggestedMinAge": 16
+      }
+    }
+  ]
+}
+</script>

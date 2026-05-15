@@ -7,7 +7,7 @@ hero_image: /assets/images/hero-sky.jpg
 narrow: true
 ---
 
-We welcome inquiries about neuropsychological assessment. If you are wondering whether assessment might be right for you, the best first step is a free 15-minute consultation.
+We welcome inquiries about neuropsychological assessment. If you are wondering whether assessment might be right for you, a useful first step is a free 15-minute consultation.
 
 <a href="/book" class="btn btn--primary">Book an introductory consultation</a>
 

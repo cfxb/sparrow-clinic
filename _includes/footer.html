@@ -7,25 +7,9 @@
           <p>{{ site.data.contact.address }}</p>
           <p>{{ site.data.contact.city }}, {{ site.data.contact.province }} {{ site.data.contact.postal }}</p>
         </div>
-      </div>
-      <div class="site-footer__right">
-        <div class="site-footer__contact">
-          <p>Phone: <a href="tel:{{ site.data.contact.phone_link }}">{{ site.data.contact.phone }}</a></p>
-          <p>Fax: {{ site.data.contact.fax }}</p>
-          <p>Email: <a href="mailto:{{ site.data.contact.email }}?subject=Assessment%20enquiry">{{ site.data.contact.email }}</a></p>
-        </div>
-        {% unless page.url == '/book/' %}
-        <div class="mt-2">
-          {% include cta-phone.html %}
-        </div>
-        {% endunless %}
-      </div>
-    </div>
-    <div class="site-footer__profiles">
-      <p class="site-footer__profiles-heading">Professional profiles</p>
-      <ul class="site-footer__profiles-list site-footer__profiles-list--icons">
+        <ul class="site-footer__profiles-list site-footer__profiles-list--icons" aria-label="Professional profiles">
         <li><a href="https://chcpbcp.alinityapp.com/Client/PublicDirectory/Registrant/5743f595-0a9b-ef11-b035-000d3a844429" target="_blank" rel="me noopener" aria-label="CHCPBC (BC psychology register)" title="CHCPBC (BC psychology register)">
-          <img src="{{ '/assets/images/profile-icons/chcpbc.svg' | relative_url }}" alt="" width="22" height="22" aria-hidden="true">
+          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/></svg>
           <span class="sr-only">CHCPBC (BC psychology register)</span>
         </a></li>
         <li><a href="https://medicine.yale.edu/profile/christopher-benjamin/" target="_blank" rel="me noopener" aria-label="Yale School of Medicine" title="Yale School of Medicine">
@@ -48,7 +32,20 @@
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526 5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z"/><path d="M12 5a3 3 0 1 1 5.997.125 4 4 0 0 1 2.526 5.77 4 4 0 0 1-.556 6.588A4 4 0 1 1 12 18Z"/><path d="M15 13a4.5 4.5 0 0 1-3-4 4.5 4.5 0 0 1-3 4"/></svg>
           <span class="sr-only">Psychology Today</span>
         </a></li>
-      </ul>
+        </ul>
+      </div>
+      <div class="site-footer__right">
+        <div class="site-footer__contact">
+          <p>Phone: <a href="tel:{{ site.data.contact.phone_link }}">{{ site.data.contact.phone }}</a></p>
+          <p>Fax: {{ site.data.contact.fax }}</p>
+          <p>Email: <a href="mailto:{{ site.data.contact.email }}?subject=Assessment%20enquiry">{{ site.data.contact.email }}</a></p>
+        </div>
+        {% unless page.url == '/book/' %}
+        <div class="mt-2">
+          {% include cta-phone.html %}
+        </div>
+        {% endunless %}
+      </div>
     </div>
     <div class="site-footer__bottom">
       <span>&copy; {{ 'now' | date: "%Y" }} {{ site.data.contact.name }}</span>

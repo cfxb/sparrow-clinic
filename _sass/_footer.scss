@@ -79,6 +79,26 @@
   svg { display: block; }
 }
 
+// Monochrome icon via CSS mask — lets raster/multi-colour assets
+// inherit currentColor like the inline SVGs.
+.icon-mask {
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  background-color: currentColor;
+  -webkit-mask-repeat: no-repeat;
+          mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+          mask-position: center;
+  -webkit-mask-size: contain;
+          mask-size: contain;
+}
+
+.icon-chcpbc {
+  -webkit-mask-image: url('/assets/images/profile-icons/chcpbc.svg');
+          mask-image: url('/assets/images/profile-icons/chcpbc.svg');
+}
+
 .site-footer__bottom {
   padding-top: 1.25rem;
   border-top: 1px solid $border;

@@ -94,6 +94,13 @@
 
   svg,
   img { display: block; }
+
+  img {
+    filter: grayscale(1);
+    transition: filter 0.15s;
+  }
+
+  a:hover img { filter: none; }
 }
 
 .site-footer__bottom {

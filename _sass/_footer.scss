@@ -21,6 +21,10 @@
 
   @media (min-width: $bp-md) {
     grid-template-columns: 1fr 1fr;
+
+    // Make each column a flex column so margin-top: auto on a child
+    // can push the icons / CTA to the bottom of the (stretched) row.
+    > div { display: flex; flex-direction: column; }
   }
 }
 
@@ -43,6 +47,10 @@
   @media (min-width: $bp-md) {
     text-align: right;
     justify-self: end;
+
+    // Push the CTA wrapper to the bottom of the column so it lines
+    // up vertically with the profile-icons row on the left.
+    > .mt-2 { margin-top: auto; }
   }
 }
 
@@ -61,6 +69,12 @@
     transition: color 0.15s;
 
     &:hover { color: $warm; }
+  }
+
+  // On md+, push to the bottom of the left column so the icon row
+  // sits on the same line as the CTA button on the right.
+  @media (min-width: $bp-md) {
+    margin-top: auto;
   }
 }
 

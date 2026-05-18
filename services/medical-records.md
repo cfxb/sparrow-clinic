@@ -18,6 +18,8 @@ For a neuropsychological assessment, the records most useful to gather are:
 
 - Your referring clinician's reports
 - Neurologist or specialist records
+- Reports or notes from a psychologist or therapist
+- Reports or notes from a psychiatrist
 - MRI, CT, or EEG results
 - Previous neuropsychological or psychoeducational testing results
 - Hospital discharge summaries

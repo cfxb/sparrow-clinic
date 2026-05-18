@@ -15,7 +15,10 @@
             </a>
             <div class="site-nav__dropdown-menu" role="menu">
               {% for child in link.children %}
-                <a href="{{ child.url }}" class="site-nav__dropdown-item{% if page.url == child.url %} site-nav__dropdown-item--active{% endif %}" role="menuitem">
+                <a href="{{ child.url }}"
+                   class="site-nav__dropdown-item{% if child.external %} site-nav__dropdown-item--external{% elsif page.url == child.url %} site-nav__dropdown-item--active{% endif %}"
+                   {% if child.external %}target="_blank" rel="noopener"{% endif %}
+                   role="menuitem">
                   {{ child.title }}
                 </a>
               {% endfor %}
@@ -43,7 +46,9 @@
       </a>
       {% if link.children %}
         {% for child in link.children %}
-          <a href="{{ child.url }}" class="mobile-nav__link mobile-nav__link--child{% if page.url == child.url %} mobile-nav__link--active{% endif %}">
+          <a href="{{ child.url }}"
+             class="mobile-nav__link mobile-nav__link--child{% if child.external %} mobile-nav__link--external{% elsif page.url == child.url %} mobile-nav__link--active{% endif %}"
+             {% if child.external %}target="_blank" rel="noopener"{% endif %}>
             {{ child.title }}
           </a>
         {% endfor %}

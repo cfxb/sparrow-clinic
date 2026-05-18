@@ -2,10 +2,15 @@
   url: /
 - title: About
   url: /about/
+  children:
+    - title: Research
+      url: https://www.cogneuro.net
+      external: true
 - title: Services
   url: /services/
-- title: Referral
-  url: /referral/
+  children:
+    - title: Referral
+      url: /referral/
 - title: Book
   url: /book/
 - title: Contact
@@ -37,6 +42,3 @@
       url: /resources/encephalitis-and-meningitis/
     - title: Depression and Anxiety
       url: /resources/depression-and-anxiety/
-- title: Research
-  url: https://www.cogneuro.net
-  external: true

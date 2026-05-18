@@ -164,6 +164,15 @@
   &--active {
     color: $accent;
   }
+
+  &--external {
+    color: $text-muted;
+    font-style: italic;
+    &:hover {
+      color: $warm;
+      background: rgba(240, 100, 48, 0.10);
+    }
+  }
 }
 
 // ── Mobile toggle ─────────────────────────────────────────────

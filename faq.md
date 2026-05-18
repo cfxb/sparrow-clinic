@@ -33,7 +33,9 @@ The second appointment is in person and involves the formal testing. Testing sam
 
 Preparation is mostly practical: sleep normally, take regular medications unless told otherwise, bring glasses and hearing aids if required, and bring a list of current medications and prior reports. Avoid alcohol and marijuana for at least 24 hours before and limit caffeine to your usual amount on the day of testing.
 
-If you are being assessed for a specific question — for example, suspected ADHD, post-concussion symptoms, or memory change — bring any relevant medical records, school reports, imaging summaries, or prior psychological testing. Plan for the day to be cognitively demanding, and arrange transportation if you anticipate fatigue.
+Bring any relevant medical records, school reports, imaging summaries, or prior psychological testing. Plan for the day to be cognitively demanding, and arrange transportation if you anticipate fatigue.
+
+See [how to request your medical records in British Columbia](/services/medical-records/) for help getting records from BC hospitals, family physicians, and provincial portals like Health Gateway BC.
 
 ## What do neurologists want from a neuropsychology report?
 

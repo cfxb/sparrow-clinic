@@ -11,6 +11,8 @@
   children:
     - title: Referral
       url: /referral/
+    - title: Medical records
+      url: /services/medical-records/
 - title: Book
   url: /book/
 - title: Contact

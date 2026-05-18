@@ -50,38 +50,9 @@ Paediatric and school-aged psychoeducational testing is not offered at Sparrow; 
 
 ## Preparing for your assessment
 
-Before your appointment, you will be asked to complete consent forms and gather relevant medical records. Bringing your records allows for a more accurate assessment.
+Before your appointment, you will be asked to complete consent forms and gather relevant medical records. Bringing your records — referring clinician's reports, neurologist or specialist notes, MRI / CT / EEG results, prior cognitive testing, and hospital discharge summaries — allows for a more accurate assessment.
 
-## Requesting your medical records
-
-You have a legal right to access your own medical records. Documents that will allow a more accurate assessment include:
-
-- Your referring clinician's reports
-- Neurologist or specialist records
-- MRI, CT scan, or EEG results
-- Previous neuropsychological testing results
-- Hospital discharge summaries
-
-You request your records by contacting the relevant doctor or hospital.  You can ask them to forward the records to you, or to us at:
-
-Christopher Benjamin\\
-Sparrow Neuropsychology Ltd\\
-Fax: (236) 501 5099\\
-Email: [clinic@sparrow.clinic](mailto:clinic@sparrow.clinic?subject=Assessment%20enquiry)
-
-You can send us a confidential email by emailing us from a [free proton account](https://www.proton.me).
-
-### BC health contacts
-
-Many BC residents' records are available at:
-
-- [Access My Health](https://www.accessmyhealth.ca)
-- [Health Gateway BC](https://www.healthgateway.gov.bc.ca)
-- [LifeLabs](https://www.lifelabs.com)
-
-The table below lists hospitals in British Columbia where you can request your records.
-
-{% include hospital-table.html %}
+For step-by-step guidance on requesting records from BC hospitals, family physicians, and provincial portals like Health Gateway BC, see [how to request your medical records in British Columbia](/services/medical-records/).
 
 ## Consent form
 

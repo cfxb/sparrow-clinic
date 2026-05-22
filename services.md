@@ -56,14 +56,6 @@ If you (or someone close to you) has a condition that might be affecting how wel
   <li><strong>Feedback (1h)</strong> — We meet to provide the results to you. The results are also forwarded to you in a written report.</li>
 </ol>
 
-## Psychoeducational assessment
-
-Sparrow Neuropsychology also provides psychoeducational assessment for **adults aged 16 and older**. This assessment focuses on learning, academic skills, and the cognitive supports needed for post-secondary study or work. It is commonly used to apply for accommodations in post-secondary settings or on standardised admissions tests, and to clarify the cognitive contribution to long-standing academic difficulties in adulthood.
-
-Psychoeducational assessment overlaps with neuropsychological assessment in the tools used but differs in scope and clinical framing. For an outline of the difference, see [the FAQ](/faq/).
-
-Paediatric and school-aged psychoeducational testing is not offered at Sparrow; for children and adolescents under 16, a school-based or paediatric psychoeducational provider is the appropriate first step.
-
 ## Preparing for your assessment
 
 Before your appointment, you will be asked to complete consent forms and gather relevant medical records. Bringing your records — referring clinician's reports, neurologist or specialist notes, MRI / CT / EEG results, prior cognitive testing, and hospital discharge summaries — allows for a more accurate assessment.

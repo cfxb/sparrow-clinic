@@ -103,6 +103,12 @@ In British Columbia, psychoeducational assessment is most commonly used to suppo
 
 Sparrow Neuropsychology offers both, for adults aged 16 and older. Paediatric and school-aged psychoeducational testing is not offered here; for children, a school-based or paediatric psychoeducational provider is the appropriate first step.
 
+## Do you offer psychoeducational assessment for adults?
+
+Yes. Sparrow Neuropsychology provides psychoeducational assessment for **adults aged 16 and older**. A psychoeducational assessment focuses on learning, academic skills, and the cognitive supports needed for post-secondary study or work. In British Columbia it is most commonly used to apply for accommodations in post-secondary settings or on standardised admissions tests, and to clarify the cognitive contribution to long-standing academic difficulties in adulthood.
+
+Psychoeducational assessment overlaps with neuropsychological assessment in the tools used but differs in scope and clinical framing — see [the difference between psychoeducational and neuropsychological testing](#what-is-the-difference-between-psychoeducational-and-neuropsychological-testing) above. Paediatric and school-aged psychoeducational testing is not offered at Sparrow; for children and adolescents under 16, a school-based or paediatric psychoeducational provider is the appropriate first step.
+
 ## What is the difference between psychiatry and neuropsychology?
 
 Psychiatry is a branch of medicine that diagnoses and treats mental health conditions, including with medication, while neuropsychology is a specialty within clinical psychology that assesses brain-behaviour relationships using structured testing. The two roles are complementary rather than interchangeable.

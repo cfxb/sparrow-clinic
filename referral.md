@@ -8,6 +8,10 @@ hero_image: /assets/images/hero-sky.jpg
 narrow: true
 ---
 
+Referrals from physicians and other healthcare professionals are strongly preferred, but are not required.
+
+If you are self-referring, an initial consultation can help determine whether neuropsychological assessment is likely to be useful in your situation.
+
 ## Who refers patients?
 
 Patients are referred by healthcare providers such as neurologists, family physicians, and other specialists. For example, you may have reported concerns about your memory or paying attention after a head injury.
@@ -20,8 +24,6 @@ Common referral questions include:
 - Cognitive impacts from neurological conditions (e.g., stroke, brain tumours, MS, brain injury)
 - Baseline evaluations of thinking
 - Return-to-work assessments
-
-Please note we do not typically see patients whose primary concern is ongoing seizure management. Such patients should be referred to an epilepsy program, such as the one at Vancouver General Hospital.
 
 ## How to refer
 

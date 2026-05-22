@@ -57,7 +57,7 @@ If you (or someone close to you) has a condition that might be affecting how wel
 
 ## Preparing for your assessment
 
-**Before your appointment**, you will be asked to complete consent forms and gather relevant medical records. Bringing your records — referring clinician's reports, neurologist or specialist notes, MRI / CT / EEG results, prior cognitive testing, and hospital discharge summaries — allows for a more accurate assessment. See [how to request your medical records in British Columbia](/services/medical-records/) for help gathering them.
+**Before your appointment**, you will be asked to complete consent forms and gather relevant medical records. You can do this through our secure portal. Providing records — referring clinician's reports, neurologist or specialist notes, MRI / CT / EEG results, prior cognitive testing, and hospital discharge summaries — allows for a more accurate assessment. See [how to request your medical records in British Columbia](/services/medical-records/) for help gathering them.
 
 **On the days of assessment** we will work together to get a good picture of your thinking skills. You do not need to prepare in any significant way. That said, please do —
 

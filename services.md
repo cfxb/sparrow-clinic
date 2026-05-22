@@ -11,9 +11,27 @@ narrow: true
 
 ## What is a neuropsychological assessment?
 
-A neuropsychological assessment is usually requested by your doctor or neurologist to explore changes in your thinking, memory, or other cognitive abilities.
+The goal of a neuropsychological assessment is to objectively evaluate thinking skills (cognitive functioning) – including areas like memory, attention, language, processing speed, executive functioning, and spatial skills – and to determine whether there is evidence of cognitive change or an underlying condition affecting thinking.
 
-In this short video, you'll learn more about the purpose of a neuropsychological assessment and how it fits alongside other neurological tests like MRI and EEG.
+Neuropsychological assessment is detailed and individualized. It typically includes:
+
+* Review of relevant medical and background information;
+* A detailed clinical interview (typically 1–1.5 hours);
+* Cognitive testing in person (typically 4–6 hours, depending on the referral questions);
+* Scoring and interpretation of test results;
+* Integration of the findings with your history, symptoms, and medical context;
+* Preparation of a comprehensive written report with diagnostic impressions and recommendations; and
+* A feedback session to review the findings and discuss next steps (typically 1 hour).
+
+A substantial portion of the work occurs outside the face-to-face appointments – particularly reviewing records, understanding the history provided, scoring and interpreting the tests, and integrating the findings into a coherent clinical formulation and report.
+
+A key outcome of the assessment is an objective picture of how your cognitive abilities compare with peers of a similar age and educational background. These findings are then considered alongside factors such as neurological conditions, injuries, medications, psychological state, sleep, stress, and other medical issues to better understand the pattern of strengths and difficulties you may be experiencing.
+
+Depending on the referral question, assessment may help clarify conditions such as ADHD, learning disorders, memory disorders, post-concussive symptoms, effects of epilepsy or brain injury, depression/anxiety-related cognitive difficulties, mild cognitive impairment, or dementia.
+
+Assessment cannot always provide every answer. It does usually clarify patterns, rule possibilities in or out, guide treatment recommendations, and provide a clearer framework for understanding cognitive changes and day-to-day difficulties.
+
+The below video provides more detail.
 
 {% include video-embed.html url="https://player.vimeo.com/video/1094262868?h=0243a0ed82" title="What is a neuropsychological assessment?" %}
 
@@ -30,14 +48,12 @@ If you (or someone close to you) has a condition that might be affecting how wel
 - [Stroke](/resources/stroke/)
 - [Brain tumours](/resources/brain-tumours/)
 
-## What happens in an assessment?
+## What does an assessment look like for the patient?
 
 <ol class="steps">
-  <li><strong>Record review</strong> — We examine your medical history before we meet.</li>
-  <li><strong>Interview (~1 hour)</strong> — We discuss your concerns and background.</li>
-  <li><strong>Testing (~4 hours)</strong> — You complete tasks evaluating memory, attention, problem-solving, language, and processing speed.</li>
-  <li><strong>Report and review</strong> — We analyse your performance compared to others of a similar background, review records, and may also interview your partner or a friend to understand your difficulties.</li>
-  <li><strong>Feedback (30–60 minutes)</strong> — We explain your results and recommendations, often via Zoom.</li>
+  <li><strong>Interview (1–1.5h)</strong> — We review your history and concerns with you, typically over Zoom.</li>
+  <li><strong>Testing (4–6h)</strong> — We complete tasks and questionnaires to measure your thinking skills over 1–2 sessions.</li>
+  <li><strong>Feedback (1h)</strong> — We meet to provide the results to you. The results are also forwarded to you in a written report.</li>
 </ol>
 
 ## Psychoeducational assessment

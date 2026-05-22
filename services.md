@@ -13,6 +13,10 @@ narrow: true
 
 The goal of a neuropsychological assessment is to objectively evaluate thinking skills (cognitive functioning) – including areas like memory, attention, language, processing speed, executive functioning, and spatial skills – and to determine whether there is evidence of cognitive change or an underlying condition affecting thinking.
 
+The video below provides more detail.
+
+{% include video-embed.html url="https://player.vimeo.com/video/1094262868?h=0243a0ed82" title="What is a neuropsychological assessment?" %}
+
 Neuropsychological assessment is detailed and individualized. It typically includes:
 
 * Review of relevant medical and background information;
@@ -31,11 +35,6 @@ Depending on the referral question, assessment may help clarify conditions such 
 
 Assessment cannot always provide every answer. It does usually clarify patterns, rule possibilities in or out, guide treatment recommendations, and provide a clearer framework for understanding cognitive changes and day-to-day difficulties.
 
-The below video provides more detail.
-
-{% include video-embed.html url="https://player.vimeo.com/video/1094262868?h=0243a0ed82" title="What is a neuropsychological assessment?" %}
-
-
 ## Why might I be referred?
 
 If you (or someone close to you) has a condition that might be affecting how well you think, this kind of assessment can help understand what's going on and what will help. Common reasons for referral include:
@@ -48,7 +47,7 @@ If you (or someone close to you) has a condition that might be affecting how wel
 - [Stroke](/resources/stroke/)
 - [Brain tumours](/resources/brain-tumours/)
 
-## What does an assessment look like for the patient?
+## What does an assessment look like practically?
 
 <ol class="steps">
   <li><strong>Interview (1–1.5h)</strong> — We review your history and concerns with you, typically over Zoom.</li>

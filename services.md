@@ -29,7 +29,7 @@ Neuropsychological assessment is detailed and individualized. It typically inclu
 
 A substantial portion of the work occurs outside the face-to-face appointments – particularly reviewing records, understanding the history provided, scoring and interpreting the tests, and integrating the findings into a coherent clinical formulation and report.
 
-A key outcome of the assessment is an objective picture of how your cognitive abilities compare with peers of a similar age and educational background. These findings are then considered alongside factors such as neurological conditions, injuries, medications, psychological state, sleep, stress, and other medical issues to better understand the pattern of strengths and difficulties you may be experiencing.
+**A key outcome of the assessment is an objective picture of how your cognitive abilities compare with peers of a similar age and educational background.** These findings are then considered alongside factors such as neurological conditions, injuries, medications, psychological state, sleep, stress, and other medical issues to better understand the pattern of strengths and difficulties you may be experiencing.
 
 Depending on the referral question, assessment may help clarify conditions such as ADHD, learning disorders, memory disorders, post-concussive symptoms, effects of epilepsy or brain injury, depression/anxiety-related cognitive difficulties, mild cognitive impairment, or dementia.
 
@@ -57,14 +57,14 @@ If you (or someone close to you) has a condition that might be affecting how wel
 
 ## Preparing for your assessment
 
-Before your appointment, you will be asked to complete consent forms and gather relevant medical records. Bringing your records — referring clinician's reports, neurologist or specialist notes, MRI / CT / EEG results, prior cognitive testing, and hospital discharge summaries — allows for a more accurate assessment. See [how to request your medical records in British Columbia](/services/medical-records/) for help gathering them.
+**Before your appointment**, you will be asked to complete consent forms and gather relevant medical records. Bringing your records — referring clinician's reports, neurologist or specialist notes, MRI / CT / EEG results, prior cognitive testing, and hospital discharge summaries — allows for a more accurate assessment. See [how to request your medical records in British Columbia](/services/medical-records/) for help gathering them.
 
-On the days of assessment we will work together to get a good picture of your thinking skills. You do not need to prepare in any significant way. That said, please do —
+**On the days of assessment** we will work together to get a good picture of your thinking skills. You do not need to prepare in any significant way. That said, please do —
 
 * Avoid alcohol or marijuana for 24 hours prior to the assessment.
 * Review the [consent form](/assets/files/consent-sparrow_20260131.pdf), which will be emailed to you. We will discuss and complete it together at assessment, prior to proceeding.
 * Bring snacks and something to drink. We will take breaks throughout as needed.
 
-In an assessment you really do simply need to show up and be yourself. Some of the tasks we do will be so simple they'll seem silly; conversely some will be too difficult. This is the normal experience of an assessment, as our tasks have to be useful with people of every ability level.
+In an assessment you really do simply need to show up and be yourself. Some of the tasks we do will be so simple they'll seem trivial; conversely, some will be too difficult. This is the normal experience of an assessment, as our tasks have to be useful with people of every ability level.
 
 Don't hesitate to send any questions through by email before your appointment.

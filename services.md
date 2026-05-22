@@ -58,12 +58,14 @@ If you (or someone close to you) has a condition that might be affecting how wel
 
 ## Preparing for your assessment
 
-Before your appointment, you will be asked to complete consent forms and gather relevant medical records. Bringing your records — referring clinician's reports, neurologist or specialist notes, MRI / CT / EEG results, prior cognitive testing, and hospital discharge summaries — allows for a more accurate assessment.
+Before your appointment, you will be asked to complete consent forms and gather relevant medical records. Bringing your records — referring clinician's reports, neurologist or specialist notes, MRI / CT / EEG results, prior cognitive testing, and hospital discharge summaries — allows for a more accurate assessment. See [how to request your medical records in British Columbia](/services/medical-records/) for help gathering them.
 
-For step-by-step guidance on requesting records from BC hospitals, family physicians, and provincial portals like Health Gateway BC, see [how to request your medical records in British Columbia](/services/medical-records/).
+On the days of assessment we will work together to get a good picture of your thinking skills. You do not need to prepare in any significant way. That said, please do —
 
-## Consent form
+* Avoid alcohol or marijuana for 24 hours prior to the assessment.
+* Review the [consent form](/assets/files/consent-sparrow_20260131.pdf), which will be emailed to you. We will discuss and complete it together at assessment, prior to proceeding.
+* Bring snacks and something to drink. We will take breaks throughout as needed.
 
-Prior to assessment please review this consent form. We will discuss and complete this at assessment, prior to proceeding.
+In an assessment you really do simply need to show up and be yourself. Some of the tasks we do will be so simple they'll seem silly; conversely some will be too difficult. This is the normal experience of an assessment, as our tasks have to be useful with people of every ability level.
 
-[Download consent form (PDF)](/assets/files/consent-sparrow_20260131.pdf)
+Don't hesitate to send any questions through by email before your appointment.

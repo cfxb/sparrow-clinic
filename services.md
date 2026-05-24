@@ -9,31 +9,47 @@ hero_image: /assets/images/hero-sky.jpg
 narrow: true
 ---
 
-## What is a neuropsychological assessment?
+## Understanding neuropsychological assessment
 
-The goal of a neuropsychological assessment is to objectively evaluate thinking skills (cognitive functioning) – including areas like memory, attention, language, processing speed, executive functioning, and spatial skills – and to determine whether there is evidence of cognitive change or an underlying condition affecting thinking.
+A neuropsychological assessment is a detailed evaluation of thinking skills such as memory, attention, language, processing speed, and problem-solving. Judging whether cognition is impaired requires us to —
 
-The video below provides more detail.
+- Estimate what an individual's baseline or previous cognitive functioning likely was. This relies on their educational, medical, psychological, and employment history.
+- Measure their current thinking skills in a standard way, to compare them to others of the same background (e.g., age, education).
+- Evaluate personality and psychological factors, as these shape cognition; then
+- Integrate the person's history, test profile, and psychological factors with knowledge of neurological and psychological disorders.
+- Use this information to explain the causes of any cognitive difficulties and determine whether a diagnosis is appropriate.
+
+The key outcomes of assessment are objective statements of your cognitive abilities, and any diagnoses. Generally, psychologists diagnose conditions listed in the DSM-5.
+
+Examples of diagnoses are ADHD, learning disorders, memory disorders, post-concussive symptoms, effects of epilepsy or brain injury, depression/anxiety-related cognitive difficulties, mild cognitive impairment, or dementia.
+
+The following video provides additional detail.
 
 {% include video-embed.html url="https://player.vimeo.com/video/1094262868?h=0243a0ed82" title="What is a neuropsychological assessment?" %}
 
-Neuropsychological assessment is detailed and individualized. It typically includes:
+### What the assessment involves
 
-* Review of relevant medical and background information;
-* A detailed clinical interview (typically 1–1.5 hours);
-* Cognitive testing in person (typically 4–6 hours, depending on the referral questions);
-* Scoring and interpretation of test results;
-* Integration of the findings with your history, symptoms, and medical context;
-* Preparation of a comprehensive written report with diagnostic impressions and recommendations; and
-* A feedback session to review the findings and discuss next steps (typically 1 hour).
+The assessment process generally involves the following steps:
 
-A substantial portion of the work occurs outside the face-to-face appointments – particularly reviewing records, understanding the history provided, scoring and interpreting the tests, and integrating the findings into a coherent clinical formulation and report.
+* Taking a detailed clinical interview, usually conducted over Zoom;
+* Reviewing relevant medical and background records;
+* Cognitive testing, usually in person;
+* Scoring and interpretation of results;
+* Integration of the findings with your history and concerns;
+* Formulating a comprehensive written report; and
+* A feedback session to review the findings and recommendations together.
 
-**A key outcome of the assessment is an objective picture of how your cognitive abilities compare with peers of a similar age and educational background.** These findings are then considered alongside factors such as neurological conditions, injuries, medications, psychological state, sleep, stress, and other medical issues to better understand the pattern of strengths and difficulties you may be experiencing.
+A substantial portion of this work occurs behind the scenes in reviewing records, interpreting the test data, formulating clinical impressions, and preparing the written report.
 
-Depending on the referral question, assessment may help clarify conditions such as ADHD, learning disorders, memory disorders, post-concussive symptoms, effects of epilepsy or brain injury, depression/anxiety-related cognitive difficulties, mild cognitive impairment, or dementia.
+Some assessments require additional time or services depending on complexity, extensive record review, or urgent timelines. If this applies, it will always be discussed in advance.
 
-Assessment cannot always provide every answer. It does usually clarify patterns, rule possibilities in or out, guide treatment recommendations, and provide a clearer framework for understanding cognitive changes and day-to-day difficulties.
+## Assessment cost and insurance
+
+- Neuropsychological assessments are services provided by a psychologist.
+- The **standard cost** for a comprehensive assessment is **$3900 CAD**.
+- Assessment is **generally paid privately**, with support from **extended health benefits** or third-party funding. Coverage ranges from partial to full reimbursement depending on the plan.
+- Assessment is **not typically covered by MSP**, as MSP generally does not cover psychological assessment or treatment services.
+- A limited number of reduced-fee appointments are available in cases of financial need. If cost is a barrier, please email to discuss this.
 
 ## Why might I be referred?
 
@@ -47,7 +63,7 @@ If you (or someone close to you) has a condition that might be affecting how wel
 - [Stroke](/resources/stroke/)
 - [Brain tumours](/resources/brain-tumours/)
 
-## What does an assessment look like practically?
+## What to expect during assessment
 
 <ol class="steps">
   <li><strong>Interview (1–1.5h)</strong> — We review your history and concerns with you, typically over Zoom.</li>
@@ -57,7 +73,11 @@ If you (or someone close to you) has a condition that might be affecting how wel
 
 ## Preparing for your assessment
 
-**Before your appointment**, you will be asked to complete consent forms and gather relevant medical records. You can do this through our secure portal. Providing records — referring clinician's reports, neurologist or specialist notes, MRI / CT / EEG results, prior cognitive testing, and hospital discharge summaries — allows for a more accurate assessment. See [how to request your medical records in British Columbia](/services/medical-records/) for help gathering them.
+**Before your appointment**:
+
+- Confirmation details will be sent to you via secure email (domain: sparrow.ink).
+- You will receive the assessment consent form to review and complete.
+- You will be asked to gather and forward relevant medical records. Providing records — such as a referring clinician's reports, neurologist or specialist notes, MRI / CT / EEG results, prior cognitive testing, and hospital discharge summaries — allows for a more accurate assessment. See [how to request your medical records in British Columbia](/services/medical-records/) for help gathering them.
 
 **On the days of assessment** we will work together to get a good picture of your thinking skills. You do not need to prepare in any significant way. That said, please do —
 

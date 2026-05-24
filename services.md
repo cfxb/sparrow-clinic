@@ -27,7 +27,7 @@ The following video provides additional detail.
 
 {% include video-embed.html url="https://player.vimeo.com/video/1094262868?h=0243a0ed82" title="What is a neuropsychological assessment?" %}
 
-### What the assessment involves
+## What the assessment involves
 
 The assessment process generally involves the following steps:
 

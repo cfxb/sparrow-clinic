@@ -11,7 +11,9 @@ narrow: true
 
 ## Understanding neuropsychological assessment
 
-A neuropsychological assessment is a detailed evaluation of thinking skills such as memory, attention, language, processing speed, and problem-solving. Judging whether cognition is impaired requires us to —
+A neuropsychological assessment is a detailed evaluation of thinking skills such as memory, attention, language, processing speed, and problem-solving.
+
+Judging whether cognition is impaired requires us to —
 
 - Estimate what an individual's baseline or previous cognitive functioning likely was. This relies on their educational, medical, psychological, and employment history.
 - Measure their current thinking skills in a standard way, to compare them to others of the same background (e.g., age, education).
@@ -19,9 +21,9 @@ A neuropsychological assessment is a detailed evaluation of thinking skills such
 - Integrate the person's history, test profile, and psychological factors with knowledge of neurological and psychological disorders.
 - Use this information to explain the causes of any cognitive difficulties and determine whether a diagnosis is appropriate.
 
-The key outcomes of assessment are objective statements of your cognitive abilities, and any diagnoses. Generally, psychologists diagnose conditions listed in the DSM-5.
+The key outcomes of assessment are objective statements about cognitive abilities, and any diagnoses. Generally, psychologists diagnose conditions listed in the DSM-5.
 
-Examples of diagnoses are ADHD, learning disorders, memory disorders, post-concussive symptoms, effects of epilepsy or brain injury, depression/anxiety-related cognitive difficulties, mild cognitive impairment, or dementia.
+Some examples of diagnoses include ADHD, learning disorders, memory disorders, post-concussive symptoms, effects of epilepsy or brain injury, depression/anxiety-related cognitive difficulties, mild cognitive impairment, and dementia.
 
 The following video provides additional detail.
 

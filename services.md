@@ -39,14 +39,14 @@ The assessment process generally involves the following steps:
 * Formulating a comprehensive written report; and
 * A feedback session to review the findings and recommendations together.
 
-A substantial portion of this work occurs behind the scenes in reviewing records, interpreting the test data, formulating clinical impressions, and preparing the written report.
+The larger portion of this work occurs behind the scenes in reviewing records, interpreting the test data, formulating clinical impressions, and preparing the written report. Assessment at Sparrow is completed by Dr. Christopher Benjamin, a neuropsychologist and Associate Professor (Adjunct) at Yale University School of Medicine with over 15 years of clinical experience in hospital, academic, and epilepsy/neurosurgical settings.
 
 Some assessments require additional time or services depending on complexity, extensive record review, or urgent timelines. If this applies, it will always be discussed in advance.
 
 ## Assessment cost and insurance
 
 - Neuropsychological assessments are services provided by a psychologist.
-- The **standard cost** for a comprehensive assessment is **$3900 CAD**.
+- The **standard cost** for a comprehensive neuropsychological assessment is **$3900 CAD**. Assessment complexity and scope can vary. Any substantial deviations from standard fees are discussed in advance.
 - Assessment is **generally paid privately**, with support from **extended health benefits** or third-party funding. Coverage ranges from partial to full reimbursement depending on the plan.
 - Assessment is **not typically covered by MSP**, as MSP generally does not cover psychological assessment or treatment services.
 - A limited number of reduced-fee appointments are available in cases of financial need. If cost is a barrier, please email to discuss this.

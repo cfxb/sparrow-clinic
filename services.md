@@ -70,7 +70,7 @@ If you (or someone close to you) has a condition that might be affecting how wel
 <ol class="steps">
   <li><strong>Interview (1–1.5h)</strong> — We review your history and concerns with you, typically over Zoom.</li>
   <li><strong>Testing (4–6h)</strong> — We complete tasks and questionnaires to measure your thinking skills the following day, and potentially across 2 sessions; typically in person.</li>
-  <li><strong>Feedback (1h)</strong> — We meet to provide the results to you around 3 weeks post-assessment, typically over Zoom. The results are also forwarded to you in a written report.</li>
+  <li><strong>Feedback (1h)</strong> — We meet to provide the results to you around 3 weeks post-assessment, typically over Zoom. The results are also forwarded to you and your referring clinician in a written report.</li>
 </ol>
 
 ## Preparing for your assessment
@@ -84,7 +84,7 @@ If you (or someone close to you) has a condition that might be affecting how wel
 **On the days of assessment** we will work together to get a good picture of your thinking skills. You do not need to prepare in any significant way. That said, please do —
 
 * Avoid alcohol and marijuana for 24 hours prior to the assessment.
-* Review the [consent form](/assets/files/consent-sparrow_20260131.pdf), which will be emailed to you.
+* Check that you reviewed and completed the [consent form](/assets/files/consent-sparrow_20260131.pdf).
 * Bring snacks and something to drink. We will take breaks throughout as needed.
 
 In an assessment you really do simply need to show up and be yourself. Some of the tasks we do will be so simple they'll seem trivial; conversely, some will be too difficult. This is the normal experience of an assessment, as our tasks have to be useful with people of every ability level. All you need to do is apply your best effort and do what you can.

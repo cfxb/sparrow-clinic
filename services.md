@@ -33,13 +33,13 @@ The following video provides additional detail.
 
 The assessment process generally involves the following steps:
 
-* Taking a detailed clinical interview, usually conducted over Zoom;
+* Taking a detailed clinical interview, usually over Zoom;
 * Reviewing relevant medical and background records;
 * Cognitive testing, usually in person;
 * Scoring and interpretation of results;
 * Integration of the findings with your history and concerns;
 * Formulating a comprehensive written report; and
-* A feedback session to review the findings and recommendations together.
+* A feedback session to review the findings and recommendations together, usually over Zoom.
 
 The larger portion of this work occurs behind the scenes in reviewing records, interpreting the test data, formulating clinical impressions, and preparing the written report. Assessment at Sparrow is completed by Dr. Christopher Benjamin, a neuropsychologist and Associate Professor (Adjunct) at Yale University School of Medicine with over 15 years of clinical experience in hospital, academic, and epilepsy/neurosurgical settings.
 
@@ -49,7 +49,7 @@ Some assessments require additional time or services depending on complexity, ex
 
 - Neuropsychological assessments are services provided by a psychologist.
 - The **standard cost** for a comprehensive neuropsychological assessment is **$3900 CAD**. Assessment complexity and scope can vary. Any substantial deviations from standard fees are discussed in advance.
-- Assessment is **generally paid privately**, with support from **extended health benefits** or third-party funding. Coverage ranges from partial to full reimbursement depending on the plan.
+- Assessment is **generally paid privately**, with support from **extended health benefits** or third-party funding. Extended benefits coverage most often ranges from partial to full reimbursement, depending on the plan.
 - Assessment is **not typically covered by MSP**, as MSP generally does not cover psychological assessment or treatment services.
 - A limited number of reduced-fee appointments are available in cases of financial need. If cost is a barrier, please email to discuss this.
 
@@ -78,15 +78,15 @@ If you (or someone close to you) has a condition that might be affecting how wel
 **Before your appointment**:
 
 - Confirmation details will be sent to you via secure email (domain: sparrow.ink).
-- You will receive the assessment consent form to review and complete.
+- You will receive the assessment [consent form](/assets/files/consent-sparrow_20260131.pdf) to review.
 - You will be asked to gather and forward relevant medical records. Providing records — such as a referring clinician's reports, neurologist or specialist notes, MRI / CT / EEG results, prior cognitive testing, and hospital discharge summaries — allows for a more accurate assessment. See [how to request your medical records in British Columbia](/services/medical-records/) for help gathering them.
 
 **On the days of assessment** we will work together to get a good picture of your thinking skills. You do not need to prepare in any significant way. That said, please do —
 
-* Avoid alcohol or marijuana for 24 hours prior to the assessment.
-* Review the [consent form](/assets/files/consent-sparrow_20260131.pdf), which will be emailed to you. We will discuss and complete it together at assessment, prior to proceeding.
+* Avoid alcohol and marijuana for 24 hours prior to the assessment.
+* Review the [consent form](/assets/files/consent-sparrow_20260131.pdf), which will be emailed to you.
 * Bring snacks and something to drink. We will take breaks throughout as needed.
 
-In an assessment you really do simply need to show up and be yourself. Some of the tasks we do will be so simple they'll seem trivial; conversely, some will be too difficult. This is the normal experience of an assessment, as our tasks have to be useful with people of every ability level.
+In an assessment you really do simply need to show up and be yourself. Some of the tasks we do will be so simple they'll seem trivial; conversely, some will be too difficult. This is the normal experience of an assessment, as our tasks have to be useful with people of every ability level. All you need to do is apply your best effort and do what you can.
 
-Don't hesitate to send any questions through by email before your appointment.
+Don't hesitate to send any questions through [by email](mailto:clinic@sparrow.clinic) before your appointment.

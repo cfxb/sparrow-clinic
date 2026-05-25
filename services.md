@@ -69,8 +69,8 @@ If you (or someone close to you) has a condition that might be affecting how wel
 
 <ol class="steps">
   <li><strong>Interview (1–1.5h)</strong> — We review your history and concerns with you, typically over Zoom.</li>
-  <li><strong>Testing (4–6h)</strong> — We complete tasks and questionnaires to measure your thinking skills over 1–2 sessions; typically in person.</li>
-  <li><strong>Feedback (1h)</strong> — We meet to provide the results to you, typically over Zoom. The results are also forwarded to you in a written report.</li>
+  <li><strong>Testing (4–6h)</strong> — We complete tasks and questionnaires to measure your thinking skills the following day, and potentially across 2 sessions; typically in person.</li>
+  <li><strong>Feedback (1h)</strong> — We meet to provide the results to you around 3 weeks post-assessment, typically over Zoom. The results are also forwarded to you in a written report.</li>
 </ol>
 
 ## Preparing for your assessment

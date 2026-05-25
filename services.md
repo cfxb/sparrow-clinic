@@ -65,7 +65,7 @@ If you (or someone close to you) has a condition that might be affecting how wel
 - [Stroke](/resources/stroke/)
 - [Brain tumours](/resources/brain-tumours/)
 
-## What to expect during assessment
+## Assessment timeline
 
 <ol class="steps">
   <li><strong>Interview (1–1.5h)</strong> — We review your history and concerns with you, typically over Zoom.</li>

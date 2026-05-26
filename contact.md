@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-description: "Contact Sparrow Neuropsychology — Suite 208 - 175 E Broadway, Vancouver, BC. Phone, email, address, hours, and clinic location map."
+description: "Contact Sparrow Neuropsychology — 208 - 175 E Broadway, Vancouver, BC. Phone, email, address, hours, and clinic location map."
 hero_title: Contact us
 hero_image: /assets/images/hero-sky.jpg
 narrow: true
@@ -25,7 +25,7 @@ We welcome inquiries about neuropsychological assessment. If you are wondering w
 {{ site.data.contact.city }}, {{ site.data.contact.province }} {{ site.data.contact.postal }}
 
 <div class="map-embed mt-3">
-  <iframe src="https://maps.google.com/maps?q=175+E+Broadway+Suite+208+Vancouver+BC+V5T+1W2&t=&z=15&ie=UTF8&iwloc=&output=embed" allowfullscreen loading="lazy" title="Sparrow Neuropsychology location"></iframe>
+  <iframe src="https://maps.google.com/maps?q=208+-+175+E+Broadway+Vancouver+BC+V5T+1W2&t=&z=15&ie=UTF8&iwloc=&output=embed" allowfullscreen loading="lazy" title="Sparrow Neuropsychology location"></iframe>
 </div>
 
 ## Accessibility and transit

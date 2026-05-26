@@ -41,7 +41,7 @@ The assessment process generally involves the following steps:
 * Formulating a comprehensive written report; and
 * A feedback session to review the findings and recommendations together, usually over Zoom.
 
-The larger portion of this work occurs behind the scenes in reviewing records, interpreting the test data, formulating clinical impressions, and preparing the written report. Assessment at Sparrow is completed by Dr. Christopher Benjamin, a neuropsychologist with over 15 years of clinical experience in hospital, academic, and epilepsy/neurosurgical settings. Dr. Benjamin is an Associate Professor (Adjunct) at Yale University School of Medicine and consults at Vancouver General Hospital in his specialty areas of epilepsy and functional MRI.
+The larger portion of this work occurs behind the scenes in reviewing records, interpreting the test data, formulating clinical impressions, and preparing the written report. Assessment at Sparrow is completed by Dr. Christopher Benjamin, a neuropsychologist and Associate Professor (Adjunct) at Yale University School of Medicine with over 15 years of clinical experience in hospital, academic, and epilepsy/neurosurgical settings.
 
 Some assessments require additional time or services depending on complexity, extensive record review, or urgent timelines. If this applies, it will always be discussed in advance.
 

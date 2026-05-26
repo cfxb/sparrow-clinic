@@ -34,7 +34,7 @@ The clinic is in the Lee Building at 175 E Broadway, on the corner of Main Stree
 
 The building has elevator access to all floors, and is wheelchair accessible.
 
-**Parking.** There is no parking at the building itself, but several paid lots are within a short walk of the clinic:
+**Parking.** There are several paid lots within a short walk of the clinic:
 
 - [56 Kingsway](https://maps.google.com/?q=56+Kingsway+Vancouver+BC+V5T+3H9), Vancouver, BC V5T 3H9
 - [45 W 7th Ave](https://maps.google.com/?q=45+W+7th+Ave+Vancouver+BC+V5Y+1L4), Vancouver, BC V5Y 1L4

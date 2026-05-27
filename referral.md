@@ -40,7 +40,7 @@ Submit completed referrals by:
 - **Encrypted email:** [{{ site.data.contact.referral_email }}](mailto:{{ site.data.contact.referral_email }}).  See detail below.
 - **Phone:** [{{ site.data.contact.phone }}](tel:{{ site.data.contact.phone_link }})
 
-If submitting referrals by email, using a free [proton.me](https://www.proton.me) account allows automatic end-to-end encryption that can be consistent with BC privacy law as Sparrow also uses proton.me.
+If submitting referrals by email, using a free [proton.me](https://www.proton.me) account allows automatic end-to-end encryption that can be consistent with BC privacy law, as Sparrow is also hosted by Proton.
 
 ## Wait times
 

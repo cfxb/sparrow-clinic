@@ -40,8 +40,8 @@ Submit completed referrals by:
 - **Encrypted email:** [{{ site.data.contact.referral_email }}](mailto:{{ site.data.contact.referral_email }}).  See detail below.
 - **Phone:** [{{ site.data.contact.phone }}](tel:{{ site.data.contact.phone_link }})
 
-For **email** it's important you **use a free [proton.me](https://www.proton.me) account**.  Emails to the clinic from proton automatically use end-to-end encryption. 
+If submitting referrals by email, using a free [proton.me](https://www.proton.me) account allows automatic end-to-end encryption that can be consistent with BC privacy law as Sparrow also uses proton.me.
 
 ## Wait times
 
-Assessments are scheduled within 4-8 weeks, depending on urgency and complexity.
+Assessments are typically scheduled within 4-8 weeks. Scheduling depends on urgency and complexity.

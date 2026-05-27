@@ -34,13 +34,14 @@ Our clinic serves English-speaking adults aged 16 and older. To refer a patient,
   <a href="{{ '/assets/files/referral-form.pdf' | relative_url }}" class="btn btn--outline btn--sm">Download referral form (PDF)</a>
 </div>
 
-Submit completed referrals by:
+Please submit completed referrals in whatever way works for your clinic. Options include –
 
-- **Fax:** {{ site.data.contact.fax }}
-- **Encrypted email:** [{{ site.data.contact.referral_email }}](mailto:{{ site.data.contact.referral_email }}).  See detail below.
-- **Phone:** [{{ site.data.contact.phone }}](tel:{{ site.data.contact.phone_link }})
+1. Fax: {{ site.data.contact.fax }}
+2. Encrypted email to [{{ site.data.contact.referral_email }}](mailto:{{ site.data.contact.referral_email }}).
 
-If submitting referrals by email, using a free [proton.me](https://www.proton.me) account allows automatic end-to-end encryption that can be consistent with BC privacy law, as Sparrow is also hosted by Proton.
+   If you use a free [proton.me](https://www.proton.me) account, emails are automatically end-to-end encrypted consistent with BC privacy law, as Sparrow is also hosted by Proton.
+
+3. Phone: [{{ site.data.contact.phone }}](tel:{{ site.data.contact.phone_link }})
 
 ## Wait times
 

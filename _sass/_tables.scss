@@ -25,3 +25,15 @@
     background: $color-bg-light;
   }
 }
+
+.table--bordered {
+  border: 1px solid $color-border;
+
+  th, td {
+    border: 1px solid $color-border;
+  }
+
+  th {
+    text-align: center;
+  }
+}

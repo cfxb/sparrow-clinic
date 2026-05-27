@@ -36,11 +36,30 @@ Our clinic serves English-speaking adults aged 16 and older. To refer a patient,
 
 Please submit completed referrals in whatever way works for your clinic. Options include –
 
-| Method | Contact |
-|---|---|
-| **Fax** | {{ site.data.contact.fax }} |
-| **Email** | Encrypted email to [{{ site.data.contact.email }}](mailto:{{ site.data.contact.email }}). Either (i) email and request a secure upload link; or (ii) email from a free [proton.me](https://www.proton.me) account. Sparrow is hosted by Proton, so emails from other proton email addresses are automatically end-to-end encrypted consistent with BC privacy law. |
-| **Phone** | [{{ site.data.contact.phone }}](tel:{{ site.data.contact.phone_link }}) |
+<div class="table-wrap">
+  <table class="table table--bordered">
+    <thead>
+      <tr>
+        <th>Method</th>
+        <th>Contact</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Fax</strong></td>
+        <td>{{ site.data.contact.fax }}</td>
+      </tr>
+      <tr>
+        <td><strong>Email</strong></td>
+        <td>Encrypted email to <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a>. Either (i) email and request a secure upload link; or (ii) email from a free <a href="https://www.proton.me">proton.me</a> account. Sparrow is hosted by Proton, so emails from other proton email addresses are automatically end-to-end encrypted consistent with BC privacy law.</td>
+      </tr>
+      <tr>
+        <td><strong>Phone</strong></td>
+        <td><a href="tel:{{ site.data.contact.phone_link }}">{{ site.data.contact.phone }}</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## Wait times
 

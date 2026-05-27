@@ -36,12 +36,11 @@ Our clinic serves English-speaking adults aged 16 and older. To refer a patient,
 
 Please submit completed referrals in whatever way works for your clinic. Options include –
 
-1. Fax: {{ site.data.contact.fax }}
-2. Encrypted email to [{{ site.data.contact.referral_email }}](mailto:{{ site.data.contact.referral_email }}).
-
-   If you use a free [proton.me](https://www.proton.me) account, emails are automatically end-to-end encrypted consistent with BC privacy law, as Sparrow is also hosted by Proton.
-
-3. Phone: [{{ site.data.contact.phone }}](tel:{{ site.data.contact.phone_link }})
+| Method | Contact |
+|---|---|
+| **Fax** | {{ site.data.contact.fax }} |
+| **Email** | Encrypted email to [{{ site.data.contact.email }}](mailto:{{ site.data.contact.email }}). Either (i) email and request a secure upload link; or (ii) email from a free [proton.me](https://www.proton.me) account. Sparrow is hosted by Proton, so emails from other proton email addresses are automatically end-to-end encrypted consistent with BC privacy law. |
+| **Phone** | [{{ site.data.contact.phone }}](tel:{{ site.data.contact.phone_link }}) |
 
 ## Wait times
 

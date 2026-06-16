@@ -48,7 +48,7 @@ Some assessments require additional time or services depending on complexity, ex
 ## Assessment cost and insurance
 
 - Neuropsychological assessments are services provided by a psychologist.
-- The **standard cost** for a comprehensive neuropsychological assessment is **$3900 CAD**. Assessment complexity and scope can vary. Any substantial deviations from standard fees are discussed in advance.
+- The **standard cost** for a comprehensive neuropsychological assessment is **$4,000 CAD**. Assessment complexity and scope can vary. Any substantial deviations from standard fees are discussed in advance.
 - Assessment is **generally paid privately**, with support from **extended health benefits** or third-party funding. Extended benefits coverage most often ranges from partial to full reimbursement, depending on the plan.
 - Assessment is **not typically covered by MSP**, as MSP generally does not cover psychological assessment or treatment services.
 - A limited number of reduced-fee appointments are available in cases of financial need. If cost is a barrier, please email to discuss this.

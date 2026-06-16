@@ -3,9 +3,13 @@
 - title: About
   url: /about/
   children:
+    - title: About
+      url: /about/
     - title: Research
       url: https://www.cogneuro.net
       external: true
+    - title: Switchboard
+      url: /switchboard/
 - title: Services
   url: /services/
   children:

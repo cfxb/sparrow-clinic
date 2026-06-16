@@ -28,6 +28,8 @@
 - title: Resources
   url: /resources/
   children:
+    - title: Resources
+      url: /resources/
     - title: ADHD
       url: /resources/adhd/
     - title: Epilepsy

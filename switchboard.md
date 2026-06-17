@@ -325,7 +325,7 @@ switchboard_schema: true
 
       <div class="sb-faq-item">
         <p class="sb-faq-q">Can I try Switchboard now?</p>
-        <p class="sb-faq-a">Yes. If you would like to be part of our beta testing program, leave your email in the form above and let us know you're interested in early access.</p>
+        <p class="sb-faq-a">Yes. If you would like to be part of our beta testing program, email switchboard@sparrow.clinic to let us know you're interested in early access.</p>
       </div>
 
       <div class="sb-faq-item">

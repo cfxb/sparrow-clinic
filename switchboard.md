@@ -242,7 +242,7 @@ hero_image: /assets/images/hero-sky.jpg
 
       <div class="sb-feature">
         <span class="sb-feature-label">Native macOS</span>
-        <p class="sb-feature-text">Built for Mac. No Electron, no web wrapper. Runs fully offline. Does not phone home.</p>
+        <p class="sb-feature-text">Built for Mac. Runs fully offline on your machine. Does not phone home.</p>
       </div>
 
     </div>

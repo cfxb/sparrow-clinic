@@ -227,7 +227,7 @@ hero_image: /assets/images/hero-sky.jpg
 
       <div class="sb-feature">
         <span class="sb-feature-label">Case checklists</span>
-        <p class="sb-feature-text">Customisable per-case task lists across intake, assessment, and post-assessment stages. Defined once in settings, applied per patient.</p>
+        <p class="sb-feature-text">Customisable per-case task lists across intake, assessment, and post-assessment stages. Defined once by you to fit your workflow, applied per patient.</p>
       </div>
 
       <div class="sb-feature">

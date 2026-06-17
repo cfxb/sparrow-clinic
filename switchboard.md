@@ -226,7 +226,7 @@ switchboard_schema: true
   <div class="sb-container">
     <div class="sb-intro-body">
       <div class="sb-intro-text">
-        <p>Switchboard is a macOS practice management app built by a psychologist for psychologists, therapists, counsellors, and allied health practitioners in private practice. It keeps your patient records, clinical notes, and referral relationships in one place — offline, on your machine, under your control. No cloud platform. No vendor with access to your patients' data.</p>
+        <p>Switchboard is a macOS practice management app built by a psychologist for psychologists, therapists, counsellors, and allied health practitioners in private practice. It keeps your patient records, clinical notes, and referral relationships in one place — offline, on your machine, under your control. No cloud platform required. No vendor with access to your patients' data.</p>
         <p>No cloud sync you didn't configure. No vendor with access to your patients' data.</p>
       </div>
       <img src="/assets/images/sparrow-alt.png" alt="" class="sb-sparrow sb-sparrow--lg" aria-hidden="true">

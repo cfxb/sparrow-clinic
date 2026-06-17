@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Switchboard — Offline Practice Management for Psychologists, Therapists and Counsellors
-description: "Switchboard is a macOS practice management app and local alternative to cloud EHR platforms, built for psychologists, therapists, counsellors, and allied health practitioners in private practice. Patient records, clinical notes, and referral tracking stored on your Mac — no vendor access to your data, no subscription."
+description: "Switchboard is a macOS practice management app and local alternative to cloud EHR platforms, built for psychologists, therapists, counsellors, and allied health practitioners in private practice. Patient records, clinical notes, and referral tracking stored on your Mac — no vendor access to your data."
 hero_title: Switchboard
 hero_subtitle: Clinical records software
 hero_image: /assets/images/hero-sky.jpg
@@ -227,7 +227,7 @@ switchboard_schema: true
     <div class="sb-intro-body">
       <div class="sb-intro-text">
         <p>Switchboard is a macOS practice management app built by a psychologist for psychologists, therapists, counsellors, and allied health practitioners in private practice. It keeps your patient records, clinical notes, and referral relationships in one place — offline, on your machine, under your control. No cloud platform. No vendor with access to your patients' data.</p>
-        <p>No subscription. No cloud sync you didn't configure. No vendor with access to your patients' data.</p>
+        <p>No cloud sync you didn't configure. No vendor with access to your patients' data.</p>
       </div>
       <img src="/assets/images/sparrow-alt.png" alt="" class="sb-sparrow sb-sparrow--lg" aria-hidden="true">
     </div>
@@ -321,7 +321,7 @@ switchboard_schema: true
 
       <div class="sb-faq-item">
         <p class="sb-faq-q">What is Switchboard?</p>
-        <p class="sb-faq-a">Switchboard is a macOS practice management app built by a psychologist for psychologists and therapists in private practice. It keeps patient records, clinical notes, referral relationships, and case checklists in one place — stored locally on your Mac, under your control. It does not require a subscription to a cloud platform and does not share patient data with any vendor.</p>
+        <p class="sb-faq-a">Switchboard is a macOS practice management app built by a psychologist for psychologists and therapists in private practice. It keeps patient records, clinical notes, referral relationships, and case checklists in one place — stored locally on your Mac, under your control. It does not share patient data with any vendor.</p>
       </div>
 
       <div class="sb-faq-item">
@@ -341,7 +341,7 @@ switchboard_schema: true
 
       <div class="sb-faq-item">
         <p class="sb-faq-q">How is Switchboard different from web-based practice management software?</p>
-        <p class="sb-faq-a">Most cloud-based EHR and practice management platforms run in a browser and store data on vendor-controlled servers. Switchboard runs as a native macOS app and stores all data locally — no browser, no cloud dependency, no internet connection required to access your records. You are not paying a recurring subscription fee for access to your own patient data.</p>
+        <p class="sb-faq-a">Most cloud-based EHR and practice management platforms run in a browser and store data on vendor-controlled servers. Switchboard runs as a native macOS app and stores all data locally — no browser, no cloud dependency, no internet connection required to access your records. Your data stays on your machine, not on a vendor's server.</p>
       </div>
 
       <div class="sb-faq-item">

@@ -237,7 +237,7 @@ hero_image: /assets/images/hero-sky.jpg
 
       <div class="sb-feature">
         <span class="sb-feature-label">Document management</span>
-        <p class="sb-feature-text">Per-patient document folders organised by type, with automatic renaming when patient status changes.</p>
+        <p class="sb-feature-text">Drag and drop file organization, with optional immediate backup to keep your files safe.</p>
       </div>
 
       <div class="sb-feature">

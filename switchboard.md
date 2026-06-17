@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Switchboard — Practice Management Software for Psychologists
-description: "Switchboard is a macOS practice management app for psychologists and therapists in private practice. Patient records, clinical notes, and referral tracking — offline, on your Mac, under your control. No subscription. No vendor access to your data."
+title: Switchboard — Offline Practice Management for Psychologists, Therapists and Counsellors
+description: "Switchboard is a macOS practice management app and local alternative to cloud EHR platforms, built for psychologists, therapists, counsellors, and allied health practitioners in private practice. Patient records, clinical notes, and referral tracking stored on your Mac — no vendor access to your data, no subscription."
 hero_title: Switchboard
 hero_subtitle: Clinical records software
 hero_image: /assets/images/hero-sky.jpg
@@ -226,7 +226,7 @@ switchboard_schema: true
   <div class="sb-container">
     <div class="sb-intro-body">
       <div class="sb-intro-text">
-        <p>Switchboard is a macOS practice management app built by a psychologist for psychologists and therapists in private practice. It keeps your patient records, clinical notes, and referral relationships in one place — offline, on your machine, under your control.</p>
+        <p>Switchboard is a macOS practice management app built by a psychologist for psychologists, therapists, counsellors, and allied health practitioners in private practice. It keeps your patient records, clinical notes, and referral relationships in one place — offline, on your machine, under your control. No cloud platform. No vendor with access to your patients' data.</p>
         <p>No subscription. No cloud sync you didn't configure. No vendor with access to your patients' data.</p>
       </div>
       <img src="/assets/images/sparrow-alt.png" alt="" class="sb-sparrow sb-sparrow--lg" aria-hidden="true">
@@ -326,7 +326,7 @@ switchboard_schema: true
 
       <div class="sb-faq-item">
         <p class="sb-faq-q">Is Switchboard designed for solo or small private practices?</p>
-        <p class="sb-faq-a">Yes. Switchboard is designed specifically for independent practitioners — psychologists, therapists, and other regulated health professionals running their own practice. It handles the clinical records side of practice management: patient files, progress notes, case checklists, referrer tracking, and document management.</p>
+        <p class="sb-faq-a">Yes. Switchboard is designed specifically for independent practitioners — psychologists, therapists, counsellors, psychotherapists, social workers, and other allied health professionals running their own practice. It handles the clinical records side of practice management: patient files, progress notes, case checklists, referrer tracking, and document management.</p>
       </div>
 
       <div class="sb-faq-item">
@@ -341,7 +341,17 @@ switchboard_schema: true
 
       <div class="sb-faq-item">
         <p class="sb-faq-q">How is Switchboard different from web-based practice management software?</p>
-        <p class="sb-faq-a">Most practice management software runs in a browser and stores data on vendor-controlled servers. Switchboard runs as a native macOS app and stores all data locally — no browser, no cloud dependency, no internet connection required to access your records. You are not paying a recurring subscription fee for access to your own patient data.</p>
+        <p class="sb-faq-a">Most cloud-based EHR and practice management platforms run in a browser and store data on vendor-controlled servers. Switchboard runs as a native macOS app and stores all data locally — no browser, no cloud dependency, no internet connection required to access your records. You are not paying a recurring subscription fee for access to your own patient data.</p>
+      </div>
+
+      <div class="sb-faq-item">
+        <p class="sb-faq-q">Is Switchboard suitable for US practitioners concerned about HIPAA?</p>
+        <p class="sb-faq-a">Most cloud practice management and EHR platforms require you to sign a Business Associate Agreement (BAA) with the vendor because they handle your patients' Protected Health Information (PHI) on their servers. Because Switchboard stores all data locally on your Mac, there is no third-party vendor handling your PHI — the data access concern that drives the BAA requirement doesn't arise. You remain responsible for your own device security and backup practices, which is consistent with HIPAA's requirements for covered entities.</p>
+      </div>
+
+      <div class="sb-faq-item">
+        <p class="sb-faq-q">Is Switchboard suitable for Australian allied health practitioners?</p>
+        <p class="sb-faq-a">Yes. The Australian Privacy Act 1988 and the Australian Privacy Principles (APPs) require health service providers to take reasonable steps to protect personal health information from misuse and unauthorised access. With Switchboard, patient data stays on your Mac and is not transmitted to any third-party cloud vendor unless you configure optional encrypted backup. There is no offshore data storage by default, and no vendor with access to your patients' records — which addresses the core data-handling obligations under the APPs for solo and small allied health practices.</p>
       </div>
 
       <div class="sb-faq-item">

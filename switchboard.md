@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Switchboard
-description: "Switchboard is a macOS app built by a psychologist, for psychologists. Patient records, clinical notes, and referral relationships — offline, on your machine."
+title: Switchboard — Practice Management Software for Psychologists
+description: "Switchboard is a macOS practice management app for psychologists and therapists in private practice. Patient records, clinical notes, and referral tracking — offline, on your Mac, under your control. No subscription. No vendor access to your data."
 hero_title: Switchboard
 hero_subtitle: Clinical records software
 hero_image: /assets/images/hero-sky.jpg
+switchboard_schema: true
 ---
 
 <style>
@@ -187,13 +188,45 @@ hero_image: /assets/images/hero-sky.jpg
   }
 
   .sb-signup-confirm.visible { display: flex; }
+
+  /* ── FAQ ── */
+  .sb-faq {
+    padding: 52px 0 64px;
+    border-top: 1px solid #b8e0dc;
+  }
+
+  .sb-faq-heading {
+    font-family: 'Space Grotesk', system-ui, sans-serif;
+    font-weight: 600;
+    font-size: 1.25rem;
+    letter-spacing: -0.02em;
+    color: #081a18;
+    margin-bottom: 32px;
+  }
+
+  .sb-faq-list { display: flex; flex-direction: column; gap: 28px; }
+
+  .sb-faq-q {
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: #081a18;
+    margin-bottom: 6px;
+    line-height: 1.5;
+  }
+
+  .sb-faq-a {
+    font-size: 0.92rem;
+    color: #2e5c58;
+    line-height: 1.7;
+    margin: 0;
+  }
 </style>
 
 <section class="sb-intro">
   <div class="sb-container">
     <div class="sb-intro-body">
       <div class="sb-intro-text">
-        <p>Switchboard is a macOS app built by a psychologist, for psychologists. It keeps your patient records, clinical notes, and referral relationships in one place — offline, on your machine, under your control.</p>
+        <p>Switchboard is a macOS practice management app built by a psychologist for psychologists and therapists in private practice. It keeps your patient records, clinical notes, and referral relationships in one place — offline, on your machine, under your control.</p>
         <p>No subscription. No cloud sync you didn't configure. No vendor with access to your patients' data.</p>
       </div>
       <img src="/assets/images/sparrow-alt.png" alt="" class="sb-sparrow sb-sparrow--lg" aria-hidden="true">
@@ -277,6 +310,45 @@ hero_image: /assets/images/hero-sky.jpg
 
     <div class="sb-signup-confirm" id="sbConfirm" role="status" aria-live="polite">
       <span>&#10003;&nbsp; You're on the list. We'll be in touch when Switchboard is ready.</span>
+    </div>
+  </div>
+</section>
+
+<section class="sb-faq">
+  <div class="sb-container">
+    <h2 class="sb-faq-heading">Common questions</h2>
+    <div class="sb-faq-list">
+
+      <div class="sb-faq-item">
+        <p class="sb-faq-q">What is Switchboard?</p>
+        <p class="sb-faq-a">Switchboard is a macOS practice management app built by a psychologist for psychologists and therapists in private practice. It keeps patient records, clinical notes, referral relationships, and case checklists in one place — stored locally on your Mac, under your control. It does not require a subscription to a cloud platform and does not share patient data with any vendor.</p>
+      </div>
+
+      <div class="sb-faq-item">
+        <p class="sb-faq-q">Is Switchboard designed for solo or small private practices?</p>
+        <p class="sb-faq-a">Yes. Switchboard is designed specifically for independent practitioners — psychologists, therapists, and other regulated health professionals running their own practice. It handles the clinical records side of practice management: patient files, progress notes, case checklists, referrer tracking, and document management.</p>
+      </div>
+
+      <div class="sb-faq-item">
+        <p class="sb-faq-q">Where is patient data stored?</p>
+        <p class="sb-faq-a">All patient data is stored in a local database on your Mac. Switchboard does not send data to any cloud service unless you explicitly configure optional encrypted backup. No vendor — including Sparrow — has access to your patient records. You retain full ownership and control of your data.</p>
+      </div>
+
+      <div class="sb-faq-item">
+        <p class="sb-faq-q">How does Switchboard handle clinical notes and audit trails?</p>
+        <p class="sb-faq-a">Progress notes are timestamped and signable, with a full amendment and void history. RFC 3161 cryptographic timestamps tie each note to a verifiable point in time. Every note action — sign, unsign, amend, void — is logged with who did it and when. Nothing is silently overwritten.</p>
+      </div>
+
+      <div class="sb-faq-item">
+        <p class="sb-faq-q">How is Switchboard different from web-based practice management software?</p>
+        <p class="sb-faq-a">Most practice management software runs in a browser and stores data on vendor-controlled servers. Switchboard runs as a native macOS app and stores all data locally — no browser, no cloud dependency, no internet connection required to access your records. You are not paying a recurring subscription fee for access to your own patient data.</p>
+      </div>
+
+      <div class="sb-faq-item">
+        <p class="sb-faq-q">When will Switchboard be available?</p>
+        <p class="sb-faq-a">Switchboard is currently in pre-release testing. Leave your email in the form above and we'll notify you when it's ready.</p>
+      </div>
+
     </div>
   </div>
 </section>

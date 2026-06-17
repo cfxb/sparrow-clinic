@@ -1,0 +1,86 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Switchboard",
+  "url": "{{ site.url }}/switchboard/",
+  "applicationCategory": "MedicalApplication",
+  "applicationSubCategory": "Practice Management Software",
+  "operatingSystem": "macOS",
+  "description": "Switchboard is a macOS practice management app for psychologists and therapists in private practice. Patient records, clinical notes, referral relationships, and case checklists stored locally on your Mac — no cloud dependency, no vendor access to your data.",
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Psychologists and therapists in private practice"
+  },
+  "featureList": [
+    "Offline patient records and clinical notes",
+    "Cryptographically timestamped and signable progress notes",
+    "Full audit trail for note amendments and voids",
+    "Customisable case checklists for intake, assessment, and post-assessment stages",
+    "Referrer database with contact details and referral counts",
+    "Drag-and-drop document management with optional encrypted cloud backup",
+    "Local database — no cloud dependency"
+  ],
+  "softwareRequirements": "macOS",
+  "provider": {
+    "@id": "{{ site.url }}/#clinic"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Switchboard?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Switchboard is a macOS practice management app built by a psychologist for psychologists and therapists in private practice. It keeps patient records, clinical notes, referral relationships, and case checklists in one place — stored locally on your Mac, under your control. It does not require a subscription to a cloud platform and does not share patient data with any vendor."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Switchboard designed for solo or small private practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Switchboard is designed specifically for independent practitioners — psychologists, therapists, and other regulated health professionals running their own practice. It handles the clinical records side of practice management: patient files, progress notes, case checklists, referrer tracking, and document management."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is patient data stored in Switchboard?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All patient data is stored in a local database on your Mac. Switchboard does not send data to any cloud service unless you explicitly configure optional encrypted backup. No vendor — including Sparrow — has access to your patient records. You retain full ownership and control of your data."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Switchboard handle clinical notes and audit trails?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Progress notes in Switchboard are timestamped and signable, with a full amendment and void history. RFC 3161 cryptographic timestamps tie each note to a verifiable point in time. Every note action — sign, unsign, amend, void — is logged with who did it and when. Nothing is silently overwritten."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is Switchboard different from web-based practice management software?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most practice management software runs in a browser and stores data on vendor-controlled servers. Switchboard runs as a native macOS app and stores all data locally — no browser, no cloud dependency, no internet connection required to access your records. You are not paying a recurring subscription fee for access to your own patient data."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When will Switchboard be available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Switchboard is currently in pre-release testing. You can register your email on the Switchboard page at sparrow.clinic/switchboard/ to be notified when it becomes available."
+      }
+    }
+  ]
+}
+</script>

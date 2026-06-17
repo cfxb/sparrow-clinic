@@ -259,7 +259,7 @@ switchboard_schema: true
 
       <div class="sb-feature">
         <span class="sb-feature-label">Case tracking</span>
-        <p class="sb-feature-text">Never overlook an email, consent form, or invoice again. Customisable per-case task lists defined once by you to fit your workflow, then applied per patient.</p>
+        <p class="sb-feature-text">Never overlook an appointment email, consent form, or invoice again. Customisable per-case task lists defined once by you to fit your workflow, then applied per patient.</p>
       </div>
 
       <div class="sb-feature">

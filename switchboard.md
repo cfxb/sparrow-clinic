@@ -207,7 +207,7 @@ hero_image: /assets/images/hero-sky.jpg
 
       <div class="sb-feature">
         <span class="sb-feature-label">Privacy by design</span>
-        <p class="sb-feature-text">All data lives in a local database on your Mac. Continuous automatic encrypted cloud backup to your preferred service — you decide where your data goes.</p>
+        <p class="sb-feature-text">All data lives in a local database on your Mac. Optional continuous automatic encrypted cloud backup to your chosen secure service — you decide where your data goes.</p>
       </div>
 
       <div class="sb-feature">

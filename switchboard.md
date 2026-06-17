@@ -320,6 +320,16 @@ switchboard_schema: true
     <div class="sb-faq-list">
 
       <div class="sb-faq-item">
+        <p class="sb-faq-q">Why choose Switchboard?</p>
+        <p class="sb-faq-a">Switchboard is designed to be inexpensive and to keep your patient data exactly where it belongs — on your own machine. Unlike cloud-based practice management platforms, there is no third-party server holding your records and no vendor with access to your patients' data. No cloud platform is required to do your work. If you want backup, you choose the service and you control where your data goes. Switchboard gives you the records management tools you need without the privacy trade-offs that come with cloud-based alternatives.</p>
+      </div>
+
+      <div class="sb-faq-item">
+        <p class="sb-faq-q">Can I try Switchboard now?</p>
+        <p class="sb-faq-a">Yes. If you would like to be part of our beta testing program, leave your email in the form above and let us know you're interested in early access.</p>
+      </div>
+
+      <div class="sb-faq-item">
         <p class="sb-faq-q">What is Switchboard?</p>
         <p class="sb-faq-a">Switchboard is a macOS practice management app built by a psychologist for psychologists and therapists in private practice. It keeps patient records, clinical notes, referral relationships, and case checklists in one place — stored locally on your Mac, under your control. It does not share patient data with any vendor.</p>
       </div>
@@ -346,7 +356,7 @@ switchboard_schema: true
 
       <div class="sb-faq-item">
         <p class="sb-faq-q">Is Switchboard suitable for US practitioners concerned about HIPAA?</p>
-        <p class="sb-faq-a">Most cloud practice management and EHR platforms require you to sign a Business Associate Agreement (BAA) with the vendor because they handle your patients' Protected Health Information (PHI) on their servers. Because Switchboard stores all data locally on your Mac, there is no third-party vendor handling your PHI — the data access concern that drives the BAA requirement doesn't arise. You remain responsible for your own device security and backup practices, which is consistent with HIPAA's requirements for covered entities.</p>
+        <p class="sb-faq-a">Yes. Most cloud practice management and EHR platforms require you to sign a Business Associate Agreement (BAA) with the vendor because they handle your patients' Protected Health Information (PHI) on their servers. Because Switchboard stores all data locally on your Mac, there is no third-party vendor handling your PHI — the data access concern that drives the BAA requirement doesn't arise. You remain responsible for your own device security and backup practices, which is consistent with HIPAA's requirements for covered entities.</p>
       </div>
 
       <div class="sb-faq-item">
@@ -356,7 +366,7 @@ switchboard_schema: true
 
       <div class="sb-faq-item">
         <p class="sb-faq-q">When will Switchboard be available?</p>
-        <p class="sb-faq-a">Switchboard is currently in pre-release testing. Leave your email in the form above and we'll notify you when it's ready.</p>
+        <p class="sb-faq-a">Late 2026. Switchboard is currently in pre-release testing. Leave your email in the form above and we'll notify you when it's ready.</p>
       </div>
 
     </div>

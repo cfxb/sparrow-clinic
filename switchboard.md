@@ -258,8 +258,8 @@ switchboard_schema: true
       </div>
 
       <div class="sb-feature">
-        <span class="sb-feature-label">Case checklists</span>
-        <p class="sb-feature-text">Customisable per-case task lists across intake, assessment, and post-assessment stages. Defined once by you to fit your workflow, applied per patient.</p>
+        <span class="sb-feature-label">Case tracking</span>
+        <p class="sb-feature-text">Never overlook an email, consent form, or invoice again. Customisable per-case task lists defined once by you to fit your workflow, then applied per patient.</p>
       </div>
 
       <div class="sb-feature">

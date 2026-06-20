@@ -6,7 +6,6 @@ author: "Dr. Christopher Benjamin, Clinical Neuropsychologist"
 hero_title: Parkinson's Disease Resources
 hero_subtitle: Organisations, information, and support for people living with Parkinson's in BC, Canada
 narrow: true
-under_review: true
 ---
 
 These resources are oriented towards people living with Parkinson's disease in **British Columbia, Canada**. This page brings together high-quality information, services, and support for people with Parkinson's and for the families and carers who support them. It is intended as a starting point — not a substitute for advice from your own medical team.

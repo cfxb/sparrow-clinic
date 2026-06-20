@@ -5,7 +5,6 @@ description: "Patient resource pages on neuropsychological conditions assessed a
 hero_title: Resources
 hero_subtitle: Information about neuropsychological conditions
 narrow: true
-under_review: true
 ---
 
 These pages provide an overview of common conditions assessed by neuropsychologists. Each page explains what the condition is, how neuropsychological assessment can help, and what to expect from the process.

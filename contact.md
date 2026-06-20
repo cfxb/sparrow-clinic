@@ -16,6 +16,7 @@ We welcome inquiries about neuropsychological assessment. If you are wondering w
 ## Contact details
 
 - **Phone:** [{{ site.data.contact.phone }}](tel:{{ site.data.contact.phone_link }})
+- **Fax:** {{ site.data.contact.fax }} _(shared line — the same number accepts fax via a digital fax service)_
 - **Email:** [{{ site.data.contact.email }}](mailto:{{ site.data.contact.email }}?subject=Assessment%20enquiry)
 
 ## Address

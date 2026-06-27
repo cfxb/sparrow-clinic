@@ -19,7 +19,7 @@ This page answers common questions about clinical neuropsychology and neuropsych
   working, check `git config core.hooksPath` is set to `.githooks`.
   See CLAUDE.md.
 -->
-_Last updated: 2026-06-26_
+_Last updated: 2026-06-27_
 
 ## What actually happens during a neuropsychological assessment?
 
@@ -73,7 +73,7 @@ Some extended health plans in BC require a physician referral for reimbursement 
 
 In British Columbia there are two practical starting points for finding a clinical neuropsychologist: the public register of registered psychologists, and the BC Psychological Association's member directory.
 
-The [College of Health and Care Professionals of BC (CHCPBC)](https://chcpbcp.alinityapp.com/) maintains the public register of every registered psychologist in the province. The register lists each clinician's registration number, training, and (where provided) areas of practice; filtering for neuropsychology is the most reliable way to confirm credentials. The [BC Psychological Association (BCPA) directory](https://www.psychologists.bc.ca/find-a-psychologist) is more searchable by city, language, and specialty but is opt-in and does not list every registered psychologist.
+The [College of Health and Care Professionals of BC (CHCPBC)](https://chcpbc.alinityapp.com/) maintains the public register of every registered psychologist in the province. The register lists each clinician's registration number, training, and (where provided) areas of practice; filtering for neuropsychology is the most reliable way to confirm credentials. The [BC Psychological Association (BCPA) directory](https://www.psychologists.bc.ca/find-a-psychologist) is more searchable by city, language, and specialty but is opt-in and does not list every registered psychologist.
 
 A referral is not legally required to see a private psychologist in BC, but many extended health plans require one for reimbursement. In Vancouver, most adult neuropsychology referrals come from neurology, family medicine, psychiatry, and rehabilitation medicine. Sparrow Neuropsychology accepts both physician referrals and direct enquiries from patients; see the [contact page](/contact/) or [book a free introductory consultation](/book/).
 

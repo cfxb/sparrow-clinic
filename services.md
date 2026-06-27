@@ -64,6 +64,10 @@ If you (or someone close to you) has a condition that might be affecting how wel
 - [Multiple sclerosis](/resources/multiple-sclerosis/)
 - [Stroke](/resources/stroke/)
 - [Brain tumours](/resources/brain-tumours/)
+- [Parkinson's disease](/resources/parkinsons-disease/)
+- [Huntington's disease](/resources/huntingtons-disease/)
+- [Encephalitis and meningitis](/resources/encephalitis-and-meningitis/)
+- [Depression and anxiety](/resources/depression-and-anxiety/)
 
 ## Assessment timeline
 

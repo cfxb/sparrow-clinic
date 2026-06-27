@@ -19,7 +19,7 @@ Patients are referred by healthcare providers such as neurologists, family physi
 Common referral questions include:
 
 - Attention problems and ADHD
-- Epilepsy: impact of medications; baseline testing; pre- and post-surgical testing
+- Epilepsy and seizure disorders: cognitive assessment across all presentations, including medication effects, baseline and follow-up testing, and pre- and post-surgical evaluation
 - Memory concerns and suspected dementia
 - Cognitive impacts from neurological conditions (e.g., stroke, brain tumours, MS, brain injury)
 - Baseline evaluations of thinking

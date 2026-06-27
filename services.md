@@ -58,7 +58,7 @@ Some assessments require additional time or services depending on complexity, ex
 If you (or someone close to you) has a condition that might be affecting how well you think, this kind of assessment can help understand what's going on and what will help. Common reasons for referral include:
 
 - [Attention problems and ADHD](/resources/adhd/)
-- [Epilepsy-related thinking concerns](/resources/epilepsy/)
+- [Epilepsy and seizure disorders](/resources/epilepsy/)
 - [Head injury and concussion](/resources/traumatic-brain-injury/)
 - [Aging or dementia concerns](/resources/dementia/)
 - [Multiple sclerosis](/resources/multiple-sclerosis/)

@@ -8,9 +8,56 @@ hero_image: /assets/images/hero-sky.jpg
 narrow: true
 ---
 
-Referrals from physicians and other healthcare professionals are strongly preferred, but are not required.
+Referrals from physicians and other healthcare professionals are strongly preferred, but are not required — if you are self-referring, [an initial consultation](/book/) can help determine whether neuropsychological assessment is likely to be useful in your situation.
 
-If you are self-referring, an initial consultation can help determine whether neuropsychological assessment is likely to be useful in your situation.
+Our clinic serves English-speaking adults aged 16 and older.
+
+<div class="table-wrap">
+  <table class="table table--bordered">
+    <thead>
+      <tr>
+        <th>Method</th>
+        <th>Contact</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Web</strong></td>
+        <td><a href="#referral-form">Complete the secure form below</a></td>
+      </tr>
+      <tr>
+        <td><strong>Fax</strong></td>
+        <td>{{ site.data.contact.fax }}</td>
+      </tr>
+      <tr>
+        <td><strong>Email</strong></td>
+        <td>Email <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a> to request a secure link.</td>
+      </tr>
+      <tr>
+        <td><strong>Phone</strong></td>
+        <td><a href="tel:{{ site.data.contact.phone_link }}">{{ site.data.contact.phone }}</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+### Secure form
+
+<div id="referral-form" data-secure-form="sparrow-secure-contact-form"></div>
+<script src="https://hushforms.com/f/public/javascript/embed-hush-form.js"></script>
+
+### Fax
+
+Download and complete a referral form, then fax to {{ site.data.contact.fax }}:
+
+<div class="download-links">
+  <a href="{{ '/assets/files/referral-form.docx' | relative_url }}" class="btn btn--outline btn--sm">Download referral form (Word)</a>
+  <a href="{{ '/assets/files/referral-form.pdf' | relative_url }}" class="btn btn--outline btn--sm">Download referral form (PDF)</a>
+</div>
+
+## Wait times
+
+Assessments are typically scheduled within 4-8 weeks. Scheduling depends on urgency and complexity.
 
 ## Who refers patients?
 
@@ -24,43 +71,3 @@ Common referral questions include:
 - Cognitive impacts from neurological conditions (e.g., stroke, brain tumours, MS, brain injury)
 - Baseline evaluations of thinking
 - Return-to-work assessments
-
-## How to refer
-
-Our clinic serves English-speaking adults aged 16 and older. To refer a patient, please download and complete a referral form:
-
-<div class="download-links">
-  <a href="{{ '/assets/files/referral-form.docx' | relative_url }}" class="btn btn--outline btn--sm">Download referral form (Word)</a>
-  <a href="{{ '/assets/files/referral-form.pdf' | relative_url }}" class="btn btn--outline btn--sm">Download referral form (PDF)</a>
-</div>
-
-Please submit completed referrals in whatever way works for your clinic. Options include –
-
-<div class="table-wrap">
-  <table class="table table--bordered">
-    <thead>
-      <tr>
-        <th>Method</th>
-        <th>Contact</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Fax</strong></td>
-        <td>{{ site.data.contact.fax }}</td>
-      </tr>
-      <tr>
-        <td><strong>Email</strong></td>
-        <td>Encrypted email to <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a>. Either (i) email and request a secure upload link; or (ii) email from a free <a href="https://www.proton.me">proton.me</a> account. Sparrow is hosted by Proton, so emails from other proton email addresses are automatically end-to-end encrypted consistent with BC privacy law.</td>
-      </tr>
-      <tr>
-        <td><strong>Phone</strong></td>
-        <td><a href="tel:{{ site.data.contact.phone_link }}">{{ site.data.contact.phone }}</a></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-## Wait times
-
-Assessments are typically scheduled within 4-8 weeks. Scheduling depends on urgency and complexity.

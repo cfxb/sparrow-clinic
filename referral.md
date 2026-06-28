@@ -23,7 +23,7 @@ Our clinic serves English-speaking adults aged 16 and older.
     <tbody>
       <tr>
         <td><strong>Web</strong></td>
-        <td><a href="#referral-form">Complete the secure form below</a></td>
+        <td><a href="/services/referral-form/">Complete the secure form online</a></td>
       </tr>
       <tr>
         <td><strong>Fax</strong></td>
@@ -40,11 +40,6 @@ Our clinic serves English-speaking adults aged 16 and older.
     </tbody>
   </table>
 </div>
-
-### Secure form
-
-<div id="referral-form" data-secure-form="sparrow-secure-contact-form"></div>
-<script src="https://hushforms.com/f/public/javascript/embed-hush-form.js"></script>
 
 ### Fax
 
@@ -63,7 +58,7 @@ Assessments are typically scheduled within 4-8 weeks. Scheduling depends on urge
 
 Patients are referred by healthcare providers such as neurologists, family physicians, and other specialists. For example, you may have reported concerns about your memory or paying attention after a head injury.
 
-Common referral questions include:
+## Common referral questions
 
 - Attention problems and ADHD
 - Epilepsy and seizure disorders: cognitive assessment across all presentations, including medication effects, baseline and follow-up testing, and pre- and post-surgical evaluation

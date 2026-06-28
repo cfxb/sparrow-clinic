@@ -10,8 +10,10 @@ hero_image: /assets/images/hero-sky.jpg
 
 <h2 class="book-heading">Introductory consultation</h2>
 
-Not sure whether assessment is right for you? Book a free 15-minute call with Dr. Benjamin to talk through your situation and any questions you have. There is no obligation to proceed. Prefer to call directly? Reach us at [(236) 501-5099](tel:2365015099).
+Not sure whether assessment is right for you? Book a free 15-minute call with Dr. Benjamin to talk through your situation and any questions you have. There is no obligation to proceed.
 
 <div class="book-scheduler">
   <iframe src="https://scheduler.zoom.us/sparrow-clinic/15-min-sparrow-intake?embed=true" frameborder="0" loading="lazy" title="Book an introductory consultation"></iframe>
 </div>
+
+<p class="book-fallback">Scheduler not loading, or prefer to call? <a href="tel:+12365015099">(236) 501-5099</a> &nbsp;·&nbsp; <a href="mailto:clinic@sparrow.clinic">clinic@sparrow.clinic</a></p>

@@ -33,6 +33,17 @@
     li {
       margin-bottom: 0.3rem;
       break-inside: avoid;
+      padding-left: 1rem;
+      position: relative;
+
+      &::before {
+        content: "·";
+        position: absolute;
+        left: 0;
+        color: $accent;
+        font-weight: 700;
+        line-height: 1.4;
+      }
     }
 
     a {

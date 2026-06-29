@@ -6,6 +6,7 @@ author: "Dr. Christopher Benjamin, Clinical Neuropsychologist"
 hero_title: Depression and Anxiety Resources
 hero_subtitle: Organisations, information, and support for people living with depression and anxiety in BC, Canada
 narrow: true
+toc: true
 ---
 
 These resources are oriented towards people living with depression or anxiety in **British Columbia, Canada**. This page brings together high-quality information, treatment resources, and peer support for individuals and their families. It is intended as a starting point — not a substitute for advice from your own mental health or medical team.

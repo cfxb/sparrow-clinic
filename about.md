@@ -5,6 +5,7 @@ description: "Dr. Christopher Benjamin, registered clinical neuropsychologist in
 hero_title: Who we are
 hero_image: /assets/images/hero-sky.jpg
 narrow: true
+toc: true
 ---
 
 ![Dr. Christopher Benjamin](/assets/images/headshot.jpg){: .about-headshot }

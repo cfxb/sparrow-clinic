@@ -8,6 +8,7 @@ hero_image: /assets/images/hero-sky.jpg
 narrow: true
 author: "Dr. Christopher Benjamin, Clinical Neuropsychologist"
 faq_schema: true
+toc: true
 ---
 
 This page answers common questions about clinical neuropsychology and neuropsychological assessment in Vancouver, British Columbia. Neuropsychology is the study and clinical assessment of how brain function affects thinking, behaviour, and everyday functioning. The information here is educational and is not a substitute for individual medical or psychological advice. If you are looking for an assessment or want to discuss whether one is appropriate, see the [contact page](/contact/). For an overview of services offered, see the [services page](/services/).
@@ -19,7 +20,7 @@ This page answers common questions about clinical neuropsychology and neuropsych
   working, check `git config core.hooksPath` is set to `.githooks`.
   See CLAUDE.md.
 -->
-_Last updated: 2026-06-27_
+_Last updated: 2026-06-29_
 
 ## What actually happens during a neuropsychological assessment?
 
@@ -131,7 +132,7 @@ Up-to-date scheduling information is on the [contact page](/contact/). A free 15
 
 Neuropsychological assessment in private practice in British Columbia is typically priced as a package that reflects interview, record review, testing, scoring, interpretation, report writing, and a feedback session. Fees vary by complexity and by clinician.
 
-A standard clinical neuropsychological assessment at Sparrow Neuropsychology is **$4,000**. This is an all-inclusive package covering the clinical interview, testing, scoring, interpretation, the written report, and a feedback session. Many extended health plans reimburse part or all of this cost — see [Does extended health insurance cover neuropsychology in BC?](#does-extended-health-insurance-cover-neuropsychology-in-bc) above. Patients are encouraged to confirm their coverage with their insurer in advance and can request a written fee estimate before booking. If cost is a barrier to a needed assessment, please get in touch to discuss options.
+A standard clinical neuropsychological assessment at Sparrow Neuropsychology is **$4,000** (16 hours at $250/hr). This is an all-inclusive package covering the clinical interview, testing, scoring, interpretation, the written report, and a feedback session. Many extended health plans reimburse part or all of this cost — see [Does extended health insurance cover neuropsychology in BC?](#does-extended-health-insurance-cover-neuropsychology-in-bc) above. Patients are encouraged to confirm their coverage with their insurer in advance and can request a written fee estimate before booking. Payment is by e-Interac transfer; credit card payment is accepted with a 2% processing fee. If cost is a barrier to a needed assessment, please get in touch to discuss options.
 
 ## Is neuropsychology covered by MSP in British Columbia?
 

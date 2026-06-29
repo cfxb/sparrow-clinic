@@ -6,6 +6,7 @@ author: "Dr. Christopher Benjamin, Clinical Neuropsychologist"
 hero_title: Dementia Resources
 hero_subtitle: Organisations, information, and support for people living with dementia in BC
 narrow: true
+toc: true
 ---
 
 These resources are oriented towards people living with dementia in **British Columbia, Canada**. This page brings together high-quality resources for people living with dementia, and their families and carers. It is intended as a starting point — not a substitute for advice from your own medical team.

@@ -1,0 +1,24 @@
+<nav class="toc-box" id="page-toc" style="display:none" aria-label="On this page">
+  <p class="toc-box__label">On this page</p>
+  <ul class="toc-box__list"></ul>
+</nav>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var toc = document.getElementById('page-toc');
+  var list = toc.querySelector('.toc-box__list');
+  var headings = document.querySelectorAll('.page-content h2');
+  if (headings.length < 3) return;
+  headings.forEach(function (h) {
+    if (!h.id) return;
+    var li = document.createElement('li');
+    var a = document.createElement('a');
+    a.href = '#' + h.id;
+    a.textContent = h.textContent;
+    li.appendChild(a);
+    list.appendChild(li);
+  });
+  if (list.children.length < 3) return;
+  if (list.children.length >= 8) list.classList.add('toc-box__list--cols');
+  toc.style.display = '';
+});
+</script>

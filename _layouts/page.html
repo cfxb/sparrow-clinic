@@ -13,6 +13,7 @@ layout: default
 <div class="section">
   <div class="container{% if page.narrow %} container--narrow{% endif %} page-content">
     {% if page.under_review %}{% include under-review-notice.html %}{% endif %}
+    {% if page.toc %}{% include page-toc.html %}{% endif %}
     {{ content }}
   </div>
 </div>

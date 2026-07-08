@@ -34,7 +34,7 @@ If you would like records sent to Sparrow, the contact details are:
 
 > Christopher Benjamin\\
 > {{ site.data.contact.name }}\\
-> Fax: {{ site.data.contact.fax }}\\
+> Fax: {{ site.data.contact.fax }} ({{ site.data.contact.fax_note }})\\
 > Email: [{{ site.data.contact.email }}](mailto:{{ site.data.contact.email }}?subject=Medical%20records)
 
 If you prefer to send records by email and want the email to be encrypted end-to-end, either [email](mailto:{{ site.data.contact.email }}?subject=Secure%20upload%20link) and request a secure link or create and email from a free [Proton address](https://proton.me/mail){:target="_blank" rel="noopener"} (automatically secure).

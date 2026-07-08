@@ -7,6 +7,8 @@ country: Canada
 phone: (236) 501-5099
 phone_link: "+12365015099"
 fax: (236) 501-5099
+fax_note: "same number as phone — accepts fax via a digital fax service"
+fax_note_short: "same as phone"
 email: clinic@sparrow.clinic
 booking_url: https://scheduler.zoom.us/sparrow-clinic/15-min-sparrow-intake
 referral_email: referrals@sparrow.clinic

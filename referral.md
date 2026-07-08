@@ -27,7 +27,7 @@ Our clinic serves English-speaking adults aged 16 and older.
       </tr>
       <tr>
         <td><strong>Fax</strong></td>
-        <td>{{ site.data.contact.fax }}</td>
+        <td>{{ site.data.contact.fax }} <em>({{ site.data.contact.fax_note_short }})</em></td>
       </tr>
       <tr>
         <td><strong>Email</strong></td>
@@ -43,7 +43,7 @@ Our clinic serves English-speaking adults aged 16 and older.
 
 ### Fax
 
-Download and complete a referral form, then fax to {{ site.data.contact.fax }}:
+Download and complete a referral form, then fax to {{ site.data.contact.fax }} _({{ site.data.contact.fax_note }})_:
 
 <div class="download-links">
   <a href="{{ '/assets/files/referral-form.docx' | relative_url }}" class="btn btn--outline btn--sm">Download referral form (Word)</a>

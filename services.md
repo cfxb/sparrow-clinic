@@ -83,14 +83,14 @@ If you (or someone close to you) has a condition that might be affecting how wel
 
 **Before your appointment**:
 
-- Confirmation details will be sent to you via secure email (domain: sparrow.ink).
-- You will receive the assessment [consent form](/assets/files/consent-sparrow_20260131.pdf) to review.
+- Confirmation details will be sent to you via secure email.
+- You will receive the assessment consent form to review.
 - You will be asked to gather and forward relevant medical records. Providing records — such as a referring clinician's reports, neurologist or specialist notes, MRI / CT / EEG results, prior cognitive testing, and hospital discharge summaries — allows for a more accurate assessment. See [how to request your medical records in British Columbia](/services/medical-records/) for help gathering them.
 
 **On the days of assessment** we will work together to get a good picture of your thinking skills. You do not need to prepare in any significant way. That said, please do —
 
 * Avoid alcohol and marijuana for 24 hours prior to the assessment.
-* Check that you reviewed and completed the [consent form](/assets/files/consent-sparrow_20260131.pdf).
+* Check that you reviewed and completed the consent form.
 * Bring snacks and something to drink. We will take breaks throughout as needed.
 
 In an assessment you really do simply need to show up and be yourself. Some of the tasks we do will be so simple they'll seem trivial; conversely, some will be too difficult. This is the normal experience of an assessment, as our tasks have to be useful with people of every ability level. All you need to do is apply your best effort and do what you can.

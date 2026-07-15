@@ -20,7 +20,7 @@ This page answers common questions about clinical neuropsychology and neuropsych
   working, check `git config core.hooksPath` is set to `.githooks`.
   See CLAUDE.md.
 -->
-_Last updated: 2026-07-08_
+_Last updated: 2026-07-15_
 
 ## What actually happens during a neuropsychological assessment?
 

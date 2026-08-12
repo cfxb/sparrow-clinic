@@ -11,7 +11,7 @@ We welcome inquiries about neuropsychological assessment. If you are wondering w
 
 <a href="/book" class="btn btn--primary">Book an introductory consultation</a>
 
-**Please note:** Assessments are currently completed primarily on Fridays.
+**Please note:** Assessments are currently completed primarily on Fridays. Email enquiries are typically answered within **three business days**; messages sent on a weekend or statutory holiday are addressed on the next business day.
 
 ## Contact details
 

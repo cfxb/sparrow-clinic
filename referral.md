@@ -22,10 +22,6 @@ Our clinic serves English-speaking adults aged 16 and older.
     </thead>
     <tbody>
       <tr>
-        <td><strong>Web</strong></td>
-        <td><a href="/services/referral-form/">Complete the secure form online</a></td>
-      </tr>
-      <tr>
         <td><strong>Fax</strong></td>
         <td>{{ site.data.contact.fax }} <em>({{ site.data.contact.fax_note_short }})</em></td>
       </tr>

@@ -20,7 +20,7 @@ This page answers common questions about clinical neuropsychology and neuropsych
   working, check `git config core.hooksPath` is set to `.githooks`.
   See CLAUDE.md.
 -->
-_Last updated: 2026-07-15_
+_Last updated: 2026-08-12_
 
 ## What actually happens during a neuropsychological assessment?
 
@@ -127,6 +127,10 @@ Length depends on the referral question, the patient's age, fatigue tolerance, a
 Current wait time for a neuropsychological assessment at Sparrow Neuropsychology is **four to eight weeks**, depending on urgency and complexity. Wait times reflect both clinical demand and the practice's session structure (one or more in-person testing appointments plus a feedback meeting after the report).
 
 Up-to-date scheduling information is on the [contact page](/contact/). A free 15-minute introductory consultation can be booked separately and is usually available within a shorter window than a full assessment.
+
+## What is the expected response time for email enquiries?
+
+Email enquiries are typically answered within **three business days**. Messages sent on a weekend or statutory holiday are addressed on the next business day, so a message sent on a Saturday or Sunday may not receive a reply until partway through the following week.
 
 ## How much does a neuropsychological assessment cost in BC?
 

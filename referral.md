@@ -52,7 +52,7 @@ Assessments are typically scheduled within 4-8 weeks. Scheduling depends on urge
 
 ## Who refers patients?
 
-Patients are referred by healthcare providers such as neurologists, family physicians, and other specialists. For example, you may have reported concerns about your memory or paying attention after a head injury.
+Patients are referred by healthcare providers such as neurologists, psychiatrists, psychologists, or family doctors. For example, you may have reported concerns about your memory or paying attention after a head injury.
 
 ## Common referral questions
 

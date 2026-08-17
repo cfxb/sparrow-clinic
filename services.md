@@ -54,40 +54,105 @@ My professional fee is **$250 per hour**. Most evaluations have a typical time r
 
 There is no difference in the quality of care provided. Reduced fees, when available, are discussed individually and do not affect the thoroughness or quality of the evaluation.
 
-### Comprehensive Neuropsychological Evaluation
+<div class="fee-grid">
 
-A comprehensive evaluation examines multiple areas of cognitive functioning, emotional wellbeing, and everyday functioning. This is the standard assessment for most referrals. Typical time is **16–18 hours** (most commonly 16 hours), for a typical fee of **$4,000–$4,500**.
+<div class="fee-card fee-card--featured">
+<span class="fee-card__badge">Most common</span>
+<h3 class="fee-card__title">Comprehensive Neuropsychological Evaluation</h3>
+<p class="fee-card__desc">Examines multiple areas of cognitive functioning, emotional wellbeing, and everyday functioning. This is the standard assessment for most referrals.</p>
+<div class="fee-card__stats">
+<div class="fee-card__stat">
+<span class="fee-card__stat-label">Typical time</span>
+<span class="fee-card__stat-value">16–18 hrs</span>
+</div>
+<div class="fee-card__stat">
+<span class="fee-card__stat-label">Typical fee</span>
+<span class="fee-card__stat-value fee-card__stat-value--price">$4,000–$4,500</span>
+</div>
+</div>
+</div>
 
-### Psychoeducational Evaluation
+<div class="fee-card">
+<h3 class="fee-card__title">Psychoeducational Evaluation</h3>
+<p class="fee-card__desc">A comprehensive assessment of cognitive abilities and academic achievement to identify learning disorders, intellectual disabilities, giftedness, and other factors affecting educational performance. Recommendations support learning in post-secondary study or in the workplace.</p>
+<div class="fee-card__stats">
+<div class="fee-card__stat">
+<span class="fee-card__stat-label">Typical time</span>
+<span class="fee-card__stat-value">~16 hrs</span>
+</div>
+<div class="fee-card__stat">
+<span class="fee-card__stat-label">Typical fee</span>
+<span class="fee-card__stat-value fee-card__stat-value--price">~$4,000</span>
+</div>
+</div>
+</div>
 
-A comprehensive assessment of cognitive abilities and academic achievement to identify learning disorders, intellectual disabilities, giftedness, and other factors affecting educational performance. Recommendations are provided to support learning in post-secondary study or in the workplace. Typical time is **approximately 16 hours**, for a typical fee of **around $4,000**.
+<div class="fee-card">
+<h3 class="fee-card__title">Neurological Evaluation</h3>
+<p class="fee-card__desc">Focused evaluations for individuals with known neurological conditions, such as epilepsy, stroke, multiple sclerosis, or brain tumour. Commonly requested by neurologists and other medical specialists.</p>
+<div class="fee-card__stats">
+<div class="fee-card__stat">
+<span class="fee-card__stat-label">Typical time</span>
+<span class="fee-card__stat-value">~14 hrs</span>
+</div>
+<div class="fee-card__stat">
+<span class="fee-card__stat-label">Typical fee</span>
+<span class="fee-card__stat-value fee-card__stat-value--price">~$3,500</span>
+</div>
+</div>
+</div>
 
-### Neurological Evaluation
+<div class="fee-card">
+<h3 class="fee-card__title">Baseline Cognitive Evaluation</h3>
+<p class="fee-card__desc">A focused assessment of key areas of thinking and memory to establish current cognitive functioning. May be appropriate when:
+<ul>
+<li>there are early or mild concerns about cognitive change</li>
+<li>a baseline is desired for future comparison</li>
+</ul>
+</p>
+<div class="fee-card__stats">
+<div class="fee-card__stat">
+<span class="fee-card__stat-label">Typical time</span>
+<span class="fee-card__stat-value">~14 hrs</span>
+</div>
+<div class="fee-card__stat">
+<span class="fee-card__stat-label">Typical fee</span>
+<span class="fee-card__stat-value fee-card__stat-value--price">~$3,500</span>
+</div>
+</div>
+</div>
 
-Focused evaluations for individuals with known neurological conditions, such as epilepsy, stroke, multiple sclerosis, or brain tumour. These assessments are commonly requested by neurologists and other medical specialists. Typical time is **approximately 14 hours**, for a typical fee of **around $3,500**.
+<div class="fee-card">
+<h3 class="fee-card__title">Psychodiagnostic Evaluation</h3>
+<p class="fee-card__desc">A comprehensive psychological assessment focused on diagnosis and treatment planning for mental health conditions, without a detailed evaluation of cognitive functioning.</p>
+<div class="fee-card__stats">
+<div class="fee-card__stat">
+<span class="fee-card__stat-label">Typical time</span>
+<span class="fee-card__stat-value">~14 hrs</span>
+</div>
+<div class="fee-card__stat">
+<span class="fee-card__stat-label">Typical fee</span>
+<span class="fee-card__stat-value fee-card__stat-value--price">~$3,500</span>
+</div>
+</div>
+</div>
 
-### Baseline Cognitive Evaluation
+<div class="fee-card">
+<h3 class="fee-card__title">Consultation</h3>
+<p class="fee-card__desc">An opportunity to discuss concerns, review history, and determine appropriate next steps, in person or via Zoom. Common reasons include understanding changes in thinking, behaviour, or mood; discussing referrals or treatment options; and determining whether a formal assessment is likely to help.</p>
+<div class="fee-card__stats">
+<div class="fee-card__stat">
+<span class="fee-card__stat-label">Length</span>
+<span class="fee-card__stat-value">1–2 hrs</span>
+</div>
+<div class="fee-card__stat">
+<span class="fee-card__stat-label">Professional fee</span>
+<span class="fee-card__stat-value fee-card__stat-value--price">$250/hr</span>
+</div>
+</div>
+</div>
 
-A focused assessment of key areas of thinking and memory to establish current cognitive functioning. This evaluation may be appropriate when:
-
-- there are early or mild concerns about cognitive change
-- a baseline is desired for future comparison
-
-Typical time is **approximately 14 hours**, for a typical fee of **around $3,500**.
-
-### Psychodiagnostic Evaluation
-
-A comprehensive psychological assessment focused on diagnosis and treatment planning for mental health conditions, without a detailed evaluation of cognitive functioning. Typical time is **approximately 14 hours**, for a typical fee of **around $3,500**.
-
-### Consultation
-
-A consultation provides an opportunity to discuss concerns, review history, and determine appropriate next steps. Consultations are available in person or via Zoom. Common reasons include:
-
-- understanding changes in thinking, behaviour, or mood
-- discussing appropriate referrals or treatment options
-- determining whether a formal assessment is likely to be helpful
-
-Length is typically **1–2 hours**, at a professional fee of **$250 per hour**.
+</div>
 
 ### Insurance and payment
 

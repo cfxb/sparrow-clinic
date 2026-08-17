@@ -46,6 +46,119 @@ a.card {
   margin-bottom: 0;
 }
 
+// ── Fee cards ────────────────────────────────────────────────
+// Evaluation-type pricing cards on the services page. Each
+// evaluation reads as a discrete, self-contained product.
+
+.fee-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin: 2.25rem 0 3rem;
+
+  @media (min-width: $bp-sm) {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.fee-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  background: $bg;
+  border: 1px solid $border;
+  border-radius: 8px;
+  padding: 1.85rem 1.6rem 1.6rem;
+  overflow: hidden;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    background: $accent;
+  }
+}
+
+.fee-card--featured {
+  border-color: $accent;
+  box-shadow: 0 0 0 1px $accent;
+}
+
+.fee-card__badge {
+  position: absolute;
+  top: 1.15rem;
+  right: 1.6rem;
+  font-family: $mono;
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $bg;
+  background: $accent;
+  padding: 0.28rem 0.6rem;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.fee-card__title {
+  font-family: $sans;
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: $heading;
+  margin: 0;
+  padding-right: 5.75rem;
+}
+
+.fee-card__desc {
+  font-size: 0.88rem;
+  line-height: 1.65;
+  color: $text-dim;
+  margin: 0;
+  flex-grow: 1;
+
+  ul {
+    margin: 0.5rem 0 0;
+    padding-left: 1.1rem;
+  }
+
+  li { margin-bottom: 0.3rem; }
+}
+
+.fee-card__stats {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 0.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid $surface-2;
+}
+
+.fee-card__stat {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.fee-card__stat-label {
+  font-family: $mono;
+  font-size: 0.64rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $text-muted;
+}
+
+.fee-card__stat-value {
+  font-family: $sans;
+  font-size: 1rem;
+  font-weight: 700;
+  color: $heading;
+
+  &--price { color: $accent-dark; }
+}
+
 // ── Resource page byline ────────────────────────────────────
 // Visible "Reviewed by ... Last reviewed ..." block at the
 // foot of each /resources/<condition>/ page.

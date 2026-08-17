@@ -46,10 +46,52 @@ The larger portion of this work occurs behind the scenes in reviewing records, i
 
 Some assessments require additional time or services depending on complexity, extensive record review, or urgent timelines. If this applies, it will always be discussed in advance.
 
-## Assessment cost and insurance
+## Fees
+
+Every assessment is tailored to the individual's needs. The time required depends on the referral question, the complexity of the history, the amount of collateral information to review, and the preparation of the written report.
+
+My professional fee is **$250 per hour**. Most evaluations have a typical time range, allowing an estimated total fee to be discussed before the assessment begins. Any adjustments to the estimated fee are discussed in advance.
+
+There is no difference in the quality of care provided. Reduced fees, when available, are discussed individually and do not affect the thoroughness or quality of the evaluation.
+
+### Comprehensive Neuropsychological Evaluation
+
+A comprehensive evaluation examines multiple areas of cognitive functioning, emotional wellbeing, and everyday functioning. This is the standard assessment for most referrals. Typical time is **16–18 hours** (most commonly 16 hours), for a typical fee of **$4,000–$4,500**.
+
+### Psychoeducational Evaluation
+
+A comprehensive assessment of cognitive abilities and academic achievement to identify learning disorders, intellectual disabilities, giftedness, and other factors affecting educational performance. Recommendations are provided to support learning in post-secondary study or in the workplace. Typical time is **approximately 16 hours**, for a typical fee of **around $4,000**.
+
+### Neurological Evaluation
+
+Focused evaluations for individuals with known neurological conditions, such as epilepsy, stroke, multiple sclerosis, or brain tumour. These assessments are commonly requested by neurologists and other medical specialists. Typical time is **approximately 14 hours**, for a typical fee of **around $3,500**.
+
+### Baseline Cognitive Evaluation
+
+A focused assessment of key areas of thinking and memory to establish current cognitive functioning. This evaluation may be appropriate when:
+
+- there are early or mild concerns about cognitive change
+- a baseline is desired for future comparison
+
+Typical time is **approximately 14 hours**, for a typical fee of **around $3,500**.
+
+### Psychodiagnostic Evaluation
+
+A comprehensive psychological assessment focused on diagnosis and treatment planning for mental health conditions, without a detailed evaluation of cognitive functioning. Typical time is **approximately 14 hours**, for a typical fee of **around $3,500**.
+
+### Consultation
+
+A consultation provides an opportunity to discuss concerns, review history, and determine appropriate next steps. Consultations are available in person or via Zoom. Common reasons include:
+
+- understanding changes in thinking, behaviour, or mood
+- discussing appropriate referrals or treatment options
+- determining whether a formal assessment is likely to be helpful
+
+Length is typically **1–2 hours**, at a professional fee of **$250 per hour**.
+
+### Insurance and payment
 
 - Neuropsychological assessments are services provided by a psychologist.
-- The **standard cost** for a comprehensive neuropsychological assessment is **$4,000 CAD** (16 hours at $250/hr). Assessment complexity and scope can vary. Any substantial deviations from standard fees are discussed in advance.
 - Payment is by **e-Interac transfer**. Credit card payment is also accepted; a **2% processing fee** applies.
 - Assessment is **generally paid privately**, with support from **extended health benefits** or third-party funding. Extended benefits coverage most often ranges from partial to full reimbursement, depending on the plan.
 - Assessment is **not typically covered by MSP**, as MSP generally does not cover psychological assessment or treatment services.

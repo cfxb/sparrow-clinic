@@ -20,7 +20,7 @@ This page answers common questions about clinical neuropsychology and neuropsych
   working, check `git config core.hooksPath` is set to `.githooks`.
   See CLAUDE.md.
 -->
-_Last updated: 2026-08-12_
+_Last updated: 2026-08-17_
 
 ## What actually happens during a neuropsychological assessment?
 
@@ -136,7 +136,7 @@ Email enquiries are typically answered within **three business days**. Messages 
 
 Neuropsychological assessment in private practice in British Columbia is typically priced as a package that reflects interview, record review, testing, scoring, interpretation, report writing, and a feedback session. Fees vary by complexity and by clinician.
 
-A standard clinical neuropsychological assessment at Sparrow Neuropsychology is **$4,000** (16 hours at $250/hr). This is an all-inclusive package covering the clinical interview, testing, scoring, interpretation, the written report, and a feedback session. Many extended health plans reimburse part or all of this cost — see [Does extended health insurance cover neuropsychology in BC?](#does-extended-health-insurance-cover-neuropsychology-in-bc) above. Patients are encouraged to confirm their coverage with their insurer in advance and can request a written fee estimate before booking. Payment is by e-Interac transfer; credit card payment is accepted with a 2% processing fee. If cost is a barrier to a needed assessment, please get in touch to discuss options.
+At Sparrow Neuropsychology, the professional fee is **$250 per hour**, and most evaluations have a typical time range that allows an estimated total fee to be discussed before the assessment begins. A comprehensive neuropsychological evaluation — the standard assessment for most referrals — typically takes **16–18 hours**, for a typical fee of **$4,000–$4,500**. Other evaluation types (psychoeducational, neurological, baseline cognitive, and psychodiagnostic) typically run **14–16 hours**, for a typical fee of **around $3,500–$4,000**. See the [services page](/services/#fees) for the full fee breakdown by evaluation type. Many extended health plans reimburse part or all of the cost — see [Does extended health insurance cover neuropsychology in BC?](#does-extended-health-insurance-cover-neuropsychology-in-bc) above. Patients are encouraged to confirm their coverage with their insurer in advance and can request a written fee estimate before booking. Payment is by e-Interac transfer; credit card payment is accepted with a 2% processing fee. A limited number of reduced-fee appointments are available in cases of financial need, and do not affect the quality of care provided — if cost is a barrier to a needed assessment, please get in touch to discuss options.
 
 ## Is neuropsychology covered by MSP in British Columbia?
 

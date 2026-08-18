@@ -56,9 +56,16 @@ Patients are referred by healthcare providers such as neurologists, psychiatrist
 
 ## Common referral questions
 
-- Attention problems and ADHD
-- Epilepsy and seizure disorders: cognitive assessment across all presentations, including medication effects, baseline and follow-up testing, and pre- and post-surgical evaluation
-- Memory concerns and suspected dementia
-- Cognitive impacts from neurological conditions (e.g., stroke, brain tumours, MS, brain injury)
+- [Attention problems and ADHD](/resources/adhd/)
+- [Epilepsy and seizure disorders](/resources/epilepsy/): cognitive assessment across all presentations, including medication effects, baseline and follow-up testing, and pre- and post-surgical evaluation
+- [Memory concerns and suspected dementia](/resources/dementia/)
+- [Head injury and concussion](/resources/traumatic-brain-injury/)
+- [Stroke](/resources/stroke/)
+- [Brain tumours](/resources/brain-tumours/)
+- [Multiple sclerosis](/resources/multiple-sclerosis/)
+- [Parkinson's disease](/resources/parkinsons-disease/)
+- [Huntington's disease](/resources/huntingtons-disease/)
+- [Encephalitis and meningitis](/resources/encephalitis-and-meningitis/)
+- [Depression and anxiety](/resources/depression-and-anxiety/)
 - Baseline evaluations of thinking
 - Return-to-work assessments

@@ -26,6 +26,10 @@ defaults:
     values:
       layout: page
       image: /assets/images/og-default.jpg
+  - scope:
+      path: "assets/files"
+    values:
+      sitemap: false
 
 sass:
   sass_dir: _sass

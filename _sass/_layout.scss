@@ -36,7 +36,7 @@ main { flex: 1; }
     font-size: 0.65rem;
     letter-spacing: 0.12em;
     text-transform: uppercase;
-    color: $accent;
+    color: $accent-dark;
     font-weight: 400;
     margin-bottom: 0.4rem;
     content: attr(data-label);

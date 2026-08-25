@@ -14,7 +14,7 @@
   transition: all 0.15s;
   white-space: nowrap;
   background: transparent;
-  color: $accent;
+  color: $accent-dark;
 
   &:hover {
     background: $accent-glow;
@@ -25,20 +25,20 @@
 }
 
 .btn--primary {
-  background: $accent;
+  background: $accent-dark;
   color: $bg;
-  border-color: $accent;
+  border-color: $accent-dark;
 
   &:hover {
-    background: $accent-dark;
+    background: $accent-darker;
     color: #fff;
-    border-color: $accent-dark;
+    border-color: $accent-darker;
   }
 }
 
 .btn--outline {
   background: transparent;
-  color: $accent;
+  color: $accent-dark;
   border-color: $accent-dark;
 
   &:hover {

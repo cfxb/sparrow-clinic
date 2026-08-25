@@ -12,6 +12,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# Jekyll ignores dotfiles and leading-underscore files by default, but
+# Cloudflare Pages reads _headers from the build output to set response
+# headers -- it has to be explicitly included or it's silently dropped.
+include:
+  - _headers
+
 exclude:
   - Gemfile
   - Gemfile.lock

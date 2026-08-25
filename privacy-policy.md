@@ -73,11 +73,11 @@ You may contact our Privacy Officer with questions or complaints about our priva
 
 ## 9. Website and cookies
 
-When you visit our website, certain technical information is collected automatically through cookies or similar technologies. This may include your IP address, browser type, device, and pages visited. We use this information to understand website traffic, improve site performance, and maintain security.
+We use Cloudflare Web Analytics to understand how our website is used and to improve its performance. This service does not use cookies and does not track or identify individual visitors. It collects only aggregate technical information — such as which pages are visited, general location (country), device and browser type, and referring website — and cannot be used to identify you personally.
 
-We do not use this information to personally identify you. You can manage or disable cookies through your browser settings, but some website features may not work properly without them.
+You are not tracked across other websites, and no advertising or profiling cookies are used on this site.
 
-If we add third-party tools (such as Google Analytics or social media integrations), those services may also collect data through cookies. In such cases, we ensure these providers comply with privacy laws and only use the information for the stated purposes.
+If we add other third-party tools in the future (such as additional analytics or social media integrations), we will ensure those providers comply with applicable privacy laws and use any information only for the stated purposes.
 
 ## Contact
 

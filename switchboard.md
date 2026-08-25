@@ -6,6 +6,8 @@ hero_title: Switchboard
 hero_subtitle: Clinical records software
 hero_image: /assets/images/hero-sky.jpg
 switchboard_schema: true
+noindex: true
+sitemap: false
 ---
 
 <style>

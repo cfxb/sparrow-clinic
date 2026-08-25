@@ -6,9 +6,16 @@ permalink: /robots.txt
 # Intent: the site is fully open to all crawlers. The explicit Allow blocks
 # below make our stance toward AI crawlers deliberate rather than relying on
 # the silent default. To opt out of any one, change its Allow to Disallow.
+#
+# /switchboard/ is excluded everywhere: it's a separate, unrelated software
+# product (a macOS practice-management app), and letting crawlers -- especially
+# AI answer engines -- read it alongside the clinical practice's own content
+# risks a confused answer to "what is Sparrow Neuropsychology." The page also
+# carries a noindex meta tag for the same reason.
 
 User-agent: *
 Allow: /
+Disallow: /switchboard/
 
 # AI-answer and AI-training crawlers — explicit policy.
 # Related user-triggered variants (ChatGPT-User, Claude-User, Perplexity-User,
@@ -17,17 +24,22 @@ Allow: /
 
 User-agent: GPTBot
 Allow: /
+Disallow: /switchboard/
 
 User-agent: ClaudeBot
 Allow: /
+Disallow: /switchboard/
 
 User-agent: PerplexityBot
 Allow: /
+Disallow: /switchboard/
 
 User-agent: Google-Extended
 Allow: /
+Disallow: /switchboard/
 
 User-agent: CCBot
 Allow: /
+Disallow: /switchboard/
 
 Sitemap: {{ site.url }}/sitemap.xml

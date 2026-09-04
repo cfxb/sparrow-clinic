@@ -8,7 +8,7 @@ toc: true
 ---
 
 **Sparrow Neuropsychology**\\
-*Last updated: September 9, 2025*
+*Last updated: September 3, 2026*
 
 Sparrow Neuropsychology complies with the standards of the College of Health and Care Professionals of British Columbia (CHCPBC) and with British Columbia's *Personal Information Protection Act (PIPA)*, which sets out rules for how organizations collect, use and disclose personal information. Where personal information crosses provincial or national borders, Canada's *Personal Information Protection and Electronic Documents Act (PIPEDA)* may also apply.
 
@@ -84,7 +84,8 @@ If we add other third-party tools in the future (such as additional analytics or
 **Privacy Officer:**\\
 Christopher Benjamin\\
 Sparrow Neuropsychology\\
-Vancouver, BC, Canada\\
+{{ site.data.contact.mailing_address }}, {{ site.data.contact.mailing_address2 }}\\
+{{ site.data.contact.mailing_city }}, {{ site.data.contact.mailing_province }} {{ site.data.contact.mailing_postal }}\\
 Phone: [{{ site.data.contact.phone }}](tel:{{ site.data.contact.phone_link }})\\
 Email: [{{ site.data.contact.privacy_email }}](mailto:{{ site.data.contact.privacy_email }})
 

@@ -4,6 +4,11 @@ city: Vancouver
 province: BC
 postal: V5T 1W2
 country: Canada
+mailing_address: PO Box 199
+mailing_address2: 3381 Cambie St
+mailing_city: Vancouver
+mailing_province: BC
+mailing_postal: V5Z 4R3
 phone: (236) 501-5099
 phone_link: "+12365015099"
 fax: (236) 501-5099

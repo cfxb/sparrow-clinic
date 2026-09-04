@@ -24,6 +24,12 @@ We welcome inquiries about neuropsychological assessment. If you are wondering w
 {{ site.data.contact.address }}\\
 {{ site.data.contact.city }}, {{ site.data.contact.province }} {{ site.data.contact.postal }}
 
+**Mailing address** _(for post only — not a drop-in location)_:
+
+{{ site.data.contact.mailing_address }}\\
+{{ site.data.contact.mailing_address2 }}\\
+{{ site.data.contact.mailing_city }}, {{ site.data.contact.mailing_province }} {{ site.data.contact.mailing_postal }}
+
 <div class="map-embed mt-3">
   <iframe src="https://maps.google.com/maps?q=208+-+175+E+Broadway+Vancouver+BC+V5T+1W2&t=&z=15&ie=UTF8&iwloc=&output=embed" allowfullscreen loading="lazy" title="Sparrow Neuropsychology location"></iframe>
 </div>

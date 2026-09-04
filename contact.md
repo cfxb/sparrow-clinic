@@ -24,7 +24,7 @@ We welcome inquiries about neuropsychological assessment. If you are wondering w
 {{ site.data.contact.address }}\\
 {{ site.data.contact.city }}, {{ site.data.contact.province }} {{ site.data.contact.postal }}
 
-**Mailing address** _(for post only — not a drop-in location)_:
+_Mailing address_
 
 {{ site.data.contact.mailing_address }}\\
 {{ site.data.contact.mailing_address2 }}\\

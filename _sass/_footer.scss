@@ -35,8 +35,15 @@
 }
 
 .site-footer__contact p {
-  margin-bottom: 0.35rem;
+  margin-bottom: 0.7rem;
   font-size: 0.72rem;
+}
+
+.site-footer__label {
+  color: $text-dim;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.64rem;
 }
 
 .site-footer__right {

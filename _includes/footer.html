@@ -4,8 +4,12 @@
       <div>
         <h3 class="site-footer__heading">{{ site.data.contact.name }}</h3>
         <div class="site-footer__contact">
-          <p>{{ site.data.contact.address }}</p>
-          <p>{{ site.data.contact.city }}, {{ site.data.contact.province }} {{ site.data.contact.postal }}</p>
+          <p><span class="site-footer__label">Clinic (by appointment)</span><br>
+          {{ site.data.contact.address }}<br>
+          {{ site.data.contact.city }}, {{ site.data.contact.province }} {{ site.data.contact.postal }}</p>
+          <p><span class="site-footer__label">Mail (cheques, correspondence)</span><br>
+          {{ site.data.contact.mailing_address }}, {{ site.data.contact.mailing_address2 }}<br>
+          {{ site.data.contact.mailing_city }}, {{ site.data.contact.mailing_province }} {{ site.data.contact.mailing_postal }}</p>
         </div>
       </div>
       <div class="site-footer__right">

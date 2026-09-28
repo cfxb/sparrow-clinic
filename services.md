@@ -76,12 +76,7 @@ There is no difference in the quality of care provided. Reduced fees, when avail
 
 <div class="fee-card">
 <h3 class="fee-card__title">Baseline Cognitive Evaluation</h3>
-<p class="fee-card__desc">A focused assessment of key areas of thinking and memory to establish current cognitive functioning. May be appropriate when:
-<ul>
-<li>there are early or mild concerns about cognitive change</li>
-<li>a baseline is desired for future comparison</li>
-</ul>
-</p>
+<p class="fee-card__desc">A focused assessment of key areas of thinking and memory to establish current cognitive functioning. May be appropriate when there are early or mild concerns about cognitive change, or when a baseline is desired for future comparison.</p>
 </div>
 
 <div class="fee-card">
@@ -91,17 +86,7 @@ There is no difference in the quality of care provided. Reduced fees, when avail
 
 <div class="fee-card">
 <h3 class="fee-card__title">Consultation</h3>
-<p class="fee-card__desc">An opportunity to discuss concerns, review history, and determine appropriate next steps, in person or via Zoom. Common reasons include understanding changes in thinking, behaviour, or mood; discussing referrals or treatment options; and determining whether a formal assessment is likely to help.</p>
-<div class="fee-card__stats">
-<div class="fee-card__stat">
-<span class="fee-card__stat-label">Length</span>
-<span class="fee-card__stat-value">1–2 hrs</span>
-</div>
-<div class="fee-card__stat">
-<span class="fee-card__stat-label">Professional fee</span>
-<span class="fee-card__stat-value fee-card__stat-value--price">$250/hr</span>
-</div>
-</div>
+<p class="fee-card__desc">An opportunity to discuss concerns, review history, and determine appropriate next steps, in person or via Zoom. Consultations are 1–2 hours at $250 per hour. Common reasons include understanding changes in thinking, behaviour, or mood; discussing referrals or treatment options; and determining whether a formal assessment is likely to help.</p>
 </div>
 
 </div>

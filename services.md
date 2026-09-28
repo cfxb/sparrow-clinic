@@ -50,9 +50,9 @@ Some assessments require additional time or services depending on complexity, ex
 
 ## Fees
 
-Every assessment is tailored to the individual's needs. The time required depends on the referral question, the complexity of the history, the amount of collateral information to review, and the preparation of the written report.
+Every neuropsychological evaluation is a flat rate of **$4,000**. This covers the complete assessment process: clinical interview, testing, record review, interpretation, comprehensive written report, and feedback session.
 
-My professional fee is **$250 per hour**. Most evaluations have a typical time range, allowing an estimated total fee to be discussed before the assessment begins. Any adjustments to the estimated fee are discussed in advance.
+This flat-rate pricing reflects a professional fee of $250 per hour, with evaluations typically requiring 16–18 hours of professional time. Some assessments may require additional time or services depending on complexity, extensive record review, or urgent timelines. If this applies, it will always be discussed in advance.
 
 There is no difference in the quality of care provided. Reduced fees, when available, are discussed individually and do not affect the thoroughness or quality of the evaluation.
 
@@ -62,49 +62,16 @@ There is no difference in the quality of care provided. Reduced fees, when avail
 <span class="fee-card__badge">Most common</span>
 <h3 class="fee-card__title">Comprehensive Neuropsychological Evaluation</h3>
 <p class="fee-card__desc">Examines multiple areas of cognitive functioning, emotional wellbeing, and everyday functioning. This is the standard assessment for most referrals.</p>
-<div class="fee-card__stats">
-<div class="fee-card__stat">
-<span class="fee-card__stat-label">Your time</span>
-<span class="fee-card__stat-value">6–8 hrs</span>
-</div>
-<div class="fee-card__stat">
-<span class="fee-card__stat-label">Typical fee</span>
-<span class="fee-card__stat-value fee-card__stat-value--price">$4,000–$4,500</span>
-</div>
-</div>
-<p class="fee-card__note">Professional time: 16–18 hrs</p>
 </div>
 
 <div class="fee-card">
 <h3 class="fee-card__title">Psychoeducational Evaluation</h3>
 <p class="fee-card__desc">A comprehensive assessment of cognitive abilities and academic achievement to identify learning disorders, intellectual disabilities, giftedness, and other factors affecting educational performance. Recommendations support learning in post-secondary study or in the workplace.</p>
-<div class="fee-card__stats">
-<div class="fee-card__stat">
-<span class="fee-card__stat-label">Your time</span>
-<span class="fee-card__stat-value">6–8 hrs</span>
-</div>
-<div class="fee-card__stat">
-<span class="fee-card__stat-label">Typical fee</span>
-<span class="fee-card__stat-value fee-card__stat-value--price">~$4,000</span>
-</div>
-</div>
-<p class="fee-card__note">Professional time: ~16 hrs</p>
 </div>
 
 <div class="fee-card">
 <h3 class="fee-card__title">Neurology referral</h3>
 <p class="fee-card__desc">Focused evaluations for individuals with known neurological conditions, such as epilepsy, stroke, multiple sclerosis, or brain tumour. Commonly requested by neurologists and other medical specialists.</p>
-<div class="fee-card__stats">
-<div class="fee-card__stat">
-<span class="fee-card__stat-label">Your time</span>
-<span class="fee-card__stat-value">6–7 hrs</span>
-</div>
-<div class="fee-card__stat">
-<span class="fee-card__stat-label">Typical fee</span>
-<span class="fee-card__stat-value fee-card__stat-value--price">~$3,500</span>
-</div>
-</div>
-<p class="fee-card__note">Professional time: ~14 hrs</p>
 </div>
 
 <div class="fee-card">
@@ -115,33 +82,11 @@ There is no difference in the quality of care provided. Reduced fees, when avail
 <li>a baseline is desired for future comparison</li>
 </ul>
 </p>
-<div class="fee-card__stats">
-<div class="fee-card__stat">
-<span class="fee-card__stat-label">Your time</span>
-<span class="fee-card__stat-value">6–7 hrs</span>
-</div>
-<div class="fee-card__stat">
-<span class="fee-card__stat-label">Typical fee</span>
-<span class="fee-card__stat-value fee-card__stat-value--price">~$3,500</span>
-</div>
-</div>
-<p class="fee-card__note">Professional time: ~14 hrs</p>
 </div>
 
 <div class="fee-card">
 <h3 class="fee-card__title">Psychodiagnostic Evaluation</h3>
 <p class="fee-card__desc">A comprehensive psychological assessment focused on diagnosis and treatment planning for mental health conditions, without a detailed evaluation of cognitive functioning.</p>
-<div class="fee-card__stats">
-<div class="fee-card__stat">
-<span class="fee-card__stat-label">Your time</span>
-<span class="fee-card__stat-value">6–8 hrs</span>
-</div>
-<div class="fee-card__stat">
-<span class="fee-card__stat-label">Typical fee</span>
-<span class="fee-card__stat-value fee-card__stat-value--price">~$3,500</span>
-</div>
-</div>
-<p class="fee-card__note">Professional time: ~14 hrs</p>
 </div>
 
 <div class="fee-card">

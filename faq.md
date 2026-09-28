@@ -136,7 +136,7 @@ Email enquiries are typically answered within **three business days**. Messages 
 
 Neuropsychological assessment in private practice in British Columbia is typically priced as a package that reflects interview, record review, testing, scoring, interpretation, report writing, and a feedback session. Fees vary by complexity and by clinician.
 
-At Sparrow Neuropsychology, every neuropsychological evaluation is a flat rate of **$4,000**. This covers the complete assessment process: clinical interview, testing, record review, interpretation, comprehensive written report, and feedback session. For detailed information about different evaluation types and what each includes, see the [services page](/services/#fees).
+At Sparrow Neuropsychology, evaluations are priced as a flat rate that covers the complete assessment process: clinical interview, testing, record review, interpretation, comprehensive written report, and feedback session. For pricing details and information about different evaluation types, see the [services page](/services/#fees).
 
 Many extended health plans reimburse part or all of the cost — see [Does extended health insurance cover neuropsychology in BC?](#does-extended-health-insurance-cover-neuropsychology-in-bc) above. Patients are encouraged to confirm their coverage with their insurer in advance. Payment is by e-Interac transfer. A limited number of reduced-fee appointments are available in cases of financial need and do not affect the quality of care provided — if cost is a barrier to a needed assessment, please get in touch to discuss options.
 

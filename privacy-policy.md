@@ -8,7 +8,7 @@ toc: true
 ---
 
 **Sparrow Neuropsychology Inc.**\\
-*Last updated: September 29, 2026*
+*Last updated: October 1, 2026*
 
 Sparrow Neuropsychology Inc. follows the standards of the College of Health and Care Professionals of British Columbia (CHCPBC) and British Columbia's *Personal Information Protection Act (PIPA)*, which sets out rules for how organizations collect, use and disclose personal information. Where personal information crosses provincial or national borders, Canada's *Personal Information Protection and Electronic Documents Act (PIPEDA)* may also apply. This policy describes our general practices; your consent form explains how they apply to your assessment.
 
@@ -41,9 +41,9 @@ If a third party (for example, WorkSafeBC, an insurer, or a lawyer) requests or 
 
 We obtain consent before collecting, using, or disclosing personal information, except where permitted or required by law. Consent may be written, electronic, verbal, or implied, depending on the context and sensitivity.
 
-Before an assessment begins, we review our consent form with you and record your consent, which may be done electronically. Depending on the type of assessment, the form may also offer optional choices, such as contacting someone who knows you, sharing your report with another professional, or our use of AI tools (section 7). You may say no to any optional choice.
+Before an assessment begins, we review our consent form with you and record your consent, which may be done electronically. Depending on the type of assessment, the form may also offer optional choices, such as contacting someone who knows you, sending a copy of your report to someone you name, or our use of AI tools (section 7). You may say no to any optional choice.
 
-You may withdraw consent at any time, on reasonable notice, unless withdrawal would frustrate a legal obligation. We will explain any likely consequences, for example if a third party requested your assessment.
+You may withdraw consent at any time, on reasonable notice, unless withdrawal would frustrate a legal obligation. Withdrawal applies from that point forward; it does not undo anything already done or shared. We will explain any likely consequences, for example if a third party requested your assessment.
 
 ## 4. Limiting use, disclosure and retention
 
@@ -54,7 +54,7 @@ We use and disclose personal information only for the purposes listed above, unl
 - A legal requirement (e.g., a court order or subpoena), or a review of records by our regulator (CHCPBC)
 - A medical condition that affects safe driving, where the law requires a report
 - A law that gives an organization a right to certain information (e.g., WorkSafeBC, for a claim it manages)
-- A need to seek advice on our professional or legal obligations (without identifying you where possible)
+- A need to seek advice on our professional or legal obligations, for example from a lawyer or our professional liability insurer (without identifying you where possible)
 
 Where it is safe and appropriate, we will talk with you first.
 
@@ -71,18 +71,18 @@ We use administrative, physical, and technological safeguards to protect persona
 - Encryption and password protection on all devices, and multi-factor authentication on accounts
 - Encrypted cloud storage with reputable providers bound by contract
 - Encrypted backups
-- Secure online forms and messaging for booking, intake, and confidential communication
+- Secure options for confidential communication, such as encrypted email and a secure upload link
 - Access limited to those who need it. Anyone who assists us (for example, with scheduling or billing) sees only the information needed for their role and is bound by confidentiality.
 
-**Where information is stored.** Client records, email, and online booking and intake forms are stored, encrypted, with reputable providers, in Canada or another jurisdiction with strong privacy protection. Some services (for example, appointment reminders, video visits, test administration and scoring, billing, and AI tools) may process limited information outside Canada, including in the United States, where it may be subject to local laws. We choose Canadian storage where available, share only the minimum information necessary, and give test platforms de-identified or minimal information. Where a referring party requires it (for example, WorkSafeBC), your information stays in Canada, with narrow exceptions such as processing payment. The services we use may change over time; these safeguards still apply.
+**Where information is stored.** Client records and email are stored, encrypted, with reputable providers in Canada. Some services (for example, online booking and forms, appointment reminders, video visits, test administration and scoring, billing, and AI tools) may process or store information outside Canada, including in the United States, where it may be subject to local laws. We choose Canadian storage where available, share only the information each service needs, and give test platforms de-identified or minimal information. Where a referring party requires it (for example, WorkSafeBC), your information stays in Canada, with narrow exceptions such as processing payment. The services we use may change over time; these safeguards still apply.
 
-**Email and text.** Regular email and text are convenient but less secure. For anything confidential, please use our secure online forms or messaging.
+**Email and text.** Regular email and text are convenient but less secure. For anything confidential, please reply to an encrypted email from us or use our secure upload link.
 
 If a privacy breach occurs, we will act to contain it, and will notify affected individuals and regulators as required by law and professional standards.
 
 ## 7. Artificial intelligence (AI)
 
-Some of our consent forms include an optional choice about AI note-taking. With your consent, we may use secure AI tools to transcribe and summarize appointments and to help draft notes, reports, and correspondence. These tools may process identifiable personal and health information. We use only business AI services that keep information confidential, do not use it to train AI models, and do not keep audio recordings. Information is stored in Canada or a country with comparable privacy protection, and only in Canada where a referring party, such as WorkSafeBC, requires it.
+Some of our consent forms include an optional choice about AI note-taking. With your consent, we may use secure AI tools to transcribe and summarize appointments and to help draft notes, reports, and correspondence. These tools may process identifiable personal and health information. We use only business AI services that keep information confidential, do not use it to train AI models, and do not keep audio recordings.
 
 AI tools do not diagnose or make decisions about you. Dr. Benjamin reviews all AI-assisted work, all clinical opinions are his, and AI-assisted notes become part of your record. If your consent form does not offer this choice, or you decline, AI tools are not used with your identifiable information. You may withdraw consent at any time without affecting your assessment; withdrawal applies from that point forward.
 
